@@ -1,0 +1,2147 @@
+Brands,Colors,Rating,Selling Price,Discount,Type,Memory_MB,Storage_MB,Cluster
+SAMSUNG,Black,4.3,19330.0,1669.0000000000002,Mid-range,8192.0,131072.0,1
+Nokia,Other,3.8,10199.0,0.0,Mid-range,2048.0,16384.0,2
+Infinix,Blue,4.2,12999.0,0.0,Mid-range,4096.0,65536.0,3
+Apple,Black,4.6,49900.0,0.0,Upper mid-range,4096.0,65536.0,0
+GIONEE,Black,4.0,2199.0,0.0,Entry-level,8.0,16.0,0
+Apple,Other,4.6,42999.0,4901.0,Upper mid-range,3072.0,65536.0,0
+SAMSUNG,Other,4.2,20400.0,0.0,Mid-range,1536.0,16384.0,4
+Xiaomi,Blue,4.3,21736.0,1263.0,Mid-range,8192.0,131072.0,1
+SAMSUNG,Black,4.2,11989.0,0.0,Mid-range,4096.0,65536.0,1
+realme,Other,4.3,19999.0,2000.0,Mid-range,6144.0,131072.0,4
+OPPO,Black,4.3,10490.0,2500.0,Mid-range,3072.0,32768.0,3
+vivo,Gold/Yellow,4.4,29990.0,5000.0,Upper mid-range,8192.0,131072.0,1
+SAMSUNG,Gold/Yellow,4.2,6999.0,0.0,Entry-level,1024.0,16384.0,1
+Lenovo,Other,4.1,13999.000000000002,0.0,Mid-range,4096.0,65536.0,2
+ASUS,Blue,4.1,7699.000000000001,0.0,Entry-level,2048.0,32768.0,0
+Motorola,Other,3.9,9999.0,0.0,Entry-level,4096.0,65536.0,2
+realme,White,4.4,24999.0,2000.0,Mid-range,6144.0,131072.0,4
+GIONEE,Black,4.1,6989.999999999999,0.0,Entry-level,2048.0,16384.0,0
+Lenovo,Black,4.0,7999.0,0.0,Entry-level,2048.0,16384.0,3
+SAMSUNG,Black,4.3,18199.0,0.0,Mid-range,4096.0,131072.0,1
+SAMSUNG,Black,4.5,14990.0,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.0,7999.0,2500.0,Mid-range,2048.0,32768.0,1
+Infinix,Red,4.3,8999.0,0.0,Entry-level,3072.0,32768.0,2
+Apple,Green,4.6,49900.0,0.0,Upper mid-range,4096.0,65536.0,0
+SAMSUNG,Gold/Yellow,4.0,6989.999999999999,0.0,Entry-level,1536.0,8192.0,1
+SAMSUNG,Black,4.1,2399.0,0.0,Entry-level,2.0,2.0,1
+HTC,Black,3.8,35490.0,0.0,Upper mid-range,1024.0,8192.0,0
+realme,Black,4.4,28999.0,2999.9999999999995,Upper mid-range,8192.0,262144.0,1
+realme,Green,4.5,11999.0,1000.0,Mid-range,4096.0,131072.0,1
+Motorola,Gold/Yellow,4.3,10999.0,0.0,Mid-range,2048.0,16384.0,3
+ASUS,White,4.0,6999.0,0.0,Entry-level,2048.0,16384.0,0
+SAMSUNG,Other,4.2,22450.0,0.0,Mid-range,8192.0,131072.0,4
+GIONEE,Other,4.1,11999.0,0.0,Mid-range,3072.0,65536.0,0
+realme,Blue,4.4,31999.000000000004,2999.9999999999995,Upper mid-range,8192.0,131072.0,1
+SAMSUNG,Black,4.3,22900.0,0.0,Mid-range,4096.0,32768.0,1
+Infinix,Other,4.3,7499.0,1499.9999999999998,Entry-level,2048.0,32768.0,2
+realme,Black,4.5,13999.000000000002,2000.0,Mid-range,4096.0,65536.0,1
+Apple,Black,4.5,42900.0,0.0,Upper mid-range,3072.0,131072.0,0
+Apple,Silver/Gray,4.5,38999.0,901.0,Upper mid-range,2048.0,65536.0,0
+Motorola,White,4.4,24999.0,0.0,Mid-range,3072.0,32768.0,2
+Lenovo,White,3.9,7999.0,0.0,Entry-level,3072.0,16384.0,2
+OPPO,Other,4.4,34990.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,4
+realme,Blue,4.3,13999.000000000002,0.0,Mid-range,4096.0,65536.0,1
+Lenovo,White,3.7,7580.0,0.0,Entry-level,512.0,4096.0,2
+LG,Other,3.8,9990.0,0.0,Entry-level,3072.0,16384.0,2
+realme,Blue,4.3,8499.0,2500.0,Mid-range,3072.0,32768.0,1
+GIONEE,Other,4.4,11999.0,0.0,Mid-range,2048.0,16384.0,0
+Xiaomi,Silver/Gray,4.2,36290.0,1200.0,Upper mid-range,8192.0,131072.0,4
+LG,Gold/Yellow,4.0,25999.0,0.0,Mid-range,4096.0,32768.0,3
+realme,Red,4.4,17999.0,0.0,Mid-range,6144.0,65536.0,4
+Xiaomi,Other,4.4,11999.0,2999.9999999999995,Mid-range,4096.0,65536.0,4
+OPPO,Black,4.4,10990.0,5000.0,Mid-range,4096.0,65536.0,3
+OPPO,Gold/Yellow,4.1,15739.0,0.0,Mid-range,3072.0,16384.0,3
+HTC,Gold/Yellow,3.9,38800.0,0.0,Upper mid-range,3072.0,32768.0,0
+SAMSUNG,Blue,4.3,13989.999999999998,2600.0,Mid-range,4096.0,131072.0,1
+Xiaomi,Other,4.1,24492.0,3503.0,Mid-range,6144.0,131072.0,4
+OPPO,Red,4.3,12000.0,0.0,Mid-range,3072.0,32768.0,4
+HTC,Blue,3.9,16999.0,0.0,Mid-range,4096.0,131072.0,0
+Infinix,Green,4.5,14999.0,2000.0,Mid-range,6144.0,131072.0,2
+SAMSUNG,Black,4.3,17888.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,White,4.1,20700.0,0.0,Mid-range,3072.0,16384.0,4
+SAMSUNG,Gold/Yellow,4.2,6199.999999999999,0.0,Entry-level,1024.0,8192.0,1
+OPPO,Other,4.3,16990.0,0.0,Mid-range,4096.0,65536.0,4
+Xiaomi,Black,4.2,26999.000000000004,5000.0,Upper mid-range,6144.0,131072.0,1
+ASUS,White,3.8,6299.0,0.0,Entry-level,1024.0,8192.0,0
+SAMSUNG,Blue,4.2,12499.0,1499.9999999999998,Mid-range,4096.0,131072.0,1
+Xiaomi,Gold/Yellow,4.4,11499.0,0.0,Mid-range,4096.0,65536.0,1
+OPPO,Blue,4.4,13749.999999999998,0.0,Mid-range,3072.0,32768.0,3
+SAMSUNG,Black,4.0,37299.0,0.0,Upper mid-range,3072.0,32768.0,1
+OPPO,Blue,4.4,15990.000000000002,5000.0,Mid-range,4096.0,131072.0,3
+realme,White,4.5,16999.0,0.0,Mid-range,8192.0,131072.0,4
+OPPO,Green,4.4,19990.0,0.0,Mid-range,6144.0,262144.0,3
+realme,Red,4.3,47999.0,0.0,Upper mid-range,12288.0,262144.0,4
+OPPO,Silver/Gray,4.3,23490.0,2500.0,Mid-range,8192.0,262144.0,4
+OPPO,Silver/Gray,4.4,22990.0,0.0,Mid-range,4096.0,65536.0,4
+GIONEE,Black,3.9,6499.0,0.0,Entry-level,2048.0,32768.0,0
+LG,Other,4.1,14250.0,0.0,Mid-range,3072.0,16384.0,2
+Xiaomi,White,4.5,26758.0,0.0,Mid-range,8192.0,131072.0,4
+OPPO,Black,4.4,26798.0,2191.0,Mid-range,8192.0,262144.0,3
+LG,Black,3.7,12500.0,0.0,Mid-range,1024.0,8192.0,3
+OPPO,Gold/Yellow,4.3,12990.0,0.0,Mid-range,4096.0,65536.0,3
+vivo,Other,4.3,10990.0,0.0,Mid-range,4096.0,131072.0,4
+LG,Black,4.0,12790.999999999998,0.0,Mid-range,1024.0,4096.0,3
+OPPO,Gold/Yellow,4.2,9990.0,0.0,Entry-level,2048.0,16384.0,3
+SAMSUNG,Black,4.3,14995.0,0.0,Mid-range,3072.0,32768.0,1
+OPPO,Blue,4.3,10990.0,2000.0,Mid-range,3072.0,32768.0,3
+realme,Black,4.3,16499.0,500.0,Mid-range,4096.0,131072.0,1
+realme,Green,4.5,12999.0,2000.0,Mid-range,4096.0,131072.0,1
+GIONEE,Gold/Yellow,4.1,10499.0,0.0,Mid-range,4096.0,65536.0,0
+Infinix,Blue,4.3,14999.0,0.0,Mid-range,4096.0,65536.0,3
+Nokia,Black,4.0,10999.0,0.0,Mid-range,512.0,4096.0,3
+SAMSUNG,Black,4.2,9499.0,1000.0,Mid-range,3072.0,32768.0,1
+POCO,Blue,4.3,11999.0,1000.0,Mid-range,6144.0,65536.0,1
+IQOO,Silver/Gray,4.4,37990.0,2999.9999999999995,Upper mid-range,8192.0,262144.0,2
+SAMSUNG,White,4.1,17990.0,0.0,Mid-range,2048.0,16384.0,4
+Motorola,Gold/Yellow,3.9,12999.0,0.0,Mid-range,4096.0,65536.0,3
+LG,Black,3.9,19990.0,0.0,Mid-range,4096.0,65536.0,3
+GIONEE,Black,3.7,3990.0,0.0,Entry-level,1024.0,16384.0,0
+SAMSUNG,Gold/Yellow,4.3,13900.0,0.0,Mid-range,3072.0,32768.0,1
+Apple,Silver/Gray,4.5,25298.999999999996,4601.0,Upper mid-range,2048.0,32768.0,0
+SAMSUNG,Black,4.4,24000.0,0.0,Mid-range,6144.0,65536.0,1
+LG,Blue,4.1,5899.0,1934.0,Entry-level,2048.0,16384.0,3
+ASUS,Blue,4.3,15598.999999999998,0.0,Mid-range,4096.0,65536.0,0
+Xiaomi,Black,4.3,24999.0,5000.0,Upper mid-range,6144.0,131072.0,1
+ASUS,Blue,3.8,7499.0,0.0,Entry-level,2048.0,32768.0,0
+Nokia,Green,3.8,7990.000000000001,0.0,Entry-level,768.0,4096.0,3
+SAMSUNG,Black,4.2,14999.0,2999.9999999999995,Mid-range,4096.0,65536.0,1
+ASUS,Black,4.3,14999.0,0.0,Mid-range,4096.0,65536.0,0
+LG,White,3.7,8800.0,0.0,Entry-level,512.0,4096.0,2
+ASUS,Blue,4.3,15999.0,0.0,Mid-range,3072.0,32768.0,0
+SAMSUNG,White,3.9,16499.0,1499.9999999999998,Mid-range,6144.0,131072.0,4
+OPPO,Black,4.5,29489.0,0.0,Upper mid-range,8192.0,262144.0,3
+Apple,Gold/Yellow,4.6,42999.0,4901.0,Upper mid-range,3072.0,65536.0,0
+OPPO,Blue,4.4,15000.0,0.0,Mid-range,4096.0,32768.0,3
+realme,Gold/Yellow,4.3,41999.0,2000.0,Upper mid-range,12288.0,262144.0,1
+vivo,Black,4.3,15490.0,4000.0,Mid-range,6144.0,65536.0,1
+SAMSUNG,Gold/Yellow,4.4,28490.0,4960.0,Upper mid-range,8192.0,131072.0,1
+SAMSUNG,Black,4.4,16980.0,1220.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,White,4.0,44900.0,0.0,Upper mid-range,3072.0,32768.0,4
+realme,Other,4.5,20999.0,0.0,Mid-range,8192.0,131072.0,4
+OPPO,Silver/Gray,4.3,22990.0,0.0,Mid-range,8192.0,131072.0,4
+vivo,Other,4.3,32990.0,0.0,Upper mid-range,8192.0,131072.0,4
+Motorola,Red,4.1,6999.0,2999.9999999999995,Entry-level,2048.0,32768.0,2
+GIONEE,Black,4.0,6475.0,0.0,Entry-level,3072.0,16384.0,0
+OPPO,Black,4.5,11990.0,4000.0,Mid-range,4096.0,65536.0,3
+realme,Blue,4.4,15999.0,2000.0,Mid-range,6144.0,131072.0,1
+realme,White,4.6,35999.0,0.0,Upper mid-range,12288.0,262144.0,4
+SAMSUNG,Black,4.3,13499.0,0.0,Mid-range,1536.0,16384.0,1
+LG,Silver/Gray,3.9,6999.0,2999.9999999999995,Entry-level,3072.0,32768.0,2
+SAMSUNG,White,4.2,15999.0,0.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Gold/Yellow,4.3,12900.0,0.0,Mid-range,3072.0,32768.0,1
+OPPO,Black,4.3,14990.0,0.0,Mid-range,4096.0,65536.0,3
+SAMSUNG,Black,4.2,17499.0,1499.9999999999998,Mid-range,6144.0,131072.0,1
+POCO,Green,4.3,15999.0,4000.0,Mid-range,6144.0,131072.0,1
+OPPO,Blue,4.4,10490.0,1499.9999999999998,Mid-range,4096.0,65536.0,3
+OPPO,Black,4.4,10990.0,0.0,Mid-range,4096.0,65536.0,3
+Infinix,Other,4.5,9999.0,0.0,Entry-level,4096.0,65536.0,2
+OPPO,White,4.3,16990.0,2999.9999999999995,Mid-range,6144.0,131072.0,4
+SAMSUNG,Other,4.0,13224.0,675.0,Mid-range,4096.0,65536.0,4
+Google Pixel,Black,4.5,44999.0,0.0,Upper mid-range,4096.0,65536.0,0
+SAMSUNG,Black,4.3,2290.0,0.0,Entry-level,10.0,2.0,1
+OPPO,Black,4.3,22990.0,0.0,Mid-range,6144.0,65536.0,3
+ASUS,Blue,4.3,17999.0,0.0,Mid-range,6144.0,65536.0,0
+Apple,Gold/Yellow,4.5,34900.0,0.0,Upper mid-range,2048.0,131072.0,0
+Lenovo,Black,4.2,9999.0,0.0,Entry-level,3072.0,32768.0,3
+Xiaomi,White,4.3,16488.0,510.99999999999994,Mid-range,4096.0,65536.0,4
+SAMSUNG,Black,4.2,8780.0,0.0,Entry-level,3072.0,32768.0,1
+Nokia,Silver/Gray,4.1,7138.999999999999,0.0,Entry-level,3072.0,16384.0,2
+Xiaomi,Black,4.3,21999.0,2999.9999999999995,Mid-range,6144.0,131072.0,1
+Nokia,Black,4.2,3740.0,0.0,Entry-level,8.0,16.0,3
+Infinix,Other,4.4,11999.0,0.0,Mid-range,4096.0,65536.0,2
+SAMSUNG,Black,3.9,4988.0,0.0,Entry-level,512.0,4096.0,1
+Xiaomi,Black,4.3,11990.0,909.0,Mid-range,4096.0,65536.0,1
+OPPO,White,3.8,8490.0,0.0,Entry-level,1024.0,16384.0,4
+ASUS,Gold/Yellow,3.9,15999.0,0.0,Mid-range,2048.0,16384.0,0
+OPPO,Black,4.4,18990.0,4000.0,Mid-range,8192.0,131072.0,3
+vivo,Black,4.5,15990.000000000002,0.0,Mid-range,4096.0,65536.0,1
+Xiaomi,Blue,4.4,11499.0,2500.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.4,10000.0,0.0,Mid-range,2048.0,32768.0,1
+GIONEE,Other,3.9,5950.0,0.0,Entry-level,3072.0,32768.0,0
+Xiaomi,Blue,4.4,14999.0,0.0,Mid-range,4096.0,65536.0,1
+LG,Other,3.8,12950.0,0.0,Mid-range,4096.0,65536.0,2
+OPPO,Gold/Yellow,4.3,21999.0,0.0,Mid-range,8192.0,131072.0,3
+realme,White,4.5,24999.0,0.0,Mid-range,8192.0,262144.0,4
+Infinix,Other,4.2,16999.0,2999.9999999999995,Mid-range,8192.0,262144.0,2
+realme,Blue,4.5,20999.0,0.0,Mid-range,8192.0,131072.0,1
+realme,Blue,4.4,35999.0,2999.9999999999995,Upper mid-range,12288.0,262144.0,1
+Infinix,Black,4.3,9299.0,1700.0,Mid-range,4096.0,65536.0,3
+Motorola,Silver/Gray,4.4,27998.999999999996,0.0,Mid-range,4096.0,65536.0,2
+Xiaomi,Blue,4.3,9450.0,0.0,Entry-level,3072.0,32768.0,1
+realme,Black,4.4,17999.0,4000.0,Mid-range,6144.0,131072.0,1
+vivo,Blue,4.3,14990.0,0.0,Mid-range,8192.0,262144.0,1
+realme,Black,4.4,26999.000000000004,2999.9999999999995,Upper mid-range,8192.0,131072.0,1
+SAMSUNG,Black,4.3,27499.000000000004,2999.9999999999995,Upper mid-range,6144.0,131072.0,1
+ASUS,Gold/Yellow,4.2,7199.0,0.0,Entry-level,2048.0,16384.0,0
+realme,Green,4.4,20999.0,2999.9999999999995,Mid-range,8192.0,131072.0,1
+HTC,Blue,4.0,6999.0,0.0,Entry-level,1024.0,16384.0,0
+Google Pixel,Black,4.5,31999.000000000004,0.0,Upper mid-range,6144.0,131072.0,0
+SAMSUNG,Gold/Yellow,4.1,5990.0,3508.9999999999995,Entry-level,2048.0,16384.0,1
+realme,Green,4.3,11499.0,1499.9999999999998,Mid-range,4096.0,65536.0,1
+vivo,Blue,4.3,18990.0,2000.0,Mid-range,3072.0,16384.0,1
+GIONEE,Blue,3.7,4899.0,4100.0,Entry-level,1024.0,16384.0,0
+SAMSUNG,White,3.8,19999.0,0.0,Mid-range,1536.0,8192.0,4
+Motorola,Gold/Yellow,3.9,14999.0,0.0,Mid-range,3072.0,32768.0,3
+Infinix,Other,4.2,12499.0,2500.0,Mid-range,6144.0,131072.0,2
+OPPO,White,4.5,13499.0,0.0,Mid-range,4096.0,65536.0,4
+Xiaomi,Blue,4.3,10999.0,0.0,Mid-range,4096.0,65536.0,1
+realme,Black,4.3,17999.0,1000.0,Mid-range,8192.0,131072.0,1
+LG,Black,4.4,50000.0,0.0,Flagship,4096.0,65536.0,3
+GIONEE,Blue,4.0,8750.0,0.0,Entry-level,4096.0,32768.0,0
+Apple,Gold/Yellow,4.5,36999.0,901.0,Upper mid-range,3072.0,32768.0,0
+GIONEE,Other,3.8,3990.0,0.0,Entry-level,1024.0,16384.0,0
+realme,Blue,4.3,27998.999999999996,2000.0,Upper mid-range,8192.0,131072.0,1
+SAMSUNG,Gold/Yellow,4.1,8090.0,0.0,Entry-level,1536.0,8192.0,1
+Xiaomi,Green,4.3,28999.0,5000.0,Upper mid-range,8192.0,131072.0,1
+OPPO,Blue,4.4,14990.0,4000.0,Mid-range,4096.0,65536.0,3
+realme,Black,4.4,19999.0,2000.0,Mid-range,8192.0,131072.0,1
+Nokia,Other,4.1,20999.0,0.0,Mid-range,6144.0,65536.0,2
+SAMSUNG,Blue,3.9,21999.0,0.0,Mid-range,2048.0,16384.0,1
+SAMSUNG,Blue,4.2,12499.0,2000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.1,2814.9999999999995,0.0,Entry-level,32.0,2.0,1
+POCO,Blue,4.3,7999.0,2000.0,Entry-level,3072.0,32768.0,1
+Nokia,Other,4.0,39000.0,0.0,Upper mid-range,4096.0,65536.0,2
+realme,Blue,4.5,10999.0,0.0,Mid-range,4096.0,65536.0,1
+ASUS,White,4.1,7499.0,0.0,Entry-level,2048.0,16384.0,0
+realme,Red,4.5,9990.0,0.0,Entry-level,3072.0,32768.0,4
+Xiaomi,Black,4.4,8389.0,0.0,Entry-level,3072.0,32768.0,1
+HTC,Red,4.0,12399.999999999998,0.0,Mid-range,1024.0,16384.0,0
+realme,Green,4.5,16999.0,1000.0,Mid-range,8192.0,131072.0,1
+vivo,Gold/Yellow,4.5,25990.0,0.0,Mid-range,6144.0,65536.0,1
+SAMSUNG,Gold/Yellow,4.0,7549.999999999999,0.0,Entry-level,1024.0,8192.0,1
+SAMSUNG,Blue,3.9,16499.0,1499.9999999999998,Mid-range,6144.0,131072.0,1
+ASUS,Blue,4.3,13199.0,0.0,Mid-range,3072.0,32768.0,0
+Lenovo,Black,4.1,7490.0,4009.0,Mid-range,3072.0,32768.0,3
+SAMSUNG,White,4.5,37499.0,3500.0,Upper mid-range,8192.0,131072.0,4
+Xiaomi,Gold/Yellow,4.3,7699.000000000001,0.0,Entry-level,2048.0,32768.0,1
+Xiaomi,Blue,4.3,16999.0,0.0,Mid-range,6144.0,65536.0,1
+vivo,Black,4.4,7990.000000000001,0.0,Entry-level,2048.0,16384.0,1
+realme,Silver/Gray,4.3,10499.0,2500.0,Mid-range,4096.0,65536.0,4
+Nokia,Black,4.2,1900.0,0.0,Entry-level,4.0,16384.0,3
+Xiaomi,Red,4.4,12499.0,0.0,Mid-range,4096.0,65536.0,4
+realme,Blue,4.5,17999.0,0.0,Mid-range,4096.0,65536.0,1
+Apple,Other,4.5,49999.0,0.0,Upper mid-range,2048.0,65536.0,0
+Nokia,Other,3.9,12999.0,3800.0,Mid-range,4096.0,65536.0,2
+realme,White,4.3,27998.999999999996,2000.0,Upper mid-range,8192.0,131072.0,4
+Motorola,White,3.9,5499.0,0.0,Entry-level,1024.0,16384.0,2
+realme,Other,4.4,9999.0,1000.0,Mid-range,4096.0,65536.0,4
+OPPO,Blue,4.2,19990.0,1000.0,Mid-range,6144.0,131072.0,3
+SAMSUNG,Gold/Yellow,4.4,12990.0,0.0,Mid-range,3072.0,32768.0,1
+Lenovo,Blue,3.9,7990.000000000001,2009.0000000000002,Entry-level,4096.0,65536.0,3
+OPPO,Blue,4.3,16990.0,1000.0,Mid-range,6144.0,131072.0,3
+vivo,Blue,4.5,16989.0,0.0,Mid-range,6144.0,65536.0,1
+Lenovo,Black,3.8,7499.0,0.0,Entry-level,1024.0,4096.0,3
+GIONEE,Black,4.0,6899.000000000001,51.0,Entry-level,3072.0,32768.0,0
+Nokia,Blue,3.9,13989.999999999998,0.0,Mid-range,3072.0,32768.0,3
+vivo,Blue,4.4,22654.0,0.0,Mid-range,4096.0,32768.0,1
+Infinix,Other,4.5,14499.0,2500.0,Mid-range,6144.0,131072.0,2
+realme,Other,4.4,7499.0,500.0,Entry-level,2048.0,32768.0,4
+Apple,Gold/Yellow,4.5,31999.000000000004,0.0,Upper mid-range,2048.0,16384.0,0
+Xiaomi,Blue,4.4,10121.0,0.0,Mid-range,4096.0,65536.0,1
+OPPO,White,4.3,13899.0,0.0,Mid-range,6144.0,131072.0,4
+Xiaomi,Black,4.5,7589.000000000001,0.0,Entry-level,2048.0,32768.0,1
+LG,Other,4.0,16990.0,0.0,Mid-range,3072.0,32768.0,2
+SAMSUNG,White,4.3,19900.0,0.0,Mid-range,4096.0,131072.0,4
+Infinix,Blue,4.3,7499.0,1499.9999999999998,Entry-level,2048.0,32768.0,3
+Motorola,Other,4.1,10999.0,4000.0,Mid-range,4096.0,65536.0,2
+POCO,Red,4.4,11499.0,3500.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Blue,4.2,6999.0,0.0,Entry-level,1024.0,16384.0,1
+SAMSUNG,Black,4.3,29998.0,0.0,Upper mid-range,8192.0,131072.0,1
+HTC,White,3.9,7999.0,0.0,Entry-level,1024.0,8192.0,2
+GIONEE,Blue,4.1,9250.0,0.0,Entry-level,4096.0,65536.0,0
+Motorola,Other,4.3,16499.0,3500.0,Mid-range,6144.0,131072.0,2
+Motorola,Other,3.9,21499.0,3500.0,Mid-range,6144.0,131072.0,2
+Motorola,Black,4.2,6999.0,0.0,Entry-level,2048.0,16384.0,3
+ASUS,Black,4.1,6989.999999999999,0.0,Entry-level,2048.0,16384.0,0
+OPPO,Black,4.1,10490.0,0.0,Mid-range,3072.0,32768.0,3
+Xiaomi,Blue,4.4,11999.0,0.0,Mid-range,4096.0,65536.0,1
+Nokia,Black,3.8,2790.0,0.0,Entry-level,32.0,64.0,3
+Lenovo,White,4.0,8999.0,0.0,Entry-level,2048.0,8192.0,2
+Xiaomi,Other,4.4,17765.0,0.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Gold/Yellow,4.0,33900.0,0.0,Upper mid-range,3072.0,32768.0,1
+realme,White,4.5,14999.0,1000.0,Mid-range,6144.0,65536.0,4
+SAMSUNG,Gold/Yellow,4.3,9499.0,0.0,Entry-level,2048.0,32768.0,1
+Xiaomi,Other,4.4,23999.0,0.0,Mid-range,8192.0,131072.0,4
+Infinix,Gold/Yellow,4.2,9999.0,0.0,Entry-level,3072.0,32768.0,2
+POCO,Black,4.3,7999.0,2000.0,Entry-level,3072.0,32768.0,1
+Apple,Gold/Yellow,4.5,38999.0,901.0,Upper mid-range,2048.0,65536.0,0
+ASUS,Gold/Yellow,3.8,5699.0,0.0,Entry-level,1024.0,8192.0,0
+OPPO,Other,4.3,12990.0,0.0,Mid-range,3072.0,32768.0,4
+SAMSUNG,White,4.3,15899.0,3001.0,Mid-range,4096.0,65536.0,4
+realme,Silver/Gray,4.3,13499.0,1499.9999999999998,Mid-range,4096.0,65536.0,4
+Nokia,Black,3.8,3886.0,0.0,Entry-level,16.0,32768.0,3
+Nokia,Black,3.9,2142.0,50.0,Entry-level,4.0,4.0,3
+SAMSUNG,White,4.3,27499.000000000004,2999.9999999999995,Upper mid-range,6144.0,131072.0,4
+ASUS,Blue,4.3,12999.0,0.0,Mid-range,3072.0,32768.0,0
+GIONEE,Gold/Yellow,4.0,7674.999999999999,1324.0,Entry-level,4096.0,65536.0,0
+OPPO,Black,4.2,30994.0,0.0,Upper mid-range,8192.0,131072.0,3
+POCO,Blue,4.4,8999.0,2999.9999999999995,Mid-range,4096.0,65536.0,1
+SAMSUNG,Other,4.1,21999.0,2999.9999999999995,Mid-range,6144.0,131072.0,4
+vivo,Blue,4.1,16490.0,3500.0,Mid-range,4096.0,131072.0,1
+realme,Red,4.4,18999.0,0.0,Mid-range,6144.0,131072.0,4
+Infinix,Other,4.4,12999.0,0.0,Mid-range,4096.0,65536.0,2
+ASUS,White,4.0,13999.000000000002,0.0,Mid-range,3072.0,16384.0,0
+OPPO,Other,4.4,12990.0,4000.0,Mid-range,4096.0,131072.0,4
+realme,Silver/Gray,4.3,16999.0,2000.0,Mid-range,6144.0,65536.0,4
+Infinix,Other,4.3,10999.0,0.0,Mid-range,4096.0,65536.0,2
+Xiaomi,Black,4.3,25990.0,0.0,Mid-range,6144.0,131072.0,1
+Motorola,Black,4.3,18999.0,0.0,Mid-range,4096.0,65536.0,3
+realme,Black,4.3,10999.0,3991.0,Mid-range,6144.0,131072.0,1
+Lenovo,Gold/Yellow,4.1,10999.0,0.0,Mid-range,3072.0,32768.0,3
+Nokia,Blue,4.3,28830.999999999996,0.0,Mid-range,4096.0,65536.0,3
+OPPO,White,4.4,14990.0,2999.9999999999995,Mid-range,4096.0,131072.0,4
+SAMSUNG,White,4.1,21999.0,2999.9999999999995,Mid-range,6144.0,131072.0,4
+Infinix,Green,4.3,9299.0,1700.0,Mid-range,4096.0,65536.0,2
+Xiaomi,White,4.3,24338.0,1651.0,Mid-range,6144.0,131072.0,4
+Xiaomi,White,4.4,38999.0,0.0,Upper mid-range,8192.0,262144.0,4
+SAMSUNG,Blue,4.2,14999.0,2999.9999999999995,Mid-range,4096.0,65536.0,1
+Apple,Other,4.6,49900.0,0.0,Upper mid-range,3072.0,65536.0,0
+SAMSUNG,Black,4.3,11990.0,260.0,Mid-range,4096.0,65536.0,1
+realme,Other,4.5,22999.0,4000.0,Mid-range,8192.0,131072.0,4
+OPPO,Gold/Yellow,4.3,16990.0,1000.0,Mid-range,6144.0,131072.0,3
+SAMSUNG,Blue,4.2,9539.0,850.0,Mid-range,3072.0,32768.0,1
+realme,Blue,4.4,10999.0,0.0,Mid-range,4096.0,65536.0,1
+Nokia,Black,4.1,3428.9999999999995,16.0,Entry-level,8.0,16.0,3
+OPPO,Gold/Yellow,4.4,10990.0,0.0,Mid-range,3072.0,16384.0,3
+SAMSUNG,White,4.0,5999.0,0.0,Entry-level,512.0,4096.0,4
+LG,Black,3.7,7299.0,0.0,Entry-level,3072.0,32768.0,3
+LG,Black,4.5,10199.0,0.0,Mid-range,512.0,4096.0,3
+ASUS,Other,4.3,17999.0,0.0,Mid-range,4096.0,65536.0,0
+Nokia,Gold/Yellow,4.2,17979.0,0.0,Mid-range,3072.0,32768.0,3
+realme,Blue,4.4,10499.0,500.0,Mid-range,4096.0,65536.0,1
+GIONEE,Blue,4.1,7999.0,0.0,Entry-level,4096.0,65536.0,0
+Apple,Other,4.5,25298.999999999996,4601.0,Upper mid-range,2048.0,32768.0,0
+Apple,Blue,4.6,42999.0,4901.0,Upper mid-range,3072.0,65536.0,0
+Nokia,Other,4.1,12998.0,0.0,Mid-range,4096.0,65536.0,2
+ASUS,White,3.9,15999.0,0.0,Mid-range,2048.0,16384.0,0
+POCO,Blue,4.5,30999.0,0.0,Upper mid-range,8192.0,262144.0,1
+realme,Blue,4.2,8799.0,1200.0,Entry-level,4096.0,65536.0,1
+Infinix,Other,4.4,8999.0,0.0,Entry-level,2048.0,32768.0,2
+OPPO,Red,4.4,24990.0,0.0,Mid-range,6144.0,65536.0,4
+realme,Blue,4.3,13499.0,1499.9999999999998,Mid-range,4096.0,65536.0,1
+Xiaomi,Blue,4.4,9499.0,0.0,Entry-level,3072.0,65536.0,1
+SAMSUNG,White,3.8,20400.0,0.0,Mid-range,1536.0,8192.0,4
+Infinix,Gold/Yellow,4.0,7499.0,0.0,Entry-level,3072.0,16384.0,2
+Apple,Gold/Yellow,4.4,49999.0,0.0,Upper mid-range,2048.0,16384.0,0
+SAMSUNG,Blue,4.3,16990.0,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.3,17578.0,1921.0000000000002,Mid-range,6144.0,131072.0,1
+SAMSUNG,Silver/Gray,3.9,38900.0,0.0,Upper mid-range,4096.0,32768.0,4
+SAMSUNG,White,4.4,24000.0,0.0,Mid-range,6144.0,65536.0,4
+Nokia,Black,4.0,7899.0,0.0,Entry-level,3072.0,32768.0,3
+SAMSUNG,Black,4.3,16298.999999999998,0.0,Mid-range,6144.0,65536.0,1
+SAMSUNG,White,4.0,6048.0,0.0,Entry-level,512.0,4096.0,4
+Xiaomi,Black,4.2,10070.0,58.99999999999999,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.5,40999.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,1
+Infinix,Other,4.2,10999.0,0.0,Mid-range,6144.0,65536.0,2
+POCO,Blue,4.4,18999.0,5000.0,Mid-range,6144.0,131072.0,1
+POCO,Gold/Yellow,4.4,16999.0,2999.9999999999995,Mid-range,6144.0,131072.0,1
+Xiaomi,Other,4.4,27998.999999999996,0.0,Mid-range,8192.0,131072.0,4
+GIONEE,Black,4.1,15999.0,0.0,Mid-range,2048.0,16384.0,0
+LG,Other,4.5,42021.0,0.0,Upper mid-range,3072.0,16384.0,2
+SAMSUNG,Black,4.3,19990.0,0.0,Mid-range,8192.0,131072.0,1
+GIONEE,Black,3.9,1889.9999999999998,0.0,Entry-level,8.0,16.0,0
+Lenovo,Black,3.8,5999.0,0.0,Entry-level,2048.0,16384.0,3
+Lenovo,Other,4.3,16999.0,0.0,Mid-range,3072.0,32768.0,2
+Lenovo,Gold/Yellow,4.0,7999.0,0.0,Entry-level,2048.0,16384.0,3
+realme,White,4.3,16999.0,2000.0,Mid-range,8192.0,131072.0,4
+vivo,Red,4.4,16990.0,4000.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Black,4.3,14990.0,0.0,Mid-range,3072.0,32768.0,1
+Apple,Silver/Gray,4.5,49999.0,0.0,Upper mid-range,2048.0,65536.0,0
+SAMSUNG,Black,4.1,14490.0,0.0,Mid-range,2048.0,16384.0,1
+Apple,Gold/Yellow,4.5,25298.999999999996,4601.0,Upper mid-range,2048.0,32768.0,0
+Apple,Black,4.5,44900.0,0.0,Upper mid-range,2048.0,131072.0,0
+Lenovo,Gold/Yellow,4.1,6999.0,0.0,Entry-level,2048.0,16384.0,3
+Infinix,Blue,4.3,8999.0,0.0,Entry-level,3072.0,32768.0,3
+GIONEE,Blue,3.8,4190.0,3048.0,Entry-level,1024.0,16384.0,0
+POCO,Green,4.3,7999.0,2000.0,Entry-level,3072.0,32768.0,1
+SAMSUNG,Black,4.4,24999.0,0.0,Mid-range,4096.0,32768.0,1
+Nokia,Black,4.2,1149.0,0.0,Entry-level,4.0,4.0,3
+Apple,Other,4.6,47999.0,4901.0,Flagship,3072.0,131072.0,0
+realme,Silver/Gray,4.4,10999.0,0.0,Mid-range,4096.0,65536.0,4
+Nokia,Blue,3.7,7290.0,0.0,Entry-level,2048.0,16384.0,3
+SAMSUNG,Black,4.0,14500.0,0.0,Mid-range,2048.0,16384.0,1
+Nokia,Blue,3.8,9999.0,1100.0,Mid-range,3072.0,32768.0,3
+Xiaomi,Red,4.2,7999.0,0.0,Entry-level,2048.0,32768.0,4
+Infinix,Other,4.3,13999.000000000002,0.0,Mid-range,6144.0,131072.0,2
+Infinix,Blue,4.3,8299.0,1700.0,Entry-level,3072.0,32768.0,3
+SAMSUNG,White,4.2,14490.0,509.0,Mid-range,6144.0,131072.0,4
+POCO,Other,4.4,13999.000000000002,4000.0,Mid-range,4096.0,65536.0,4
+ASUS,Red,4.0,11999.0,0.0,Mid-range,3072.0,32768.0,0
+vivo,Other,4.3,22490.0,0.0,Mid-range,8192.0,131072.0,4
+Xiaomi,Other,4.3,24999.0,5000.0,Upper mid-range,6144.0,131072.0,4
+Xiaomi,Gold/Yellow,4.3,9999.0,0.0,Entry-level,3072.0,32768.0,1
+OPPO,Black,4.4,9490.0,3500.0,Mid-range,3072.0,32768.0,3
+Nokia,Other,4.1,19999.0,0.0,Mid-range,4096.0,65536.0,2
+SAMSUNG,Black,3.8,5795.0,0.0,Entry-level,512.0,4096.0,1
+GIONEE,Silver/Gray,3.8,7999.0,0.0,Entry-level,3072.0,32768.0,0
+ASUS,Black,4.1,10999.0,0.0,Mid-range,3072.0,32768.0,0
+realme,Other,4.5,19999.0,5000.0,Mid-range,6144.0,131072.0,4
+Nokia,White,4.3,18599.0,0.0,Mid-range,4096.0,65536.0,2
+SAMSUNG,Black,4.2,15300.000000000002,0.0,Mid-range,3072.0,32768.0,1
+Apple,Red,4.6,42999.0,4901.0,Upper mid-range,3072.0,65536.0,0
+Xiaomi,Other,4.3,42999.0,0.0,Upper mid-range,8192.0,262144.0,4
+realme,White,4.5,21999.0,0.0,Mid-range,8192.0,131072.0,4
+SAMSUNG,Black,4.2,10499.0,1000.0,Mid-range,4096.0,65536.0,1
+vivo,White,4.3,14990.0,0.0,Mid-range,8192.0,262144.0,4
+GIONEE,Gold/Yellow,4.0,15490.0,0.0,Mid-range,4096.0,32768.0,0
+SAMSUNG,Gold/Yellow,4.2,29990.0,0.0,Upper mid-range,6144.0,65536.0,1
+realme,Silver/Gray,4.3,21999.0,2000.0,Mid-range,8192.0,131072.0,4
+Xiaomi,Blue,4.5,7619.0,0.0,Entry-level,2048.0,32768.0,1
+SAMSUNG,Blue,4.3,30900.0,0.0,Upper mid-range,6144.0,131072.0,1
+realme,Blue,4.4,17999.0,0.0,Mid-range,6144.0,65536.0,1
+Infinix,Other,4.3,15999.0,2999.9999999999995,Mid-range,8192.0,131072.0,2
+SAMSUNG,Black,4.3,8990.0,0.0,Entry-level,2048.0,16384.0,1
+GIONEE,Gold/Yellow,4.0,6450.0,0.0,Entry-level,3072.0,16384.0,0
+Motorola,Black,3.8,15990.000000000002,0.0,Mid-range,512.0,16384.0,3
+Nokia,Blue,4.1,16199.0,0.0,Mid-range,3072.0,16384.0,3
+HTC,White,3.7,16990.0,0.0,Mid-range,2048.0,16384.0,2
+POCO,Other,4.5,15999.0,4000.0,Mid-range,6144.0,131072.0,4
+ASUS,Black,4.0,4499.0,0.0,Entry-level,2048.0,16384.0,0
+SAMSUNG,Black,3.8,26000.0,0.0,Mid-range,1536.0,8192.0,1
+SAMSUNG,Black,4.3,21450.0,0.0,Mid-range,6144.0,131072.0,1
+Apple,Gold/Yellow,4.6,47999.0,4901.0,Flagship,3072.0,131072.0,0
+SAMSUNG,Black,4.3,8170.0,0.0,Entry-level,2048.0,16384.0,1
+LG,Other,3.9,19990.0,0.0,Mid-range,4096.0,65536.0,2
+Nokia,Black,4.2,1399.0,200.0,Entry-level,4.0,4.0,3
+Motorola,Blue,4.2,8999.0,4000.0,Mid-range,4096.0,65536.0,3
+OPPO,Black,4.3,17999.0,0.0,Mid-range,6144.0,131072.0,3
+Xiaomi,Blue,4.4,11199.0,791.0,Mid-range,4096.0,131072.0,1
+realme,Silver/Gray,4.4,11490.0,1499.9999999999998,Mid-range,4096.0,65536.0,4
+SAMSUNG,Blue,4.0,8999.0,0.0,Entry-level,1024.0,8192.0,1
+vivo,Silver/Gray,4.4,21990.0,0.0,Mid-range,8192.0,131072.0,4
+Xiaomi,Black,4.5,28999.0,0.0,Mid-range,6144.0,131072.0,1
+ASUS,Black,4.1,7990.000000000001,0.0,Entry-level,3072.0,32768.0,0
+SAMSUNG,White,3.9,15989.0,500.0,Mid-range,6144.0,131072.0,4
+realme,Blue,4.4,10999.0,1000.0,Mid-range,4096.0,131072.0,1
+vivo,Black,4.4,15900.0,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Other,4.4,28999.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,4
+SAMSUNG,Black,4.3,12999.0,2000.0,Mid-range,4096.0,65536.0,1
+LG,White,4.0,13299.000000000002,0.0,Mid-range,768.0,4096.0,2
+OPPO,Blue,4.5,21150.0,0.0,Mid-range,6144.0,65536.0,3
+Lenovo,Gold/Yellow,4.3,17999.0,0.0,Mid-range,4096.0,32768.0,3
+SAMSUNG,Blue,4.0,11499.0,2000.0,Mid-range,3072.0,32768.0,1
+Motorola,Other,4.3,9499.0,2500.0,Mid-range,4096.0,65536.0,2
+SAMSUNG,Black,4.1,16999.0,0.0,Mid-range,6144.0,131072.0,1
+OPPO,Blue,4.3,15990.000000000002,0.0,Mid-range,4096.0,131072.0,3
+Xiaomi,Red,4.4,11948.0,0.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Black,4.2,2050.0,0.0,Entry-level,4.0,2.0,1
+Motorola,Blue,4.3,12999.0,2999.9999999999995,Mid-range,4096.0,65536.0,3
+ASUS,Black,4.0,4990.0,0.0,Entry-level,2048.0,8192.0,0
+Infinix,Other,4.3,8299.0,1700.0,Entry-level,3072.0,32768.0,2
+ASUS,Gold/Yellow,4.1,10999.0,0.0,Mid-range,3072.0,32768.0,0
+OPPO,Other,4.2,16990.0,4000.0,Mid-range,6144.0,131072.0,4
+OPPO,Blue,4.4,34990.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,3
+SAMSUNG,Gold/Yellow,4.3,17889.0,0.0,Mid-range,4096.0,32768.0,1
+Xiaomi,Red,4.5,17999.0,0.0,Mid-range,6144.0,65536.0,4
+LG,Blue,4.0,9999.0,0.0,Entry-level,4096.0,65536.0,3
+Infinix,Black,4.2,12499.0,2500.0,Mid-range,6144.0,131072.0,3
+Nokia,White,4.1,17599.0,0.0,Mid-range,512.0,8192.0,2
+realme,Blue,4.3,15499.0,500.0,Mid-range,4096.0,65536.0,1
+Xiaomi,White,4.4,8561.0,0.0,Entry-level,3072.0,65536.0,4
+SAMSUNG,Blue,4.4,36000.0,0.0,Upper mid-range,6144.0,131072.0,1
+Infinix,Green,4.3,7499.0,1499.9999999999998,Entry-level,2048.0,32768.0,2
+Xiaomi,Blue,4.3,24890.0,97.99999999999999,Mid-range,8192.0,131072.0,1
+POCO,Blue,4.5,21999.0,0.0,Mid-range,6144.0,65536.0,1
+realme,Green,4.5,11999.0,2000.0,Mid-range,4096.0,65536.0,1
+Xiaomi,Gold/Yellow,4.4,9399.0,0.0,Entry-level,3072.0,32768.0,1
+Infinix,Blue,4.2,9999.0,0.0,Entry-level,4096.0,65536.0,3
+Lenovo,Black,4.0,9900.0,0.0,Entry-level,2048.0,16384.0,3
+Lenovo,White,3.8,6798.999999999999,0.0,Entry-level,1024.0,8192.0,2
+SAMSUNG,Black,4.1,3012.9999999999995,0.0,Entry-level,32.0,16384.0,1
+OPPO,White,3.8,4999.0,2491.0,Entry-level,1024.0,16384.0,4
+realme,Black,4.3,16999.0,1000.0,Mid-range,6144.0,131072.0,1
+Lenovo,Silver/Gray,4.1,10999.0,0.0,Mid-range,3072.0,32768.0,2
+realme,Green,4.5,14999.0,1000.0,Mid-range,6144.0,65536.0,1
+Nokia,Black,4.1,1680.0,0.0,Entry-level,4.0,4.0,3
+SAMSUNG,Black,3.9,21999.0,0.0,Mid-range,2048.0,16384.0,1
+Infinix,Silver/Gray,4.3,11999.0,2999.9999999999995,Mid-range,4096.0,131072.0,2
+realme,Black,4.4,8999.0,1000.0,Entry-level,3072.0,32768.0,1
+realme,Blue,4.4,8999.0,1000.0,Entry-level,3072.0,32768.0,1
+SAMSUNG,Blue,3.9,4999.0,0.0,Entry-level,1024.0,16384.0,1
+SAMSUNG,Blue,4.3,13695.000000000002,1205.0,Mid-range,4096.0,65536.0,1
+Nokia,Other,4.0,9999.0,0.0,Entry-level,2048.0,32768.0,2
+LG,Blue,3.9,19990.0,0.0,Mid-range,4096.0,65536.0,3
+Infinix,Green,4.3,10999.0,2999.9999999999995,Mid-range,4096.0,65536.0,2
+POCO,Black,4.4,18999.0,5000.0,Mid-range,6144.0,131072.0,1
+GIONEE,Black,4.0,8690.0,0.0,Entry-level,4096.0,32768.0,0
+Xiaomi,Blue,4.4,11946.0,0.0,Mid-range,3072.0,32768.0,1
+SAMSUNG,Blue,4.3,15999.999999999998,0.0,Mid-range,6144.0,65536.0,1
+vivo,Other,4.4,20000.0,0.0,Mid-range,4096.0,65536.0,4
+Xiaomi,Gold/Yellow,4.2,16999.0,0.0,Mid-range,6144.0,65536.0,1
+SAMSUNG,Gold/Yellow,4.1,14490.0,0.0,Mid-range,2048.0,16384.0,1
+Infinix,Gold/Yellow,4.2,8999.0,0.0,Entry-level,3072.0,32768.0,2
+Motorola,Black,4.2,20000.0,0.0,Mid-range,4096.0,65536.0,3
+OPPO,Black,4.4,38990.0,1000.0,Upper mid-range,8192.0,262144.0,3
+LG,Silver/Gray,4.0,25999.0,0.0,Mid-range,3072.0,32768.0,2
+Lenovo,Black,3.7,5499.0,0.0,Entry-level,512.0,512.0,3
+Lenovo,Red,4.1,7499.0,0.0,Entry-level,2048.0,16384.0,2
+Lenovo,Other,4.0,7999.0,0.0,Entry-level,3072.0,16384.0,2
+LG,Red,4.0,35990.0,0.0,Upper mid-range,3072.0,32768.0,2
+Nokia,Green,4.2,9999.0,0.0,Entry-level,1024.0,4096.0,3
+SAMSUNG,Gold/Yellow,4.0,9833.0,0.0,Entry-level,1024.0,8192.0,1
+vivo,Blue,4.4,11990.0,0.0,Mid-range,3072.0,65536.0,1
+vivo,Blue,4.5,15990.000000000002,0.0,Mid-range,4096.0,65536.0,1
+realme,Blue,4.4,14999.0,1000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.3,11599.0,1300.9999999999998,Mid-range,3072.0,32768.0,1
+OPPO,Gold/Yellow,4.3,17990.0,0.0,Mid-range,3072.0,32768.0,3
+vivo,Gold/Yellow,4.4,34990.0,2999.9999999999995,Upper mid-range,12288.0,262144.0,1
+realme,Blue,4.3,12499.0,1499.9999999999998,Mid-range,4096.0,131072.0,1
+LG,Other,3.9,8199.0,2800.0,Mid-range,3072.0,32768.0,2
+SAMSUNG,Silver/Gray,3.9,49989.99999999999,0.0,Upper mid-range,4096.0,65536.0,4
+SAMSUNG,Blue,4.3,18699.0,0.0,Mid-range,6144.0,65536.0,1
+HTC,Other,3.8,17200.0,0.0,Mid-range,1024.0,4096.0,0
+realme,Blue,4.6,35999.0,0.0,Upper mid-range,12288.0,262144.0,1
+ASUS,Black,3.8,8499.0,0.0,Entry-level,2048.0,16384.0,0
+Xiaomi,Blue,4.3,25999.0,0.0,Mid-range,8192.0,132096.0,1
+Xiaomi,Other,4.4,8299.0,200.0,Entry-level,3072.0,32768.0,4
+Infinix,Other,4.2,7999.0,0.0,Entry-level,2048.0,32768.0,2
+Xiaomi,Black,4.2,26828.0,0.0,Mid-range,8192.0,131072.0,1
+Infinix,Green,4.4,9999.0,2000.0,Mid-range,4096.0,65536.0,2
+OPPO,Black,4.4,9490.0,1499.9999999999998,Mid-range,3072.0,32768.0,3
+Infinix,Other,4.2,9999.0,0.0,Entry-level,3072.0,32768.0,2
+Nokia,Black,3.9,13999.000000000002,0.0,Mid-range,3072.0,32768.0,3
+Nokia,Black,4.0,4196.0,0.0,Entry-level,16.0,256.0,3
+SAMSUNG,White,4.3,30500.0,2600.0,Upper mid-range,8192.0,131072.0,4
+GIONEE,Gold/Yellow,3.8,4999.0,0.0,Entry-level,1024.0,16384.0,0
+LG,Blue,4.1,10999.0,0.0,Mid-range,4096.0,131072.0,3
+OPPO,Gold/Yellow,4.0,24900.0,0.0,Mid-range,4096.0,65536.0,3
+realme,Black,4.5,8499.0,2500.0,Mid-range,3072.0,32768.0,1
+SAMSUNG,White,4.0,7992.0,0.0,Entry-level,1024.0,8192.0,4
+OPPO,White,4.4,12990.0,2000.0,Mid-range,3072.0,65536.0,4
+HTC,Black,3.7,9590.0,0.0,Entry-level,1024.0,8192.0,0
+HTC,White,3.7,27990.0,0.0,Mid-range,2048.0,16384.0,2
+SAMSUNG,Green,4.2,12499.0,1499.9999999999998,Mid-range,4096.0,131072.0,1
+GIONEE,Black,4.2,7899.999999999999,0.0,Entry-level,3072.0,32768.0,0
+Infinix,Black,4.0,7499.0,0.0,Entry-level,3072.0,16384.0,3
+SAMSUNG,Black,4.4,9100.0,900.0000000000001,Mid-range,3072.0,32768.0,1
+Lenovo,Black,4.1,19999.0,0.0,Mid-range,1024.0,8192.0,3
+OPPO,Other,4.2,11000.0,0.0,Mid-range,2048.0,16384.0,4
+SAMSUNG,Blue,3.9,15271.000000000002,0.0,Mid-range,6144.0,131072.0,1
+Nokia,Green,4.0,9999.0,0.0,Entry-level,2048.0,32768.0,3
+Infinix,Other,4.2,10999.0,0.0,Mid-range,3072.0,32768.0,2
+OPPO,Black,4.5,38990.0,2999.9999999999995,Upper mid-range,6144.0,131072.0,3
+SAMSUNG,Gold/Yellow,4.2,16879.0,0.0,Mid-range,3072.0,32768.0,1
+SAMSUNG,Other,4.3,6798.999999999999,0.0,Entry-level,2048.0,16384.0,4
+SAMSUNG,Gold/Yellow,4.4,19500.0,0.0,Mid-range,4096.0,65536.0,1
+realme,Black,4.5,9499.0,2500.0,Mid-range,3072.0,65536.0,1
+POCO,Blue,4.4,14999.0,5000.0,Mid-range,6144.0,65536.0,1
+realme,Black,4.4,10499.0,2500.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.4,19500.0,0.0,Mid-range,4096.0,65536.0,1
+Nokia,Black,4.0,8599.0,0.0,Entry-level,2048.0,16384.0,3
+ASUS,Blue,4.5,43999.0,0.0,Upper mid-range,8192.0,262144.0,0
+Lenovo,Other,4.3,12898.999999999998,0.0,Mid-range,1024.0,4096.0,2
+Nokia,Other,4.3,46988.0,0.0,Upper mid-range,6144.0,131072.0,2
+SAMSUNG,Gold/Yellow,3.9,21999.0,0.0,Mid-range,2048.0,16384.0,1
+SAMSUNG,Black,4.1,11499.0,0.0,Mid-range,4096.0,65536.0,1
+Motorola,Silver/Gray,4.1,7350.0,0.0,Entry-level,4096.0,32768.0,2
+OPPO,Black,4.4,22990.0,0.0,Mid-range,4096.0,65536.0,3
+OPPO,Blue,4.3,15990.000000000002,1000.0,Mid-range,6144.0,131072.0,3
+POCO,Blue,4.4,7999.0,2999.9999999999995,Mid-range,3072.0,32768.0,1
+ASUS,Black,3.8,6299.0,0.0,Entry-level,1024.0,8192.0,0
+Nokia,Other,4.1,12399.000000000002,0.0,Mid-range,3072.0,32768.0,2
+Nokia,Blue,3.9,10899.0,0.0,Mid-range,2048.0,16384.0,3
+realme,Blue,4.4,18999.0,0.0,Mid-range,6144.0,131072.0,1
+realme,Blue,4.5,13999.000000000002,2000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.2,20350.0,2245.0,Mid-range,8192.0,131072.0,1
+SAMSUNG,Blue,4.0,8299.0,200.0,Entry-level,2048.0,32768.0,1
+Infinix,Other,4.3,13999.000000000002,2999.9999999999995,Mid-range,6144.0,65536.0,2
+vivo,Black,4.4,13989.999999999998,5000.0,Mid-range,8192.0,131072.0,1
+Lenovo,Blue,4.2,9999.0,0.0,Entry-level,3072.0,32768.0,3
+realme,Other,4.4,10999.0,0.0,Mid-range,4096.0,65536.0,4
+realme,Silver/Gray,4.3,10990.0,4000.0,Mid-range,6144.0,131072.0,4
+Nokia,Blue,4.0,36999.0,0.0,Upper mid-range,4096.0,65536.0,3
+Infinix,Gold/Yellow,4.1,7946.000000000001,53.0,Entry-level,3072.0,32768.0,2
+realme,Other,4.5,10999.0,2000.0,Mid-range,4096.0,65536.0,4
+realme,Other,4.5,17999.0,2999.9999999999995,Mid-range,6144.0,131072.0,4
+Xiaomi,Black,4.3,28999.0,5000.0,Upper mid-range,8192.0,131072.0,1
+SAMSUNG,Black,4.1,2200.0,0.0,Entry-level,2.0,2.0,1
+SAMSUNG,Black,4.3,18900.0,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Other,4.0,8850.0,1148.0,Entry-level,3072.0,32768.0,4
+OPPO,Black,4.3,13798.999999999998,0.0,Mid-range,6144.0,131072.0,3
+OPPO,Black,4.5,27990.0,0.0,Mid-range,6144.0,131072.0,3
+SAMSUNG,White,4.3,11390.0,0.0,Mid-range,1536.0,8192.0,4
+SAMSUNG,White,4.3,13499.0,1.0,Mid-range,1536.0,16384.0,4
+SAMSUNG,Black,4.0,9999.0,0.0,Entry-level,1024.0,16384.0,1
+Infinix,Green,4.3,7990.000000000001,0.0,Entry-level,2048.0,32768.0,2
+Motorola,Gold/Yellow,4.2,6999.0,0.0,Entry-level,2048.0,16384.0,3
+vivo,Black,4.4,10990.0,0.0,Mid-range,3072.0,32768.0,1
+Nokia,Black,4.0,3499.0,0.0,Entry-level,8.0,32768.0,3
+Nokia,Black,3.8,4300.0,0.0,Entry-level,32.0,64.0,3
+Xiaomi,Black,4.4,24283.0,4417.0,Mid-range,6144.0,131072.0,1
+Xiaomi,Silver/Gray,4.2,24744.0,1246.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Black,4.2,1450.0,0.0,Entry-level,128.0,2.0,1
+vivo,Blue,4.2,49989.99999999999,5000.0,Flagship,2048.0,32768.0,1
+vivo,Gold/Yellow,4.3,8990.0,0.0,Entry-level,2048.0,16384.0,1
+POCO,Black,4.3,10999.0,1000.0,Mid-range,4096.0,65536.0,1
+ASUS,Red,3.9,15999.0,0.0,Mid-range,2048.0,16384.0,0
+ASUS,Black,4.3,43999.0,0.0,Upper mid-range,8192.0,262144.0,0
+Motorola,Blue,4.3,9999.0,0.0,Entry-level,4096.0,65536.0,3
+SAMSUNG,Gold/Yellow,4.2,8490.0,0.0,Entry-level,1536.0,8192.0,1
+SAMSUNG,Black,4.3,11200.0,0.0,Mid-range,3072.0,16384.0,1
+LG,Other,4.0,30600.000000000004,0.0,Upper mid-range,3072.0,32768.0,2
+Nokia,Black,3.8,9999.0,0.0,Entry-level,2048.0,16384.0,3
+Lenovo,Gold/Yellow,4.1,6250.0,0.0,Entry-level,3072.0,32768.0,3
+Motorola,Blue,4.1,8799.0,3200.0,Mid-range,4096.0,65536.0,3
+GIONEE,Red,3.8,3990.0,0.0,Entry-level,1024.0,8192.0,0
+Nokia,Other,3.9,11999.0,2000.0,Mid-range,4096.0,65536.0,2
+Xiaomi,Black,4.5,13499.0,1001.0,Mid-range,4096.0,65536.0,1
+POCO,Gold/Yellow,4.2,16499.0,1499.9999999999998,Mid-range,6144.0,131072.0,1
+OPPO,Silver/Gray,4.3,25990.0,4000.0,Upper mid-range,8192.0,131072.0,4
+SAMSUNG,Black,3.9,15843.000000000002,1637.0,Mid-range,6144.0,131072.0,1
+vivo,Other,4.4,19990.0,5000.0,Mid-range,4096.0,65536.0,4
+Motorola,Other,4.2,8999.0,4000.0,Mid-range,4096.0,65536.0,2
+realme,Green,4.3,12499.0,1499.9999999999998,Mid-range,4096.0,131072.0,1
+realme,Silver/Gray,4.3,16999.0,1000.0,Mid-range,6144.0,131072.0,4
+HTC,Blue,4.0,21999.0,0.0,Mid-range,1024.0,16384.0,0
+SAMSUNG,Black,4.5,40999.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,1
+SAMSUNG,Blue,4.4,19990.0,0.0,Mid-range,4096.0,65536.0,1
+Apple,Gold/Yellow,4.4,34900.0,0.0,Upper mid-range,2048.0,32768.0,0
+Xiaomi,Gold/Yellow,4.4,12499.0,0.0,Mid-range,4096.0,65536.0,1
+Apple,Red,4.5,34900.0,0.0,Upper mid-range,2048.0,131072.0,0
+SAMSUNG,Blue,4.2,10499.0,1000.0,Mid-range,4096.0,65536.0,1
+Xiaomi,Gold/Yellow,4.3,18499.0,500.0,Mid-range,6144.0,131072.0,1
+Xiaomi,Gold/Yellow,4.3,14398.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Gold/Yellow,4.1,17490.0,0.0,Mid-range,3072.0,16384.0,1
+Xiaomi,Gold/Yellow,4.5,6499.0,0.0,Entry-level,2048.0,16384.0,1
+SAMSUNG,Black,4.0,33900.0,0.0,Upper mid-range,3072.0,32768.0,1
+OPPO,Green,4.5,38990.0,2999.9999999999995,Upper mid-range,6144.0,131072.0,3
+Xiaomi,Black,4.3,9490.0,0.0,Entry-level,2048.0,32768.0,1
+OPPO,Red,4.3,13989.999999999998,0.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Black,4.3,21000.0,0.0,Mid-range,4096.0,65536.0,1
+GIONEE,Red,4.1,6299.0,1691.0,Entry-level,2048.0,32768.0,0
+SAMSUNG,Silver/Gray,4.2,34999.0,0.0,Upper mid-range,4096.0,32768.0,4
+OPPO,Blue,4.4,10990.0,5000.0,Mid-range,4096.0,65536.0,3
+LG,Blue,3.8,13775.0,725.0,Mid-range,4096.0,65536.0,3
+IQOO,Black,4.4,37990.0,2999.9999999999995,Upper mid-range,8192.0,262144.0,3
+SAMSUNG,Blue,4.3,25489.0,2960.0000000000005,Mid-range,6144.0,131072.0,1
+SAMSUNG,White,4.3,18990.0,0.0,Mid-range,6144.0,65536.0,4
+realme,Green,4.3,8999.0,1000.0,Entry-level,4096.0,65536.0,1
+GIONEE,Other,4.1,6989.999999999999,0.0,Entry-level,2048.0,16384.0,0
+Xiaomi,Blue,4.3,17995.0,955.0,Mid-range,6144.0,131072.0,1
+vivo,Black,4.3,13400.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Blue,4.4,12990.0,0.0,Mid-range,3072.0,32768.0,1
+POCO,Red,4.5,24999.0,0.0,Mid-range,6144.0,131072.0,4
+vivo,Other,4.4,15490.0,4000.0,Mid-range,12288.0,262144.0,4
+GIONEE,Gold/Yellow,4.1,15398.999999999998,0.0,Mid-range,4096.0,65536.0,0
+ASUS,Other,4.3,19999.0,0.0,Mid-range,6144.0,65536.0,0
+SAMSUNG,Black,4.0,11499.0,2000.0,Mid-range,3072.0,32768.0,1
+Lenovo,Black,4.1,7818.999999999999,0.0,Entry-level,3072.0,32768.0,3
+SAMSUNG,Blue,4.3,15999.0,4000.0,Mid-range,6144.0,65536.0,1
+realme,Other,4.4,10999.0,1000.0,Mid-range,4096.0,131072.0,4
+Xiaomi,Blue,4.1,8498.0,27.0,Entry-level,3072.0,32768.0,1
+Nokia,Gold/Yellow,4.0,9500.0,0.0,Entry-level,4096.0,32768.0,3
+Infinix,Green,4.3,10999.0,2999.9999999999995,Mid-range,6144.0,65536.0,2
+SAMSUNG,Red,4.3,13600.0,0.0,Mid-range,4096.0,65536.0,4
+OPPO,Blue,4.3,15000.0,0.0,Mid-range,4096.0,65536.0,3
+LG,Other,4.2,29999.0,0.0,Upper mid-range,6144.0,131072.0,2
+Nokia,Other,4.2,17979.0,0.0,Mid-range,3072.0,32768.0,2
+Nokia,White,4.3,13199.0,0.0,Mid-range,3072.0,32768.0,2
+SAMSUNG,Black,4.3,9000.0,0.0,Entry-level,2048.0,32768.0,1
+SAMSUNG,Black,4.3,20999.0,5000.0,Mid-range,6144.0,131072.0,1
+Nokia,White,4.0,12499.0,4491.0,Mid-range,4096.0,65536.0,2
+SAMSUNG,White,3.8,5499.0,0.0,Entry-level,512.0,4096.0,4
+OPPO,Other,4.5,17890.0,4100.0,Mid-range,4096.0,65536.0,4
+GIONEE,Black,4.0,8479.0,0.0,Entry-level,2048.0,16384.0,0
+GIONEE,Gold/Yellow,3.7,3990.0,4009.0,Entry-level,1024.0,16384.0,0
+POCO,Blue,4.2,16499.0,1499.9999999999998,Mid-range,6144.0,131072.0,1
+Lenovo,Black,4.1,7499.0,0.0,Entry-level,2048.0,16384.0,3
+Nokia,Blue,3.8,7499.0,2500.0,Entry-level,3072.0,32768.0,3
+LG,Gold/Yellow,4.0,16990.0,0.0,Mid-range,3072.0,32768.0,3
+realme,Blue,4.5,24999.0,0.0,Mid-range,8192.0,262144.0,1
+SAMSUNG,Silver/Gray,4.1,46300.0,0.0,Upper mid-range,4096.0,32768.0,4
+realme,Blue,4.3,8999.0,1000.0,Entry-level,3072.0,32768.0,1
+ASUS,Other,4.0,7999.0,0.0,Entry-level,2048.0,16384.0,0
+Lenovo,Silver/Gray,4.0,8499.0,0.0,Entry-level,3072.0,16384.0,2
+Nokia,Other,4.0,9599.0,0.0,Entry-level,3072.0,32768.0,2
+Xiaomi,Red,4.5,9990.0,0.0,Entry-level,3072.0,32768.0,4
+realme,Other,4.4,7499.0,1499.9999999999998,Entry-level,2048.0,32768.0,4
+GIONEE,Red,3.8,7299.0,2700.0,Entry-level,3072.0,32768.0,0
+vivo,Black,4.4,19899.0,91.0,Mid-range,4096.0,32768.0,1
+SAMSUNG,Black,4.4,13589.0,2901.0,Mid-range,4096.0,65536.0,1
+realme,Blue,4.5,9499.0,2500.0,Mid-range,3072.0,65536.0,1
+Xiaomi,Black,4.4,39999.0,0.0,Upper mid-range,8192.0,131072.0,1
+SAMSUNG,Black,4.3,30500.0,2600.0,Upper mid-range,8192.0,131072.0,1
+Xiaomi,Blue,4.3,25684.0,0.0,Mid-range,8192.0,131072.0,1
+HTC,Blue,3.9,17999.0,0.0,Mid-range,4096.0,131072.0,0
+Apple,Silver/Gray,4.4,34900.0,0.0,Upper mid-range,2048.0,32768.0,0
+vivo,Blue,4.4,15990.000000000002,0.0,Mid-range,4096.0,32768.0,1
+realme,White,4.3,29999.0,2000.0,Upper mid-range,8192.0,262144.0,4
+LG,Other,4.1,6590.0,0.0,Entry-level,1536.0,8192.0,2
+LG,Black,4.0,7690.0,109.0,Entry-level,3072.0,32768.0,3
+SAMSUNG,Black,4.4,24600.0,0.0,Mid-range,6144.0,131072.0,1
+Motorola,Black,4.3,15999.0,0.0,Mid-range,4096.0,65536.0,3
+realme,Green,4.5,20999.0,0.0,Mid-range,8192.0,131072.0,1
+SAMSUNG,Blue,4.2,6500.0,0.0,Entry-level,1024.0,8192.0,1
+Nokia,Gold/Yellow,4.0,18300.0,0.0,Mid-range,4096.0,65536.0,3
+GIONEE,Gold/Yellow,3.8,6600.0,0.0,Entry-level,3072.0,32768.0,0
+POCO,Red,4.4,10499.0,2500.0,Mid-range,6144.0,65536.0,4
+HTC,White,4.1,27390.000000000004,0.0,Mid-range,1536.0,8192.0,2
+Nokia,Black,4.1,1344.0,0.0,Entry-level,32.0,2.0,3
+realme,White,4.2,32999.0,2000.0,Upper mid-range,12288.0,262144.0,4
+Nokia,White,4.3,15999.0,0.0,Mid-range,4096.0,65536.0,2
+ASUS,Other,4.0,17999.0,0.0,Mid-range,3072.0,32768.0,0
+realme,Blue,4.5,16999.0,1000.0,Mid-range,8192.0,131072.0,1
+Apple,Other,4.4,44999.0,0.0,Upper mid-range,1024.0,65536.0,0
+Xiaomi,Black,4.3,22950.0,1248.0,Mid-range,6144.0,131072.0,1
+realme,Black,4.5,12999.0,2000.0,Mid-range,4096.0,131072.0,1
+SAMSUNG,White,4.2,33500.0,0.0,Upper mid-range,2048.0,32768.0,4
+GIONEE,Gold/Yellow,3.9,13649.0,0.0,Mid-range,3072.0,32768.0,0
+HTC,White,3.8,12570.000000000002,0.0,Mid-range,2048.0,16384.0,2
+realme,Silver/Gray,4.4,8999.0,2000.0,Mid-range,3072.0,32768.0,4
+Nokia,Other,3.7,7299.0,0.0,Entry-level,2048.0,16384.0,2
+Nokia,White,4.0,17000.0,0.0,Mid-range,4096.0,32768.0,2
+Xiaomi,Blue,4.2,13499.0,3500.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,White,4.0,14700.0,0.0,Mid-range,1024.0,8192.0,4
+LG,Other,4.1,9999.0,0.0,Entry-level,2048.0,16384.0,2
+GIONEE,Gold/Yellow,3.7,4290.0,0.0,Entry-level,1024.0,16384.0,0
+OPPO,Blue,4.4,10990.0,0.0,Mid-range,3072.0,16384.0,3
+realme,Blue,4.3,37999.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,1
+Motorola,Other,4.2,5450.0,0.0,Entry-level,3072.0,16384.0,2
+SAMSUNG,White,3.9,4890.0,0.0,Entry-level,512.0,4096.0,4
+Infinix,Black,4.2,12999.0,0.0,Mid-range,4096.0,65536.0,3
+Infinix,Other,4.4,7199.0,800.0,Entry-level,2048.0,32768.0,2
+Infinix,Green,4.2,12499.0,2500.0,Mid-range,6144.0,131072.0,2
+OPPO,Silver/Gray,4.3,21990.0,2000.0,Mid-range,8192.0,131072.0,4
+SAMSUNG,Black,3.9,5920.0,0.0,Entry-level,768.0,4096.0,1
+GIONEE,Black,3.9,1099.0,0.0,Entry-level,8.0,16.0,0
+Infinix,Black,4.1,11999.0,0.0,Mid-range,4096.0,65536.0,3
+realme,Silver/Gray,4.4,12999.0,0.0,Mid-range,4096.0,65536.0,4
+Motorola,Black,4.3,11829.0,0.0,Mid-range,6144.0,65536.0,3
+OPPO,Black,4.2,9990.0,0.0,Entry-level,2048.0,16384.0,3
+Xiaomi,Red,4.3,14999.0,0.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,White,4.2,8490.0,0.0,Entry-level,1536.0,16384.0,4
+vivo,Other,4.5,19990.0,5000.0,Mid-range,6144.0,65536.0,4
+realme,Blue,4.3,16499.0,500.0,Mid-range,4096.0,131072.0,1
+Infinix,Other,4.3,10999.0,2999.9999999999995,Mid-range,6144.0,65536.0,2
+Infinix,Red,3.9,16999.0,0.0,Mid-range,4096.0,65536.0,2
+realme,Blue,4.4,12999.0,0.0,Mid-range,4096.0,65536.0,1
+realme,Blue,4.5,8999.0,1000.0,Entry-level,3072.0,32768.0,1
+ASUS,Gold/Yellow,3.8,4649.0,0.0,Entry-level,1024.0,8192.0,0
+OPPO,Blue,4.4,24989.0,0.0,Mid-range,8192.0,131072.0,3
+Nokia,Blue,4.1,11199.0,0.0,Mid-range,4096.0,65536.0,3
+Nokia,Blue,4.0,7712.0,0.0,Entry-level,1024.0,8192.0,3
+realme,Blue,4.5,17999.0,0.0,Mid-range,4096.0,131072.0,1
+Lenovo,Silver/Gray,4.0,8499.0,0.0,Entry-level,2048.0,16384.0,2
+SAMSUNG,Blue,4.3,17990.0,0.0,Mid-range,4096.0,32768.0,1
+SAMSUNG,Blue,4.3,10990.0,300.0,Mid-range,3072.0,32768.0,1
+HTC,White,4.0,25999.0,0.0,Mid-range,2048.0,16384.0,2
+vivo,Black,4.3,13989.999999999998,2999.9999999999995,Mid-range,8192.0,131072.0,1
+Xiaomi,Blue,4.3,13500.000000000002,0.0,Mid-range,4096.0,65536.0,1
+Nokia,Black,3.9,10000.0,0.0,Mid-range,2048.0,16384.0,3
+realme,Blue,4.4,6499.0,500.0,Entry-level,2048.0,16384.0,1
+Nokia,White,3.8,7399.0,0.0,Entry-level,512.0,32768.0,2
+realme,Silver/Gray,4.3,19999.0,2000.0,Mid-range,6144.0,131072.0,4
+Nokia,Black,4.0,6989.999999999999,0.0,Entry-level,3072.0,32768.0,3
+SAMSUNG,Other,4.1,20999.0,2999.9999999999995,Mid-range,6144.0,131072.0,4
+SAMSUNG,Blue,4.3,8190.0,0.0,Entry-level,2048.0,16384.0,1
+Nokia,Red,3.9,4672.0,0.0,Entry-level,1024.0,8192.0,2
+Apple,Other,4.4,34900.0,0.0,Upper mid-range,2048.0,32768.0,0
+SAMSUNG,Blue,4.3,12499.0,301.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.3,27839.0,4050.0,Upper mid-range,8192.0,131072.0,1
+OPPO,Red,4.2,9990.0,0.0,Entry-level,2048.0,16384.0,4
+Apple,Black,4.5,34900.0,0.0,Upper mid-range,2048.0,131072.0,0
+Xiaomi,Blue,4.3,23990.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Black,4.1,1549.0,0.0,Entry-level,153.0,153.0,1
+ASUS,Black,4.0,9599.0,0.0,Entry-level,4096.0,65536.0,0
+realme,Other,4.4,11999.0,0.0,Mid-range,4096.0,131072.0,4
+Apple,Silver/Gray,4.6,49900.0,0.0,Upper mid-range,3072.0,65536.0,0
+realme,Black,4.3,7499.0,500.0,Entry-level,2048.0,32768.0,1
+vivo,Other,3.9,18990.0,4000.0,Mid-range,8192.0,131072.0,4
+SAMSUNG,Black,4.2,13984.000000000002,1514.9999999999998,Mid-range,6144.0,131072.0,1
+Apple,White,4.5,44900.0,0.0,Upper mid-range,2048.0,131072.0,0
+Motorola,Other,4.1,7999.0,2000.0,Entry-level,4096.0,65536.0,2
+realme,Other,4.3,29999.0,2999.9999999999995,Upper mid-range,12288.0,262144.0,4
+realme,Black,4.4,6999.0,1000.0,Entry-level,2048.0,32768.0,1
+Xiaomi,Black,4.3,10999.0,0.0,Mid-range,4096.0,65536.0,1
+HTC,White,3.7,9590.0,0.0,Entry-level,1024.0,8192.0,2
+SAMSUNG,Other,4.3,18499.0,2000.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Black,4.4,22930.0,4060.0,Mid-range,8192.0,131072.0,1
+POCO,Green,4.3,14999.0,2000.0,Mid-range,6144.0,65536.0,1
+SAMSUNG,Green,4.3,11599.0,1300.9999999999998,Mid-range,3072.0,32768.0,1
+GIONEE,Black,4.1,7899.0,0.0,Entry-level,4096.0,65536.0,0
+realme,Blue,4.3,15499.0,1499.9999999999998,Mid-range,6144.0,131072.0,1
+SAMSUNG,Red,4.3,12900.0,0.0,Mid-range,3072.0,32768.0,4
+OPPO,Black,4.3,16990.0,1000.0,Mid-range,6144.0,131072.0,3
+GIONEE,Gold/Yellow,3.8,5990.0,0.0,Entry-level,3072.0,32768.0,0
+realme,Red,4.3,12799.0,0.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Gold/Yellow,4.3,13800.0,0.0,Mid-range,2048.0,16384.0,1
+Motorola,White,4.1,5999.0,0.0,Entry-level,1024.0,8192.0,2
+SAMSUNG,Black,4.2,15999.0,0.0,Mid-range,4096.0,65536.0,1
+Lenovo,White,4.0,9999.0,0.0,Entry-level,1024.0,8192.0,2
+vivo,Other,4.4,28990.0,0.0,Mid-range,3072.0,65536.0,4
+Motorola,White,4.2,6900.0,0.0,Entry-level,2048.0,16384.0,2
+Infinix,Black,4.4,11999.0,0.0,Mid-range,4096.0,65536.0,3
+SAMSUNG,Black,4.3,7990.000000000001,0.0,Entry-level,1536.0,8192.0,1
+Nokia,Other,4.0,36999.0,0.0,Upper mid-range,4096.0,65536.0,2
+SAMSUNG,Black,4.4,19990.0,0.0,Mid-range,4096.0,65536.0,1
+Lenovo,Other,4.0,9150.0,0.0,Entry-level,4096.0,32768.0,2
+POCO,Red,4.5,14999.0,4000.0,Mid-range,6144.0,65536.0,4
+SAMSUNG,Blue,4.2,15398.999999999998,100.0,Mid-range,4096.0,65536.0,1
+LG,Blue,3.9,8399.0,0.0,Entry-level,3072.0,32768.0,3
+Apple,Red,4.5,42900.0,0.0,Upper mid-range,3072.0,131072.0,0
+Nokia,Black,4.2,2450.0,0.0,Entry-level,16.0,16.0,3
+SAMSUNG,Blue,4.2,11745.0,0.0,Mid-range,3072.0,32768.0,1
+realme,Black,4.4,10990.0,4000.0,Mid-range,4096.0,65536.0,1
+realme,Gold/Yellow,4.3,17999.0,2000.0,Mid-range,6144.0,131072.0,1
+Apple,White,4.6,47999.0,4901.0,Flagship,3072.0,131072.0,0
+SAMSUNG,Gold/Yellow,4.1,7400.0,0.0,Entry-level,1024.0,8192.0,1
+vivo,Other,4.5,15490.0,4000.0,Mid-range,8192.0,262144.0,4
+vivo,Blue,4.4,14990.0,0.0,Mid-range,12288.0,262144.0,1
+POCO,Gold/Yellow,4.4,18999.0,2999.9999999999995,Mid-range,8192.0,131072.0,1
+SAMSUNG,Black,3.8,3500.0,0.0,Entry-level,512.0,4096.0,1
+GIONEE,White,3.9,8999.0,0.0,Entry-level,3072.0,16384.0,0
+vivo,Blue,4.4,19990.0,0.0,Mid-range,4096.0,131072.0,1
+OPPO,Red,4.4,12990.0,0.0,Mid-range,3072.0,32768.0,4
+GIONEE,Other,4.0,21499.0,0.0,Mid-range,4096.0,65536.0,0
+OPPO,Black,4.3,15490.0,0.0,Mid-range,4096.0,65536.0,3
+SAMSUNG,Blue,4.3,49980.0,0.0,Upper mid-range,8192.0,131072.0,1
+realme,White,4.4,16999.0,1000.0,Mid-range,8192.0,131072.0,4
+SAMSUNG,Blue,4.3,15890.0,100.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Blue,4.4,13995.0,459.99999999999994,Mid-range,4096.0,65536.0,1
+OPPO,Blue,3.8,17490.0,3500.0,Mid-range,6144.0,131072.0,3
+Lenovo,White,4.1,6999.0,0.0,Entry-level,2048.0,16384.0,2
+realme,Green,4.5,13999.000000000002,1000.0,Mid-range,4096.0,65536.0,1
+ASUS,Black,4.6,40999.0,0.0,Upper mid-range,8192.0,131072.0,0
+vivo,Black,4.3,8990.0,0.0,Entry-level,2048.0,16384.0,1
+POCO,Black,4.5,14999.0,2000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.3,13800.0,1214.0,Mid-range,2048.0,16384.0,1
+realme,Other,4.3,7299.0,700.0,Entry-level,2048.0,32768.0,4
+LG,Black,4.0,8499.0,0.0,Entry-level,2048.0,16384.0,3
+SAMSUNG,Green,4.3,15499.0,500.0,Mid-range,4096.0,131072.0,1
+Motorola,Gold/Yellow,4.4,27998.999999999996,0.0,Mid-range,4096.0,65536.0,3
+GIONEE,Blue,3.8,7299.0,2700.0,Entry-level,3072.0,32768.0,0
+SAMSUNG,Red,4.3,30500.0,2600.0,Upper mid-range,8192.0,131072.0,4
+LG,Green,3.8,12790.000000000002,0.0,Mid-range,4096.0,65536.0,2
+SAMSUNG,Silver/Gray,4.2,5900.0,0.0,Entry-level,1024.0,16384.0,4
+realme,Blue,4.4,10999.0,2000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Other,4.2,11745.0,0.0,Mid-range,3072.0,32768.0,4
+SAMSUNG,White,4.3,11700.0,0.0,Mid-range,1536.0,16384.0,4
+OPPO,Black,4.4,24768.000000000004,222.0,Mid-range,8192.0,131072.0,3
+Xiaomi,Black,4.2,19100.0,0.0,Mid-range,6144.0,133120.0,1
+Nokia,Other,4.0,10399.0,1100.0,Mid-range,3072.0,65536.0,2
+GIONEE,White,3.8,4850.0,0.0,Entry-level,1024.0,8192.0,0
+vivo,Black,4.4,14990.0,0.0,Mid-range,8192.0,131072.0,1
+LG,Black,4.0,7999.0,0.0,Entry-level,2048.0,16384.0,3
+SAMSUNG,Blue,4.2,5900.0,0.0,Entry-level,1024.0,16384.0,1
+Lenovo,White,3.7,7990.000000000001,0.0,Entry-level,2048.0,16384.0,2
+SAMSUNG,White,3.9,5110.0,0.0,Entry-level,512.0,4096.0,4
+Nokia,Black,4.1,1680.0,82.0,Entry-level,4.0,4.0,3
+Nokia,Black,3.7,14999.0,0.0,Mid-range,6144.0,65536.0,3
+Nokia,Other,4.0,13699.0,0.0,Mid-range,3072.0,32768.0,2
+Lenovo,Black,4.2,10999.0,0.0,Mid-range,3072.0,32768.0,3
+GIONEE,Gold/Yellow,3.9,5290.0,0.0,Entry-level,3072.0,16384.0,0
+Xiaomi,Green,4.1,7698.0,0.0,Entry-level,2048.0,32768.0,1
+Nokia,Black,4.1,3099.9999999999995,0.0,Entry-level,16.0,16.0,3
+OPPO,Green,4.3,11960.0,1030.0,Mid-range,4096.0,65536.0,3
+SAMSUNG,Gold/Yellow,4.1,46300.0,0.0,Upper mid-range,4096.0,32768.0,1
+Apple,Blue,4.6,47999.0,4901.0,Flagship,3072.0,131072.0,0
+SAMSUNG,Black,4.2,14999.0,0.0,Mid-range,4096.0,131072.0,1
+Lenovo,Gold/Yellow,4.1,13499.0,0.0,Mid-range,4096.0,65536.0,3
+Lenovo,Black,3.9,8250.0,0.0,Entry-level,3072.0,32768.0,3
+SAMSUNG,Blue,3.9,5999.0,0.0,Entry-level,2048.0,32768.0,1
+SAMSUNG,Gold/Yellow,4.0,6999.0,0.0,Entry-level,1024.0,8192.0,1
+Apple,Black,4.5,36999.0,901.0,Upper mid-range,3072.0,32768.0,0
+LG,Black,3.9,6299.0,0.0,Entry-level,512.0,4096.0,3
+HTC,Blue,3.7,13200.0,0.0,Mid-range,2048.0,16384.0,0
+SAMSUNG,White,4.0,10800.0,0.0,Mid-range,1024.0,16384.0,4
+SAMSUNG,Gold/Yellow,4.1,15999.0,741.0,Mid-range,1536.0,8192.0,1
+Google Pixel,Other,4.3,29990.0,0.0,Upper mid-range,2048.0,32768.0,0
+Nokia,Black,4.2,1625.0,0.0,Entry-level,4.0,8.0,3
+Xiaomi,Black,4.3,7989.0,0.0,Entry-level,2048.0,32768.0,1
+Xiaomi,Blue,4.4,12999.0,0.0,Mid-range,4096.0,65536.0,1
+OPPO,Black,4.4,9940.0,0.0,Entry-level,3072.0,16384.0,3
+SAMSUNG,Black,4.2,25990.0,0.0,Mid-range,2048.0,32768.0,1
+SAMSUNG,Gold/Yellow,4.3,9500.0,0.0,Entry-level,2048.0,16384.0,1
+OPPO,Green,4.3,14990.0,4000.0,Mid-range,4096.0,131072.0,3
+Infinix,Blue,3.9,16999.0,0.0,Mid-range,4096.0,65536.0,3
+realme,Gold/Yellow,4.4,19999.0,2000.0,Mid-range,8192.0,131072.0,1
+Nokia,Black,4.2,2540.0,0.0,Entry-level,4.0,4.0,3
+SAMSUNG,White,3.9,5940.0,0.0,Entry-level,768.0,4096.0,4
+GIONEE,White,3.8,2798.9999999999995,0.0,Entry-level,1024.0,16384.0,0
+LG,Other,4.0,9990.0,0.0,Entry-level,2048.0,16384.0,2
+SAMSUNG,Black,4.1,7400.0,0.0,Entry-level,1024.0,8192.0,1
+ASUS,Silver/Gray,4.3,43999.0,0.0,Upper mid-range,8192.0,262144.0,0
+ASUS,Gold/Yellow,4.0,7668.0,0.0,Entry-level,2048.0,16384.0,0
+SAMSUNG,Red,4.3,8700.0,0.0,Entry-level,2048.0,32768.0,4
+Xiaomi,Black,4.2,10450.0,0.0,Mid-range,3072.0,65536.0,1
+Lenovo,White,3.8,4499.0,2999.9999999999995,Entry-level,1024.0,16384.0,2
+Xiaomi,Red,4.4,11999.0,991.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Black,4.1,9999.0,0.0,Entry-level,1536.0,8192.0,1
+realme,White,4.3,14999.0,2000.0,Mid-range,6144.0,65536.0,4
+SAMSUNG,Red,4.0,7899.999999999999,0.0,Entry-level,2048.0,32768.0,4
+vivo,Gold/Yellow,4.4,15990.000000000002,0.0,Mid-range,4096.0,32768.0,1
+Lenovo,Other,4.0,7999.0,0.0,Entry-level,4096.0,32768.0,2
+OPPO,Black,4.2,12500.0,0.0,Mid-range,3072.0,16384.0,3
+LG,White,4.2,15532.0,0.0,Mid-range,1024.0,8192.0,2
+SAMSUNG,Blue,4.3,10399.0,601.0,Mid-range,3072.0,32768.0,1
+SAMSUNG,Blue,4.2,14839.0,2061.0,Mid-range,6144.0,65536.0,1
+SAMSUNG,Black,4.4,13500.000000000002,0.0,Mid-range,3072.0,32768.0,1
+OPPO,Black,4.4,14990.0,2999.9999999999995,Mid-range,4096.0,131072.0,3
+LG,Silver/Gray,4.2,29199.0,0.0,Upper mid-range,4096.0,65536.0,2
+Infinix,Silver/Gray,4.2,18999.0,0.0,Mid-range,8192.0,131072.0,2
+Infinix,Other,4.4,9999.0,2000.0,Mid-range,4096.0,65536.0,2
+SAMSUNG,White,4.2,13999.000000000002,0.0,Mid-range,4096.0,65536.0,4
+Motorola,Blue,4.1,6999.0,2999.9999999999995,Entry-level,2048.0,32768.0,3
+SAMSUNG,Blue,4.2,11499.0,1499.9999999999998,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.3,17194.0,0.0,Mid-range,6144.0,131072.0,1
+HTC,Other,3.9,25500.0,0.0,Mid-range,2048.0,16384.0,0
+POCO,Black,4.4,11499.0,3500.0,Mid-range,6144.0,131072.0,1
+Lenovo,Black,4.0,29999.0,0.0,Upper mid-range,3072.0,32768.0,3
+SAMSUNG,Other,4.1,46300.0,0.0,Upper mid-range,4096.0,32768.0,4
+GIONEE,Gold/Yellow,4.0,5149.0,0.0,Entry-level,2048.0,16384.0,0
+SAMSUNG,Blue,4.3,9500.0,0.0,Entry-level,2048.0,16384.0,1
+realme,Black,4.3,29999.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,1
+Nokia,White,3.8,6295.000000000001,0.0,Entry-level,1024.0,8192.0,2
+LG,Other,4.0,9999.0,0.0,Entry-level,4096.0,65536.0,2
+LG,Other,4.1,12999.0,0.0,Mid-range,2048.0,16384.0,2
+OPPO,Other,4.3,21990.0,2000.0,Mid-range,8192.0,131072.0,4
+Motorola,Other,4.3,14499.0,2500.0,Mid-range,4096.0,65536.0,2
+SAMSUNG,Gold/Yellow,4.3,13999.000000000002,1000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.4,10000.0,0.0,Mid-range,2048.0,32768.0,1
+Motorola,Other,4.3,12999.0,2999.9999999999995,Mid-range,4096.0,65536.0,2
+OPPO,Other,4.2,12990.0,0.0,Mid-range,3072.0,32768.0,4
+realme,Blue,4.4,9999.0,1000.0,Mid-range,4096.0,65536.0,1
+Infinix,Black,4.3,10999.0,2999.9999999999995,Mid-range,4096.0,65536.0,3
+Nokia,Black,3.9,9999.0,0.0,Entry-level,2048.0,16384.0,3
+GIONEE,Black,3.9,11499.0,0.0,Mid-range,3072.0,32768.0,0
+SAMSUNG,Black,4.3,7999.0,0.0,Entry-level,2048.0,16384.0,1
+Lenovo,White,4.0,7000.0,0.0,Entry-level,2048.0,16384.0,2
+SAMSUNG,Black,4.2,19900.0,0.0,Mid-range,2048.0,16384.0,1
+SAMSUNG,White,4.1,10990.0,0.0,Mid-range,1536.0,8192.0,4
+realme,Other,4.6,36999.0,0.0,Upper mid-range,12288.0,262144.0,4
+OPPO,Black,4.4,15000.0,0.0,Mid-range,4096.0,65536.0,3
+SAMSUNG,Silver/Gray,4.3,17000.0,4540.0,Mid-range,6144.0,131072.0,4
+Nokia,Black,4.2,1332.0,0.0,Entry-level,4.0,4.0,3
+SAMSUNG,Blue,4.2,15499.0,0.0,Mid-range,6144.0,131072.0,1
+realme,Black,4.3,8999.0,1000.0,Entry-level,3072.0,32768.0,1
+realme,White,4.4,14999.0,2999.9999999999995,Mid-range,6144.0,65536.0,4
+OPPO,Gold/Yellow,4.3,22990.0,0.0,Mid-range,6144.0,65536.0,3
+Nokia,Black,4.1,2533.0,110.0,Entry-level,4.0,4.0,3
+vivo,Other,4.5,49989.99999999999,5000.0,Flagship,8192.0,262144.0,4
+Motorola,Black,4.2,23999.0,0.0,Mid-range,2048.0,16384.0,3
+Xiaomi,Other,4.2,21999.0,2999.9999999999995,Mid-range,6144.0,131072.0,4
+SAMSUNG,White,4.3,12999.0,0.0,Mid-range,2048.0,16384.0,4
+realme,Green,4.3,14999.0,0.0,Mid-range,4096.0,131072.0,1
+OPPO,Other,4.3,22990.0,0.0,Mid-range,8192.0,131072.0,4
+Xiaomi,Other,4.3,18887.0,731.0,Mid-range,6144.0,131072.0,4
+Lenovo,Gold/Yellow,3.7,17499.0,0.0,Mid-range,2048.0,32768.0,3
+realme,Blue,4.4,7499.0,1499.9999999999998,Entry-level,3072.0,32768.0,1
+SAMSUNG,Black,4.3,13500.000000000002,0.0,Mid-range,3072.0,32768.0,1
+Xiaomi,Other,4.3,28999.0,5000.0,Upper mid-range,8192.0,131072.0,4
+OPPO,Gold/Yellow,4.3,15990.000000000002,0.0,Mid-range,4096.0,131072.0,3
+GIONEE,Gold/Yellow,3.9,5999.0,0.0,Entry-level,3072.0,32768.0,0
+GIONEE,White,4.1,15999.0,0.0,Mid-range,2048.0,16384.0,0
+SAMSUNG,Blue,4.1,21700.0,0.0,Mid-range,6144.0,131072.0,1
+ASUS,Black,4.2,9599.0,0.0,Entry-level,3072.0,32768.0,0
+POCO,Black,4.4,14999.0,2999.9999999999995,Mid-range,6144.0,65536.0,1
+Lenovo,Other,4.0,8999.0,0.0,Entry-level,4096.0,32768.0,2
+Google Pixel,Other,4.3,25990.0,0.0,Mid-range,2048.0,16384.0,0
+realme,Blue,4.4,8999.0,2000.0,Mid-range,3072.0,32768.0,1
+SAMSUNG,White,4.0,5999.0,0.0,Entry-level,1024.0,8192.0,4
+LG,Other,3.8,14999.0,0.0,Mid-range,4096.0,65536.0,2
+realme,Silver/Gray,4.3,8499.0,2500.0,Mid-range,3072.0,32768.0,4
+LG,White,4.5,26299.0,0.0,Mid-range,2048.0,16384.0,2
+POCO,Black,4.3,11999.0,1000.0,Mid-range,6144.0,65536.0,1
+realme,Green,4.5,11999.0,0.0,Mid-range,4096.0,131072.0,1
+SAMSUNG,Red,4.2,8999.0,0.0,Entry-level,3072.0,32768.0,4
+Infinix,Black,4.3,13999.000000000002,0.0,Mid-range,6144.0,131072.0,3
+Lenovo,Silver/Gray,4.0,7598.999999999999,0.0,Entry-level,4096.0,32768.0,2
+Nokia,Black,4.2,1349.0,250.0,Entry-level,4.0,4.0,3
+vivo,Black,4.3,13995.0,0.0,Mid-range,8192.0,262144.0,1
+Apple,Gold/Yellow,4.5,41999.0,0.0,Upper mid-range,2048.0,16384.0,0
+Xiaomi,Black,4.1,14999.0,0.0,Mid-range,6144.0,65536.0,1
+Nokia,Black,4.2,1999.9999999999998,0.0,Entry-level,4.0,4.0,3
+OPPO,Black,4.3,15990.000000000002,1000.0,Mid-range,6144.0,131072.0,3
+GIONEE,Black,3.8,3489.9999999999995,0.0,Entry-level,1024.0,8192.0,0
+HTC,Blue,3.9,21990.0,0.0,Mid-range,1024.0,16384.0,0
+Xiaomi,Other,4.4,26495.0,2495.0,Mid-range,6144.0,131072.0,4
+Lenovo,Black,3.9,7999.0,0.0,Entry-level,3072.0,16384.0,3
+SAMSUNG,Silver/Gray,4.2,17499.0,1499.9999999999998,Mid-range,6144.0,131072.0,4
+SAMSUNG,Black,4.4,27998.999999999996,0.0,Mid-range,8192.0,131072.0,1
+Lenovo,Black,4.1,11999.0,0.0,Mid-range,4096.0,65536.0,3
+realme,Other,4.3,21999.0,2000.0,Mid-range,8192.0,131072.0,4
+OPPO,Other,3.7,38999.0,0.0,Upper mid-range,8192.0,131072.0,4
+Nokia,Blue,4.3,18599.0,0.0,Mid-range,4096.0,65536.0,3
+OPPO,Black,3.7,10490.0,0.0,Mid-range,3072.0,32768.0,3
+OPPO,Blue,4.4,9490.0,1499.9999999999998,Mid-range,3072.0,32768.0,3
+SAMSUNG,White,4.2,11730.0,1170.0,Mid-range,4096.0,65536.0,4
+ASUS,Silver/Gray,4.5,43999.0,0.0,Upper mid-range,8192.0,262144.0,0
+OPPO,Blue,4.3,23990.0,677.0000000000001,Mid-range,6144.0,65536.0,3
+SAMSUNG,Black,4.2,12499.0,1499.9999999999998,Mid-range,4096.0,131072.0,1
+OPPO,Other,4.4,9500.0,0.0,Entry-level,2048.0,16384.0,4
+OPPO,Blue,4.4,18990.0,4000.0,Mid-range,8192.0,131072.0,3
+vivo,Black,4.4,15900.0,0.0,Mid-range,12288.0,262144.0,1
+Infinix,Other,4.3,9999.0,0.0,Entry-level,4096.0,65536.0,2
+Motorola,White,4.2,17499.0,0.0,Mid-range,2048.0,16384.0,2
+OPPO,Green,4.3,15490.0,0.0,Mid-range,4096.0,65536.0,3
+OPPO,Black,3.8,10000.0,0.0,Mid-range,1024.0,16384.0,3
+SAMSUNG,Green,4.3,13695.000000000002,1205.0,Mid-range,4096.0,65536.0,1
+Lenovo,Other,3.9,5499.0,0.0,Entry-level,1024.0,8192.0,2
+POCO,Blue,4.4,16499.0,3500.0,Mid-range,6144.0,131072.0,1
+vivo,Black,4.3,21990.0,0.0,Mid-range,8192.0,131072.0,1
+SAMSUNG,Black,4.4,21990.0,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.0,7549.999999999999,0.0,Entry-level,1024.0,8192.0,1
+realme,Other,4.4,9999.0,0.0,Entry-level,4096.0,65536.0,4
+SAMSUNG,Black,3.9,14999.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Other,4.3,19999.0,2500.0,Mid-range,6144.0,131072.0,4
+vivo,Black,4.4,17000.0,0.0,Mid-range,4096.0,32768.0,1
+GIONEE,Gold/Yellow,3.8,3489.9999999999995,2509.0,Entry-level,1024.0,8192.0,0
+SAMSUNG,Black,4.3,16200.000000000002,0.0,Mid-range,2048.0,16384.0,1
+SAMSUNG,Gold/Yellow,4.2,10990.0,0.0,Mid-range,2048.0,16384.0,1
+OPPO,Red,4.4,22990.0,0.0,Mid-range,4096.0,65536.0,4
+realme,White,4.5,20999.0,0.0,Mid-range,8192.0,131072.0,4
+SAMSUNG,Red,3.9,5990.0,0.0,Entry-level,2048.0,32768.0,4
+GIONEE,Black,3.9,3149.9999999999995,0.0,Entry-level,64.0,128.0,0
+Xiaomi,Other,4.4,19799.0,0.0,Mid-range,6144.0,131072.0,4
+Motorola,Black,4.4,24999.0,0.0,Mid-range,3072.0,32768.0,3
+SAMSUNG,Black,4.1,22999.0,2999.9999999999995,Mid-range,8192.0,131072.0,1
+vivo,Gold/Yellow,4.3,11999.0,0.0,Mid-range,3072.0,32768.0,1
+Apple,Red,4.7,38999.0,901.0,Upper mid-range,2048.0,65536.0,0
+OPPO,Silver/Gray,4.3,11249.0,0.0,Mid-range,3072.0,32768.0,4
+SAMSUNG,Black,4.4,1599.0,0.0,Entry-level,10.0,2.0,1
+Nokia,Other,4.2,13790.0,0.0,Mid-range,4096.0,65536.0,2
+ASUS,Silver/Gray,4.5,36299.0,0.0,Upper mid-range,6144.0,131072.0,0
+Motorola,Other,4.1,11999.0,4000.0,Mid-range,4096.0,65536.0,2
+SAMSUNG,White,4.1,27990.0,0.0,Mid-range,3072.0,32768.0,4
+Xiaomi,Other,4.2,26999.000000000004,5000.0,Upper mid-range,6144.0,131072.0,4
+realme,Blue,4.4,7499.0,500.0,Entry-level,2048.0,32768.0,1
+SAMSUNG,Black,4.1,8090.0,0.0,Entry-level,1536.0,8192.0,1
+OPPO,Black,3.8,17490.0,3500.0,Mid-range,6144.0,131072.0,3
+SAMSUNG,Black,4.3,25990.0,0.0,Mid-range,6144.0,131072.0,1
+Xiaomi,White,4.2,22163.0,0.0,Mid-range,8192.0,132096.0,4
+Xiaomi,Red,4.2,11900.0,0.0,Mid-range,3072.0,32768.0,4
+SAMSUNG,Blue,4.4,22999.0,0.0,Mid-range,8192.0,131072.0,1
+Motorola,White,4.2,11999.0,0.0,Mid-range,1024.0,8192.0,2
+realme,Other,4.4,7499.0,1499.9999999999998,Entry-level,3072.0,32768.0,4
+HTC,Other,3.9,19695.0,0.0,Mid-range,1024.0,16384.0,0
+realme,Blue,4.3,14499.0,1499.9999999999998,Mid-range,6144.0,65536.0,1
+SAMSUNG,Other,4.3,19818.0,1151.0,Mid-range,6144.0,131072.0,4
+GIONEE,Blue,4.3,6500.0,0.0,Entry-level,1024.0,16384.0,0
+LG,Black,4.0,7990.000000000001,0.0,Entry-level,2048.0,16384.0,3
+Lenovo,Gold/Yellow,4.1,11999.0,0.0,Mid-range,4096.0,65536.0,3
+Xiaomi,Blue,4.3,8599.0,400.0,Entry-level,3072.0,32768.0,1
+realme,Black,4.4,9999.0,1000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.2,3285.0,0.0,Entry-level,64.0,128.0,1
+SAMSUNG,White,3.8,4199.0,0.0,Entry-level,512.0,4096.0,4
+ASUS,Blue,4.1,14499.0,0.0,Mid-range,3072.0,32768.0,0
+Nokia,Other,3.7,12999.0,0.0,Mid-range,6144.0,65536.0,2
+OPPO,Silver/Gray,4.3,13489.0,0.0,Mid-range,4096.0,131072.0,4
+ASUS,Silver/Gray,4.0,6749.0,0.0,Entry-level,3072.0,16384.0,0
+GIONEE,Red,3.9,5666.0,0.0,Entry-level,2048.0,32768.0,0
+Xiaomi,Gold/Yellow,4.5,14999.0,0.0,Mid-range,4096.0,65536.0,1
+Apple,Black,4.6,42999.0,4901.0,Upper mid-range,3072.0,65536.0,0
+SAMSUNG,Blue,4.3,9000.0,0.0,Entry-level,2048.0,32768.0,1
+Infinix,Black,4.1,6999.0,0.0,Entry-level,2048.0,16384.0,3
+Motorola,Other,4.4,29999.0,5000.0,Upper mid-range,8192.0,131072.0,2
+OPPO,White,4.4,24719.000000000004,770.0,Mid-range,8192.0,131072.0,4
+vivo,Blue,4.5,15990.000000000002,0.0,Mid-range,6144.0,131072.0,1
+Motorola,Black,4.3,21999.0,0.0,Mid-range,3072.0,32768.0,3
+OPPO,Other,4.3,18979.0,0.0,Mid-range,6144.0,131072.0,4
+Infinix,Red,4.1,7946.000000000001,53.0,Entry-level,3072.0,32768.0,2
+Nokia,Black,4.2,1600.0000000000002,0.0,Entry-level,4.0,8.0,3
+Infinix,Black,4.2,10999.0,0.0,Mid-range,3072.0,32768.0,3
+GIONEE,Gold/Yellow,3.8,3598.9999999999995,0.0,Entry-level,1024.0,8192.0,0
+Nokia,Black,4.0,6999.0,0.0,Entry-level,2048.0,16384.0,3
+GIONEE,Red,3.7,9199.0,0.0,Entry-level,1024.0,16384.0,0
+SAMSUNG,Black,4.2,22989.0,0.0,Mid-range,8192.0,131072.0,1
+SAMSUNG,Black,4.4,11995.0,0.0,Mid-range,2048.0,16384.0,1
+Xiaomi,Black,4.4,29999.0,0.0,Upper mid-range,8192.0,262144.0,1
+SAMSUNG,Black,4.3,17575.0,1924.0,Mid-range,6144.0,131072.0,1
+Xiaomi,Blue,4.3,9499.0,0.0,Entry-level,3072.0,32768.0,1
+SAMSUNG,Black,4.3,11700.0,0.0,Mid-range,1536.0,16384.0,1
+Apple,Gold/Yellow,4.5,42900.0,0.0,Upper mid-range,3072.0,131072.0,0
+realme,Other,4.5,12049.0,1950.0,Mid-range,4096.0,131072.0,4
+ASUS,Other,4.1,10999.0,0.0,Mid-range,3072.0,32768.0,0
+SAMSUNG,Black,4.3,10399.0,601.0,Mid-range,3072.0,32768.0,1
+OPPO,White,4.4,15990.000000000002,5000.0,Mid-range,4096.0,131072.0,4
+vivo,Other,4.1,14449.000000000002,0.0,Mid-range,4096.0,65536.0,4
+Nokia,Green,4.1,20999.0,0.0,Mid-range,6144.0,65536.0,3
+Infinix,Silver/Gray,4.2,12999.0,0.0,Mid-range,4096.0,65536.0,2
+Motorola,Silver/Gray,4.3,16499.0,3500.0,Mid-range,6144.0,131072.0,2
+LG,Black,3.8,7999.999999999999,0.0,Entry-level,1024.0,8192.0,3
+Nokia,Black,3.9,2349.0,0.0,Entry-level,4.0,4.0,3
+Lenovo,Black,4.1,6999.0,0.0,Entry-level,2048.0,16384.0,3
+realme,White,4.5,31999.000000000004,0.0,Upper mid-range,8192.0,131072.0,4
+SAMSUNG,Black,4.2,6989.999999999999,0.0,Entry-level,2048.0,16384.0,1
+HTC,Other,3.9,38800.0,0.0,Upper mid-range,3072.0,32768.0,0
+OPPO,Black,4.3,17990.0,0.0,Mid-range,3072.0,32768.0,3
+Motorola,Blue,4.1,10499.0,2500.0,Mid-range,4096.0,65536.0,3
+POCO,Black,4.4,16499.0,3500.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Black,4.3,17962.0,0.0,Mid-range,4096.0,32768.0,1
+SAMSUNG,Blue,4.1,14300.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Other,3.9,4890.0,0.0,Entry-level,512.0,4096.0,4
+POCO,Green,4.3,8999.0,2000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Other,4.0,10899.0,0.0,Mid-range,1024.0,8192.0,4
+Nokia,Black,4.1,2440.0,70.0,Entry-level,4.0,4.0,3
+OPPO,White,3.7,10490.0,0.0,Mid-range,3072.0,32768.0,4
+Google Pixel,Black,4.5,39999.0,0.0,Upper mid-range,4096.0,65536.0,0
+Nokia,Black,4.3,999.9999999999999,0.0,Entry-level,4.0,4.0,3
+SAMSUNG,White,4.3,14990.0,0.0,Mid-range,4096.0,65536.0,4
+Apple,Other,4.5,48999.0,0.0,Upper mid-range,1024.0,65536.0,0
+Nokia,Black,4.0,6500.0,0.0,Entry-level,1024.0,8192.0,3
+realme,Black,4.4,24999.0,2999.9999999999995,Mid-range,6144.0,131072.0,1
+SAMSUNG,Black,4.3,19725.0,0.0,Mid-range,6144.0,131072.0,1
+realme,Black,4.4,7499.0,500.0,Entry-level,2048.0,32768.0,1
+SAMSUNG,Black,4.3,23748.0,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.4,22910.0,990.0,Mid-range,8192.0,131072.0,1
+Xiaomi,Black,4.3,10999.0,500.0,Mid-range,4096.0,65536.0,1
+GIONEE,Black,4.1,9490.0,0.0,Entry-level,3072.0,32768.0,0
+SAMSUNG,Other,4.3,19900.0,0.0,Mid-range,4096.0,131072.0,4
+Lenovo,White,4.1,15999.0,0.0,Mid-range,1024.0,4096.0,2
+Motorola,Black,4.2,14500.0,0.0,Mid-range,2048.0,16384.0,3
+vivo,Black,4.1,43990.0,2000.0,Upper mid-range,12288.0,262144.0,1
+vivo,Blue,4.4,13890.0,100.0,Mid-range,8192.0,131072.0,1
+vivo,Black,4.4,29990.0,5000.0,Upper mid-range,8192.0,131072.0,1
+LG,Other,4.0,10499.0,0.0,Mid-range,4096.0,65536.0,2
+realme,Blue,4.4,11499.0,1499.9999999999998,Mid-range,4096.0,65536.0,1
+Apple,Red,4.6,47999.0,4901.0,Flagship,3072.0,131072.0,0
+SAMSUNG,Black,4.2,2979.9999999999995,0.0,Entry-level,32.0,2.0,1
+Lenovo,Silver/Gray,3.7,7650.000000000001,0.0,Entry-level,3072.0,32768.0,2
+SAMSUNG,Black,4.2,11744.0,5.0,Mid-range,3072.0,32768.0,1
+Motorola,Green,4.2,10999.0,4000.0,Mid-range,4096.0,65536.0,2
+Apple,Gold/Yellow,4.4,30780.0,0.0,Upper mid-range,1024.0,32768.0,0
+realme,Black,4.3,15499.0,500.0,Mid-range,4096.0,65536.0,1
+Xiaomi,Red,4.1,13399.0,1000.0,Mid-range,4096.0,65536.0,4
+OPPO,Other,4.2,10000.0,0.0,Mid-range,2048.0,16384.0,4
+SAMSUNG,Silver/Gray,4.4,41900.0,0.0,Upper mid-range,4096.0,32768.0,4
+SAMSUNG,White,3.9,40690.0,0.0,Upper mid-range,2048.0,16384.0,4
+ASUS,Gold/Yellow,3.7,5299.0,0.0,Entry-level,1024.0,8192.0,0
+SAMSUNG,White,4.4,28999.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,4
+SAMSUNG,Blue,4.3,7990.000000000001,710.0,Entry-level,2048.0,32768.0,1
+realme,Black,4.3,16999.0,2000.0,Mid-range,6144.0,65536.0,1
+SAMSUNG,Gold/Yellow,4.2,8200.0,0.0,Entry-level,2048.0,16384.0,1
+vivo,Blue,4.3,15490.0,0.0,Mid-range,6144.0,65536.0,1
+LG,Black,4.0,35990.0,0.0,Upper mid-range,3072.0,32768.0,3
+Xiaomi,Gold/Yellow,4.3,14999.0,0.0,Mid-range,4096.0,65536.0,1
+Lenovo,Black,3.9,5490.0,0.0,Entry-level,1024.0,8192.0,3
+SAMSUNG,Black,4.1,2940.0,0.0,Entry-level,32.0,16384.0,1
+SAMSUNG,White,4.2,9499.0,1000.0,Mid-range,3072.0,32768.0,4
+SAMSUNG,Blue,4.2,10999.0,0.0,Mid-range,3072.0,32768.0,1
+realme,Silver/Gray,4.4,9499.0,2500.0,Mid-range,4096.0,65536.0,4
+Infinix,Other,4.2,10999.0,2999.9999999999995,Mid-range,4096.0,65536.0,2
+LG,White,3.8,15999.0,0.0,Mid-range,1024.0,8192.0,2
+Infinix,Black,4.2,8999.0,0.0,Entry-level,3072.0,32768.0,3
+vivo,Black,4.3,29990.0,5000.0,Upper mid-range,6144.0,131072.0,1
+Xiaomi,Blue,4.2,8990.0,0.0,Entry-level,3072.0,32768.0,1
+SAMSUNG,Other,4.4,39900.0,0.0,Upper mid-range,4096.0,131072.0,4
+Infinix,Black,4.4,9999.0,0.0,Entry-level,3072.0,32768.0,3
+Infinix,Black,4.3,9999.0,2999.9999999999995,Mid-range,4096.0,65536.0,3
+Xiaomi,Gold/Yellow,4.4,9998.0,0.0,Entry-level,3072.0,32768.0,1
+ASUS,Gold/Yellow,4.0,9999.0,0.0,Entry-level,3072.0,16384.0,0
+Nokia,Black,4.1,1695.0,0.0,Entry-level,4.0,4.0,3
+Lenovo,Gold/Yellow,4.0,14999.0,0.0,Mid-range,1024.0,8192.0,3
+Nokia,Black,4.2,1600.0000000000002,0.0,Entry-level,4.0,2.0,3
+SAMSUNG,Black,4.3,17600.0,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.0,5999.0,0.0,Entry-level,1024.0,8192.0,1
+Apple,Other,4.4,30780.0,0.0,Upper mid-range,1024.0,32768.0,0
+Apple,Red,4.6,49900.0,0.0,Upper mid-range,4096.0,65536.0,0
+OPPO,Black,4.3,15990.000000000002,0.0,Mid-range,4096.0,131072.0,3
+SAMSUNG,Black,4.3,14999.0,2000.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,White,4.5,40999.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,4
+OPPO,Black,4.4,14990.0,0.0,Mid-range,3072.0,65536.0,3
+realme,Other,4.4,18999.0,0.0,Mid-range,6144.0,131072.0,4
+vivo,Black,4.4,22990.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Black,4.2,15199.0,181.0,Mid-range,6144.0,65536.0,1
+realme,Black,4.1,25999.0,1000.0,Mid-range,6144.0,131072.0,1
+realme,Black,4.4,31999.000000000004,2999.9999999999995,Upper mid-range,8192.0,131072.0,1
+Apple,Gold/Yellow,4.4,49999.0,0.0,Upper mid-range,1024.0,131072.0,0
+LG,Black,4.3,29999.0,0.0,Upper mid-range,4096.0,131072.0,3
+Xiaomi,Black,4.3,9478.0,0.0,Entry-level,3072.0,32768.0,1
+SAMSUNG,Blue,4.4,26599.999999999996,0.0,Mid-range,4096.0,65536.0,1
+GIONEE,Black,4.1,6299.0,1691.0,Entry-level,2048.0,32768.0,0
+OPPO,Black,4.3,7990.000000000001,2999.9999999999995,Mid-range,2048.0,32768.0,3
+SAMSUNG,Black,4.1,6549.0,2941.0,Entry-level,2048.0,16384.0,1
+Infinix,Black,4.5,14499.0,2500.0,Mid-range,6144.0,131072.0,3
+POCO,Blue,4.3,10999.0,1000.0,Mid-range,4096.0,65536.0,1
+OPPO,White,4.3,12888.999999999998,100.0,Mid-range,4096.0,65536.0,4
+GIONEE,Gold/Yellow,4.0,15999.0,0.0,Mid-range,3072.0,32768.0,0
+Infinix,Black,4.3,19999.0,0.0,Mid-range,6144.0,131072.0,3
+Nokia,Silver/Gray,3.9,7999.0,0.0,Entry-level,3072.0,32768.0,2
+SAMSUNG,Other,4.0,8289.0,0.0,Entry-level,2048.0,32768.0,4
+realme,Other,4.3,29999.0,0.0,Upper mid-range,8192.0,262144.0,4
+Nokia,Black,3.7,6698.999999999999,0.0,Entry-level,512.0,4096.0,3
+OPPO,Blue,4.2,16990.0,4000.0,Mid-range,6144.0,131072.0,3
+realme,Blue,4.4,27998.999999999996,2000.0,Upper mid-range,8192.0,131072.0,1
+realme,Blue,4.5,11999.0,0.0,Mid-range,4096.0,131072.0,1
+OPPO,Red,4.5,27990.0,0.0,Mid-range,6144.0,131072.0,4
+GIONEE,White,3.8,4990.0,0.0,Entry-level,2048.0,16384.0,0
+SAMSUNG,Blue,4.3,27239.0,4250.0,Upper mid-range,8192.0,131072.0,1
+Motorola,Black,4.4,9999.0,0.0,Entry-level,1024.0,16384.0,3
+Xiaomi,Black,4.3,11748.0,942.0,Mid-range,4096.0,65536.0,1
+Xiaomi,Other,4.3,13999.000000000002,0.0,Mid-range,4096.0,131072.0,4
+SAMSUNG,Silver/Gray,4.2,8200.0,0.0,Entry-level,2048.0,16384.0,4
+SAMSUNG,Other,4.3,17989.0,0.0,Mid-range,6144.0,131072.0,4
+realme,Green,4.5,24999.0,0.0,Mid-range,8192.0,262144.0,1
+SAMSUNG,White,3.8,13500.000000000002,0.0,Mid-range,1024.0,8192.0,4
+Nokia,Black,4.1,2859.9999999999995,0.0,Entry-level,16.0,32768.0,3
+SAMSUNG,Gold/Yellow,4.3,7500.0,0.0,Entry-level,2048.0,16384.0,1
+Lenovo,Other,4.1,10999.0,0.0,Mid-range,3072.0,32768.0,2
+Infinix,Red,4.0,7499.0,0.0,Entry-level,3072.0,16384.0,2
+SAMSUNG,Blue,4.3,18340.0,0.0,Mid-range,2048.0,16384.0,1
+Lenovo,White,3.9,6265.999999999999,0.0,Entry-level,2048.0,16384.0,2
+Xiaomi,Black,4.5,9999.0,0.0,Entry-level,4096.0,65536.0,1
+SAMSUNG,Blue,4.3,13759.999999999998,0.0,Mid-range,4096.0,65536.0,1
+Lenovo,Black,4.1,16999.0,0.0,Mid-range,4096.0,65536.0,3
+SAMSUNG,Black,4.2,2869.9999999999995,0.0,Entry-level,32.0,2.0,1
+ASUS,Silver/Gray,3.8,5299.0,0.0,Entry-level,1024.0,8192.0,0
+realme,Green,4.4,7499.0,500.0,Entry-level,2048.0,32768.0,1
+Nokia,Blue,4.4,8999.0,1499.9999999999998,Mid-range,2048.0,32768.0,3
+realme,Black,4.4,6499.0,500.0,Entry-level,2048.0,16384.0,1
+LG,Other,3.8,13998.0,0.0,Mid-range,4096.0,65536.0,2
+LG,Black,3.8,5699.0,0.0,Entry-level,2048.0,16384.0,3
+vivo,White,4.4,29990.0,2999.9999999999995,Upper mid-range,3072.0,65536.0,4
+OPPO,Black,4.3,13989.999999999998,4000.0,Mid-range,6144.0,131072.0,3
+Motorola,Black,4.1,12999.0,0.0,Mid-range,3072.0,32768.0,3
+LG,Black,4.0,16990.0,0.0,Mid-range,3072.0,32768.0,3
+Xiaomi,Blue,4.3,15990.000000000002,1009.0,Mid-range,4096.0,65536.0,1
+realme,Blue,4.4,17999.0,4000.0,Mid-range,6144.0,131072.0,1
+Nokia,Black,3.8,2249.0,0.0,Entry-level,4.0,4.0,3
+SAMSUNG,Other,4.3,18900.0,0.0,Mid-range,4096.0,65536.0,4
+realme,Blue,4.3,10499.0,2500.0,Mid-range,4096.0,65536.0,1
+POCO,Black,4.4,17999.0,4000.0,Mid-range,8192.0,131072.0,1
+Infinix,Blue,4.3,9299.0,1700.0,Mid-range,4096.0,65536.0,3
+ASUS,Blue,4.3,19999.0,0.0,Mid-range,6144.0,65536.0,0
+vivo,Other,4.5,46990.0,5000.0,Flagship,8192.0,131072.0,4
+SAMSUNG,Black,4.2,8200.0,0.0,Entry-level,2048.0,16384.0,1
+SAMSUNG,Green,4.3,11000.0,0.0,Mid-range,3072.0,32768.0,1
+Xiaomi,Other,4.3,10888.0,0.0,Mid-range,4096.0,65536.0,4
+realme,White,4.5,14999.0,4000.0,Mid-range,4096.0,65536.0,4
+Infinix,Gold/Yellow,4.3,17999.0,0.0,Mid-range,6144.0,65536.0,2
+IQOO,Black,4.4,34990.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,3
+ASUS,White,3.7,5299.0,0.0,Entry-level,1024.0,8192.0,0
+realme,Black,4.3,15999.0,1000.0,Mid-range,4096.0,131072.0,1
+LG,Other,4.4,50000.0,0.0,Flagship,4096.0,65536.0,2
+SAMSUNG,Blue,4.3,39000.0,0.0,Upper mid-range,8192.0,131072.0,1
+GIONEE,White,3.8,9999.0,0.0,Entry-level,1024.0,16384.0,0
+Apple,Gold/Yellow,4.6,49900.0,0.0,Upper mid-range,4096.0,65536.0,0
+POCO,Other,4.4,8999.0,2999.9999999999995,Mid-range,4096.0,65536.0,4
+OPPO,Blue,4.3,17990.0,1000.0,Mid-range,8192.0,131072.0,3
+Lenovo,Black,4.0,6499.0,0.0,Entry-level,1024.0,8192.0,3
+realme,Blue,4.5,11999.0,1000.0,Mid-range,4096.0,131072.0,1
+POCO,Red,4.5,30999.0,0.0,Upper mid-range,8192.0,262144.0,4
+Nokia,Black,3.7,3899.0,500.0,Entry-level,64.0,128.0,3
+SAMSUNG,Black,4.2,15499.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Black,3.9,16499.0,1499.9999999999998,Mid-range,6144.0,131072.0,1
+Xiaomi,Red,4.4,14443.0,0.0,Mid-range,6144.0,131072.0,4
+LG,Black,4.1,9000.0,0.0,Entry-level,2048.0,16384.0,3
+Nokia,Black,4.1,10499.0,500.0,Mid-range,3072.0,32768.0,3
+OPPO,Green,4.4,12990.0,4000.0,Mid-range,4096.0,131072.0,3
+Nokia,Black,4.3,13199.0,0.0,Mid-range,3072.0,32768.0,3
+SAMSUNG,Gold/Yellow,4.1,22900.0,0.0,Mid-range,3072.0,32768.0,1
+realme,Silver/Gray,4.4,26999.000000000004,2999.9999999999995,Upper mid-range,8192.0,131072.0,4
+realme,Blue,4.3,29999.0,2000.0,Upper mid-range,8192.0,262144.0,1
+Infinix,Black,4.2,9999.0,0.0,Entry-level,3072.0,32768.0,3
+vivo,Black,4.3,13890.0,100.0,Mid-range,8192.0,131072.0,1
+Lenovo,White,3.8,3549.0,0.0,Entry-level,1024.0,8192.0,2
+realme,Red,4.3,41999.0,0.0,Upper mid-range,8192.0,131072.0,4
+SAMSUNG,Black,4.0,8229.0,0.0,Entry-level,2048.0,32768.0,1
+ASUS,Black,4.3,12999.0,0.0,Mid-range,3072.0,32768.0,0
+Nokia,Black,4.1,12499.0,0.0,Mid-range,3072.0,16384.0,3
+Nokia,Other,3.8,9999.0,1100.0,Mid-range,3072.0,32768.0,2
+LG,White,3.7,14162.0,0.0,Mid-range,1024.0,4096.0,2
+SAMSUNG,Gold/Yellow,4.2,6480.0,1509.9999999999998,Entry-level,2048.0,16384.0,1
+Lenovo,Gold/Yellow,4.1,11999.0,0.0,Mid-range,4096.0,32768.0,3
+realme,Green,4.4,12499.0,1499.9999999999998,Mid-range,4096.0,131072.0,1
+SAMSUNG,Black,3.9,30495.0,0.0,Upper mid-range,4096.0,32768.0,1
+realme,Red,4.4,9490.0,0.0,Entry-level,4096.0,65536.0,4
+GIONEE,Black,4.1,16499.0,0.0,Mid-range,4096.0,65536.0,0
+realme,White,4.3,14999.0,2999.9999999999995,Mid-range,6144.0,65536.0,4
+Motorola,Red,4.1,8799.0,3200.0,Mid-range,4096.0,65536.0,2
+OPPO,Other,4.4,14995.0,0.0,Mid-range,3072.0,32768.0,4
+vivo,Blue,4.1,14449.000000000002,0.0,Mid-range,4096.0,65536.0,1
+realme,Blue,4.2,32999.0,2000.0,Upper mid-range,12288.0,262144.0,1
+LG,Black,4.1,9990.0,0.0,Entry-level,2048.0,16384.0,3
+ASUS,Black,4.3,35999.0,0.0,Upper mid-range,6144.0,65536.0,0
+SAMSUNG,Blue,4.0,7454.0,0.0,Entry-level,512.0,4096.0,1
+vivo,Blue,4.3,39990.0,0.0,Upper mid-range,8192.0,131072.0,1
+Nokia,White,4.2,7399.0,0.0,Entry-level,3072.0,32768.0,2
+SAMSUNG,Blue,4.2,15990.000000000002,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Black,4.4,41900.0,0.0,Upper mid-range,4096.0,32768.0,1
+Infinix,Black,4.3,17999.0,0.0,Mid-range,6144.0,65536.0,3
+SAMSUNG,Blue,4.3,19178.0,722.0,Mid-range,6144.0,131072.0,1
+Infinix,Green,4.3,8299.0,1700.0,Entry-level,3072.0,32768.0,2
+ASUS,Black,4.3,38999.0,0.0,Upper mid-range,6144.0,131072.0,0
+realme,Green,4.4,26999.000000000004,2999.9999999999995,Upper mid-range,8192.0,131072.0,1
+SAMSUNG,Other,4.2,23596.0,100.0,Mid-range,8192.0,131072.0,4
+vivo,Other,4.4,15990.000000000002,0.0,Mid-range,4096.0,32768.0,4
+Nokia,Blue,4.2,8299.0,0.0,Entry-level,3072.0,32768.0,3
+realme,Blue,4.3,10499.0,500.0,Mid-range,4096.0,65536.0,1
+LG,Black,4.0,6979.999999999999,0.0,Entry-level,2048.0,16384.0,3
+SAMSUNG,Black,4.2,1700.0,0.0,Entry-level,512.0,512.0,1
+Infinix,Other,4.3,9999.0,2999.9999999999995,Mid-range,4096.0,65536.0,2
+SAMSUNG,Black,3.9,5999.0,0.0,Entry-level,2048.0,32768.0,1
+vivo,Blue,4.4,20990.0,0.0,Mid-range,6144.0,65536.0,1
+SAMSUNG,Blue,4.3,8690.0,600.0,Entry-level,3072.0,32768.0,1
+Xiaomi,White,4.3,11999.0,2999.9999999999995,Mid-range,4096.0,65536.0,4
+GIONEE,Black,4.0,4650.0,0.0,Entry-level,2048.0,16384.0,0
+Motorola,Blue,4.4,17499.0,2500.0,Mid-range,6144.0,131072.0,3
+GIONEE,Black,4.0,7899.0,0.0,Entry-level,4096.0,65536.0,0
+OPPO,Gold/Yellow,4.3,18000.0,0.0,Mid-range,4096.0,65536.0,3
+SAMSUNG,Black,4.2,9639.0,0.0,Entry-level,3072.0,32768.0,1
+Lenovo,White,3.8,9999.0,0.0,Entry-level,1024.0,8192.0,2
+OPPO,Gold/Yellow,4.4,19990.0,0.0,Mid-range,4096.0,32768.0,3
+OPPO,White,4.5,29489.0,3501.0,Upper mid-range,8192.0,262144.0,4
+Motorola,Black,4.2,9999.0,0.0,Entry-level,1024.0,8192.0,3
+SAMSUNG,Blue,4.2,9990.0,0.0,Entry-level,3072.0,32768.0,1
+SAMSUNG,Other,4.3,16999.0,0.0,Mid-range,4096.0,131072.0,4
+Xiaomi,Blue,4.5,9490.0,0.0,Entry-level,2048.0,32768.0,1
+SAMSUNG,White,4.0,7999.0,0.0,Entry-level,1024.0,8192.0,4
+Motorola,Black,4.2,11999.0,0.0,Mid-range,3072.0,32768.0,3
+Infinix,Black,4.1,7946.000000000001,53.0,Entry-level,3072.0,32768.0,3
+Infinix,Blue,4.3,7990.000000000001,0.0,Entry-level,2048.0,32768.0,3
+SAMSUNG,Black,4.1,22900.0,0.0,Mid-range,3072.0,32768.0,1
+LG,Black,4.0,24000.0,0.0,Mid-range,4096.0,65536.0,3
+realme,Black,4.4,8285.0,0.0,Entry-level,3072.0,32768.0,1
+OPPO,Black,4.4,35990.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,3
+POCO,Other,4.5,30999.0,0.0,Upper mid-range,8192.0,262144.0,4
+HTC,White,3.7,18249.0,0.0,Mid-range,2048.0,16384.0,2
+Infinix,Red,4.3,17999.0,0.0,Mid-range,6144.0,65536.0,2
+ASUS,Blue,4.0,11999.0,0.0,Mid-range,3072.0,32768.0,0
+Motorola,Silver/Gray,4.2,17999.0,4000.0,Mid-range,6144.0,131072.0,2
+HTC,Other,4.2,47990.0,0.0,Upper mid-range,4096.0,32768.0,0
+SAMSUNG,Blue,3.9,14999.0,0.0,Mid-range,6144.0,131072.0,1
+realme,Green,4.4,24999.0,2999.9999999999995,Mid-range,6144.0,131072.0,1
+SAMSUNG,Blue,4.3,20949.0,0.0,Mid-range,8192.0,131072.0,1
+Xiaomi,White,4.2,8561.0,0.0,Entry-level,3072.0,65536.0,4
+Infinix,Black,4.2,10999.0,0.0,Mid-range,6144.0,65536.0,3
+Motorola,Silver/Gray,4.3,14499.0,2500.0,Mid-range,4096.0,65536.0,2
+realme,Black,4.8,17499.0,3500.0,Mid-range,6144.0,131072.0,1
+ASUS,Silver/Gray,3.8,5699.0,0.0,Entry-level,1024.0,8192.0,0
+realme,Red,4.4,9499.0,3500.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Black,4.6,48669.0,0.0,Upper mid-range,6144.0,131072.0,1
+Lenovo,White,4.1,7499.0,0.0,Entry-level,2048.0,16384.0,2
+vivo,Blue,4.5,17990.0,0.0,Mid-range,6144.0,65536.0,1
+OPPO,Gold/Yellow,4.3,17000.0,0.0,Mid-range,4096.0,65536.0,3
+vivo,Blue,4.4,8205.0,0.0,Entry-level,3072.0,65536.0,1
+realme,Blue,4.4,24999.0,2000.0,Mid-range,6144.0,131072.0,1
+GIONEE,White,3.7,5199.0,0.0,Entry-level,1024.0,16384.0,0
+Infinix,Black,4.4,7199.0,800.0,Entry-level,2048.0,32768.0,3
+SAMSUNG,White,4.0,7549.999999999999,0.0,Entry-level,1024.0,8192.0,4
+Xiaomi,Gold/Yellow,4.4,12448.999999999998,3541.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,White,4.0,6999.0,0.0,Entry-level,1024.0,8192.0,4
+Lenovo,White,3.9,4990.0,0.0,Entry-level,1024.0,8192.0,2
+realme,Black,4.5,14999.0,4000.0,Mid-range,4096.0,65536.0,1
+OPPO,Red,4.4,15990.000000000002,0.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Other,4.0,6499.0,0.0,Entry-level,512.0,4096.0,4
+SAMSUNG,Black,4.1,19990.0,0.0,Mid-range,2048.0,16384.0,1
+Xiaomi,Black,4.3,18979.0,20.0,Mid-range,6144.0,65536.0,1
+realme,Blue,4.3,14999.0,0.0,Mid-range,4096.0,131072.0,1
+GIONEE,Blue,4.1,7290.0,0.0,Entry-level,3072.0,32768.0,0
+SAMSUNG,Black,4.4,17500.0,0.0,Mid-range,4096.0,65536.0,1
+Motorola,White,3.9,6999.0,0.0,Entry-level,2048.0,16384.0,2
+Lenovo,Gold/Yellow,4.0,7999.0,0.0,Entry-level,3072.0,16384.0,3
+SAMSUNG,Other,4.3,20696.0,1299.0,Mid-range,6144.0,131072.0,4
+vivo,Other,4.4,19490.0,3500.0,Mid-range,4096.0,32768.0,4
+Xiaomi,Other,4.4,9828.0,932.0,Mid-range,4096.0,65536.0,4
+realme,White,4.5,11999.0,1000.0,Mid-range,4096.0,131072.0,4
+SAMSUNG,Gold/Yellow,4.4,41900.0,0.0,Upper mid-range,4096.0,32768.0,1
+realme,Silver/Gray,4.4,29999.0,2999.9999999999995,Upper mid-range,12288.0,262144.0,4
+SAMSUNG,Blue,4.2,13023.0,0.0,Mid-range,3072.0,32768.0,1
+GIONEE,Other,3.7,4150.0,0.0,Entry-level,1024.0,8192.0,0
+ASUS,Gold/Yellow,4.2,9599.0,0.0,Entry-level,3072.0,32768.0,0
+Motorola,White,4.0,6999.0,0.0,Entry-level,3072.0,32768.0,2
+SAMSUNG,Gold/Yellow,4.4,36900.0,0.0,Upper mid-range,4096.0,32768.0,1
+Motorola,Silver/Gray,3.9,14999.0,0.0,Mid-range,3072.0,32768.0,2
+Lenovo,Red,3.7,18999.0,0.0,Mid-range,3072.0,32768.0,2
+realme,Blue,4.4,19999.0,0.0,Mid-range,8192.0,131072.0,1
+Lenovo,Black,4.1,7999.0,0.0,Entry-level,3072.0,32768.0,3
+Motorola,Black,4.2,13999.000000000002,0.0,Mid-range,3072.0,32768.0,3
+SAMSUNG,Blue,4.1,15990.000000000002,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Black,4.1,20700.0,0.0,Mid-range,3072.0,16384.0,1
+SAMSUNG,Black,4.3,14899.999999999998,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.4,25600.000000000004,0.0,Mid-range,4096.0,65536.0,1
+realme,Green,4.4,11499.0,1499.9999999999998,Mid-range,4096.0,65536.0,1
+Nokia,Silver/Gray,4.0,7739.0,0.0,Entry-level,1024.0,8192.0,2
+SAMSUNG,Other,4.2,6000.0,0.0,Entry-level,1024.0,8192.0,4
+Nokia,Black,4.3,29990.0,0.0,Upper mid-range,6144.0,131072.0,3
+vivo,Black,4.4,16490.0,0.0,Mid-range,4096.0,65536.0,1
+Apple,Silver/Gray,4.4,36990.0,0.0,Upper mid-range,1024.0,16384.0,0
+Lenovo,White,4.0,18499.0,0.0,Mid-range,1024.0,16384.0,2
+vivo,Blue,4.4,13989.999999999998,0.0,Mid-range,4096.0,65536.0,1
+Lenovo,Black,4.1,15410.0,0.0,Mid-range,1024.0,4096.0,3
+SAMSUNG,Gold/Yellow,4.2,25990.0,0.0,Mid-range,2048.0,32768.0,1
+Motorola,Silver/Gray,3.9,10910.0,0.0,Mid-range,4096.0,65536.0,2
+realme,Red,4.4,10499.0,500.0,Mid-range,4096.0,65536.0,4
+OPPO,Blue,4.3,14990.0,0.0,Mid-range,4096.0,65536.0,3
+realme,Blue,4.3,17999.0,2000.0,Mid-range,6144.0,131072.0,1
+ASUS,Other,4.0,12490.0,0.0,Mid-range,3072.0,16384.0,0
+Xiaomi,Gold/Yellow,4.3,10999.0,0.0,Mid-range,4096.0,65536.0,1
+vivo,Black,4.3,17999.0,0.0,Mid-range,3072.0,32768.0,1
+OPPO,Gold/Yellow,4.3,18990.0,0.0,Mid-range,4096.0,65536.0,3
+realme,Blue,4.3,14999.0,2999.9999999999995,Mid-range,6144.0,65536.0,1
+Xiaomi,Gold/Yellow,4.3,8990.0,0.0,Entry-level,3072.0,32768.0,1
+realme,Gold/Yellow,4.4,11990.0,3508.9999999999995,Mid-range,4096.0,65536.0,1
+realme,Blue,4.5,19999.0,0.0,Mid-range,6144.0,131072.0,1
+realme,Black,4.3,29999.0,2999.9999999999995,Upper mid-range,12288.0,262144.0,1
+OPPO,Other,4.3,23490.0,2500.0,Mid-range,8192.0,262144.0,4
+Lenovo,Black,3.7,6199.999999999999,3790.9999999999995,Entry-level,2048.0,16384.0,3
+Apple,Red,4.5,44900.0,0.0,Upper mid-range,2048.0,131072.0,0
+POCO,Green,4.3,13999.000000000002,2999.9999999999995,Mid-range,4096.0,65536.0,1
+realme,Black,4.4,35999.0,2999.9999999999995,Upper mid-range,12288.0,262144.0,1
+Nokia,Black,3.8,3974.0,205.0,Entry-level,16.0,32768.0,3
+GIONEE,Blue,3.7,8950.0,0.0,Entry-level,3072.0,16384.0,0
+Xiaomi,Blue,4.2,12999.0,0.0,Mid-range,4096.0,65536.0,1
+Xiaomi,Other,4.3,23999.0,2000.0,Mid-range,8192.0,131072.0,4
+Lenovo,Black,3.8,5499.0,0.0,Entry-level,1024.0,16384.0,3
+Xiaomi,Blue,4.3,10499.0,1499.9999999999998,Mid-range,4096.0,65536.0,1
+vivo,Blue,4.3,13989.999999999998,0.0,Mid-range,8192.0,262144.0,1
+realme,Red,4.4,19999.0,0.0,Mid-range,8192.0,131072.0,4
+realme,Blue,4.3,25999.0,4000.0,Upper mid-range,6144.0,131072.0,1
+Nokia,Other,4.2,10440.0,0.0,Mid-range,3072.0,32768.0,2
+realme,White,4.5,19999.0,0.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Blue,4.2,17499.0,1499.9999999999998,Mid-range,6144.0,131072.0,1
+Xiaomi,White,4.2,18187.0,803.0000000000001,Mid-range,6144.0,65536.0,4
+OPPO,Silver/Gray,4.2,20999.0,0.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Black,4.1,20999.0,2999.9999999999995,Mid-range,6144.0,131072.0,1
+Xiaomi,Black,4.4,12349.0,0.0,Mid-range,4096.0,65536.0,1
+Nokia,Black,4.2,2875.0,124.0,Entry-level,16.0,2.0,3
+SAMSUNG,White,4.0,11499.0,2000.0,Mid-range,3072.0,32768.0,4
+Infinix,Silver/Gray,4.4,9999.0,2000.0,Mid-range,4096.0,65536.0,2
+Nokia,Red,3.7,3499.0,0.0,Entry-level,64.0,32768.0,2
+OPPO,Other,4.3,10490.0,2500.0,Mid-range,3072.0,32768.0,4
+realme,Blue,4.5,8499.0,2500.0,Mid-range,3072.0,32768.0,1
+LG,Black,4.5,31970.999999999996,0.0,Upper mid-range,2048.0,16384.0,3
+Nokia,Other,4.4,8999.0,1499.9999999999998,Mid-range,2048.0,32768.0,2
+GIONEE,Other,3.8,4750.0,0.0,Entry-level,2048.0,16384.0,0
+realme,Green,4.5,10999.0,0.0,Mid-range,4096.0,65536.0,1
+Nokia,Black,4.2,1340.0,0.0,Entry-level,4.0,4.0,3
+ASUS,Other,4.0,13999.000000000002,0.0,Mid-range,3072.0,16384.0,0
+OPPO,Black,4.2,14990.0,0.0,Mid-range,3072.0,32768.0,3
+OPPO,Black,4.4,14990.0,0.0,Mid-range,6144.0,65536.0,3
+SAMSUNG,Blue,4.2,9499.0,1000.0,Mid-range,3072.0,32768.0,1
+ASUS,Black,4.0,9999.0,0.0,Entry-level,3072.0,16384.0,0
+POCO,Black,4.5,24999.0,0.0,Mid-range,6144.0,131072.0,1
+ASUS,White,4.0,14500.0,0.0,Mid-range,3072.0,32768.0,0
+GIONEE,Other,4.2,7899.999999999999,0.0,Entry-level,3072.0,32768.0,0
+Motorola,Blue,4.2,10999.0,4000.0,Mid-range,4096.0,65536.0,3
+Nokia,Blue,4.0,29490.0,0.0,Upper mid-range,4096.0,65536.0,3
+Infinix,Blue,4.2,8999.0,0.0,Entry-level,3072.0,32768.0,3
+Nokia,White,3.9,8588.0,0.0,Entry-level,2048.0,16384.0,2
+SAMSUNG,Black,4.3,30900.0,0.0,Upper mid-range,6144.0,131072.0,1
+SAMSUNG,White,4.2,19999.0,0.0,Mid-range,6144.0,65536.0,4
+Nokia,Other,4.0,8599.0,0.0,Entry-level,2048.0,16384.0,2
+Lenovo,Black,4.0,7490.0,1000.0,Entry-level,2048.0,32768.0,3
+Motorola,Blue,4.3,9999.0,2000.0,Mid-range,4096.0,65536.0,3
+Motorola,Black,3.9,6399.0,0.0,Entry-level,2048.0,16384.0,3
+LG,Silver/Gray,4.3,29999.0,0.0,Upper mid-range,4096.0,131072.0,2
+SAMSUNG,Blue,4.4,24600.0,0.0,Mid-range,6144.0,131072.0,1
+ASUS,Silver/Gray,4.3,12999.0,0.0,Mid-range,3072.0,32768.0,0
+realme,Other,4.3,26999.000000000004,2999.9999999999995,Upper mid-range,8192.0,131072.0,4
+SAMSUNG,Gold/Yellow,4.4,26599.999999999996,0.0,Mid-range,4096.0,65536.0,1
+Lenovo,Black,4.1,18999.0,0.0,Mid-range,6144.0,131072.0,3
+GIONEE,Blue,4.1,7990.000000000001,0.0,Entry-level,3072.0,32768.0,0
+vivo,Other,4.4,14990.0,0.0,Mid-range,12288.0,262144.0,4
+Lenovo,Gold/Yellow,4.1,7999.0,0.0,Entry-level,3072.0,32768.0,3
+POCO,Blue,4.4,20999.0,5000.0,Mid-range,8192.0,131072.0,1
+SAMSUNG,Blue,4.2,11510.0,0.0,Mid-range,4096.0,65536.0,1
+vivo,Black,4.4,32990.0,2999.9999999999995,Upper mid-range,4096.0,65536.0,1
+SAMSUNG,Red,3.7,27330.0,0.0,Mid-range,2048.0,16384.0,4
+POCO,Blue,4.3,9999.0,2000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.3,17000.0,0.0,Mid-range,1536.0,16384.0,1
+Apple,Silver/Gray,4.5,41999.0,0.0,Upper mid-range,2048.0,16384.0,0
+SAMSUNG,Black,4.3,11000.0,0.0,Mid-range,3072.0,32768.0,1
+OPPO,Black,4.3,12990.0,1000.0,Mid-range,4096.0,65536.0,3
+SAMSUNG,Black,3.9,15999.0,0.0,Mid-range,2048.0,16384.0,1
+Lenovo,Black,3.9,4599.0,0.0,Entry-level,1024.0,8192.0,3
+SAMSUNG,Gold/Yellow,4.4,10995.0,0.0,Mid-range,2048.0,16384.0,1
+Nokia,Black,4.2,999.9999999999999,0.0,Entry-level,4.0,4.0,3
+Xiaomi,Blue,4.5,14990.0,0.0,Mid-range,6144.0,65536.0,1
+Apple,Gold/Yellow,4.4,36499.0,0.0,Upper mid-range,1024.0,16384.0,0
+realme,Black,4.3,8999.0,1000.0,Entry-level,4096.0,65536.0,1
+realme,Black,4.4,15999.0,2000.0,Mid-range,6144.0,131072.0,1
+ASUS,Silver/Gray,4.3,35999.0,0.0,Upper mid-range,6144.0,65536.0,0
+realme,Red,4.4,10999.0,0.0,Mid-range,4096.0,65536.0,4
+Nokia,Black,4.2,1859.9999999999998,0.0,Entry-level,4.0,16384.0,3
+Infinix,Black,4.3,8999.0,0.0,Entry-level,3072.0,32768.0,3
+LG,Green,3.9,9999.0,0.0,Entry-level,3072.0,32768.0,2
+SAMSUNG,Black,4.2,10990.0,0.0,Mid-range,3072.0,32768.0,1
+OPPO,Red,4.4,13500.000000000002,0.0,Mid-range,4096.0,32768.0,4
+GIONEE,Gold/Yellow,3.9,6399.0,0.0,Entry-level,4096.0,32768.0,0
+Nokia,Black,4.2,1399.0,0.0,Entry-level,4.0,4.0,3
+POCO,Blue,4.5,14999.0,4000.0,Mid-range,6144.0,65536.0,1
+realme,Black,4.3,10499.0,500.0,Mid-range,4096.0,65536.0,1
+Nokia,Black,3.8,7006.999999999999,0.0,Entry-level,1024.0,8192.0,3
+POCO,Blue,4.4,18999.0,2999.9999999999995,Mid-range,8192.0,131072.0,1
+Xiaomi,Red,4.2,13900.0,0.0,Mid-range,4096.0,65536.0,4
+realme,Black,4.3,26999.000000000004,2999.9999999999995,Upper mid-range,8192.0,131072.0,1
+Infinix,Black,4.4,9999.0,2000.0,Mid-range,4096.0,65536.0,3
+SAMSUNG,Gold/Yellow,4.1,19990.0,0.0,Mid-range,2048.0,16384.0,1
+OPPO,Gold/Yellow,4.3,14990.0,0.0,Mid-range,4096.0,65536.0,3
+Infinix,Green,4.4,12999.0,0.0,Mid-range,4096.0,65536.0,2
+SAMSUNG,Blue,4.0,7999.0,0.0,Entry-level,1024.0,8192.0,1
+Infinix,Blue,4.2,9999.0,0.0,Entry-level,3072.0,32768.0,3
+POCO,Black,4.4,16999.0,2999.9999999999995,Mid-range,6144.0,131072.0,1
+realme,Green,4.4,28999.0,2999.9999999999995,Upper mid-range,8192.0,262144.0,1
+Nokia,Other,3.9,14499.0,0.0,Mid-range,6144.0,65536.0,2
+Xiaomi,White,4.5,15449.0,541.0,Mid-range,6144.0,131072.0,4
+POCO,Blue,4.4,14999.0,2999.9999999999995,Mid-range,6144.0,65536.0,1
+ASUS,Black,4.1,7999.0,0.0,Entry-level,2048.0,16384.0,0
+Xiaomi,Other,4.5,14980.0,10.0,Mid-range,6144.0,65536.0,4
+Lenovo,White,3.9,6750.000000000001,0.0,Entry-level,2048.0,16384.0,2
+SAMSUNG,White,4.2,11250.0,0.0,Mid-range,2048.0,16384.0,4
+realme,Green,4.3,13999.000000000002,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.3,8650.0,640.0,Entry-level,3072.0,32768.0,1
+Xiaomi,Black,4.3,7798.0,0.0,Entry-level,2048.0,32768.0,1
+SAMSUNG,Gold/Yellow,4.4,25999.0,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Silver/Gray,4.3,24499.0,1401.0,Mid-range,8192.0,131072.0,4
+POCO,Gold/Yellow,4.3,11999.0,1000.0,Mid-range,6144.0,65536.0,1
+Nokia,Black,3.7,3598.9999999999995,0.0,Entry-level,64.0,128.0,3
+SAMSUNG,Gold/Yellow,4.0,8190.0,0.0,Entry-level,1024.0,16384.0,1
+OPPO,Other,4.3,14990.0,4000.0,Mid-range,4096.0,131072.0,4
+SAMSUNG,Black,4.3,36900.0,0.0,Upper mid-range,4096.0,131072.0,1
+Google Pixel,White,4.5,25400.0,0.0,Mid-range,2048.0,16384.0,0
+SAMSUNG,Black,4.2,14859.0,804.0,Mid-range,6144.0,131072.0,1
+Nokia,Black,3.8,3499.0,0.0,Entry-level,16.0,32768.0,3
+LG,Other,4.2,31490.000000000004,0.0,Upper mid-range,4096.0,65536.0,2
+HTC,Blue,3.7,15400.0,0.0,Mid-range,3072.0,32768.0,0
+Xiaomi,Red,4.3,12999.0,1000.0,Mid-range,4096.0,65536.0,4
+realme,Blue,4.4,13999.000000000002,1000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Other,4.1,49989.99999999999,0.0,Upper mid-range,3072.0,32768.0,4
+Xiaomi,Black,4.2,38950.0,1040.0,Upper mid-range,8192.0,262144.0,1
+SAMSUNG,Gold/Yellow,4.3,19980.0,0.0,Mid-range,4096.0,32768.0,1
+SAMSUNG,Blue,4.3,11999.0,0.0,Mid-range,4096.0,65536.0,1
+GIONEE,Blue,4.0,6490.0,0.0,Entry-level,3072.0,32768.0,0
+Infinix,Black,4.3,7499.0,1499.9999999999998,Entry-level,2048.0,32768.0,3
+Motorola,White,4.2,8999.0,0.0,Entry-level,1024.0,16384.0,2
+POCO,Other,4.4,7999.0,2999.9999999999995,Mid-range,3072.0,32768.0,4
+SAMSUNG,Black,4.2,2848.9999999999995,0.0,Entry-level,32.0,2.0,1
+Xiaomi,Other,4.3,26989.000000000004,0.0,Mid-range,8192.0,131072.0,4
+SAMSUNG,Gold/Yellow,4.3,11200.0,0.0,Mid-range,3072.0,16384.0,1
+Lenovo,Gold/Yellow,4.0,7490.0,0.0,Entry-level,4096.0,32768.0,3
+SAMSUNG,Green,4.4,10000.0,0.0,Mid-range,2048.0,32768.0,1
+SAMSUNG,Black,4.0,6989.999999999999,0.0,Entry-level,1536.0,8192.0,1
+Apple,Gold/Yellow,4.5,31999.000000000004,0.0,Upper mid-range,2048.0,32768.0,0
+Nokia,Other,3.8,9999.0,0.0,Entry-level,3072.0,32768.0,2
+ASUS,White,3.7,4990.0,0.0,Entry-level,2048.0,16384.0,0
+Nokia,Black,4.2,1349.0,0.0,Entry-level,4.0,4.0,3
+SAMSUNG,Black,4.3,8700.0,0.0,Entry-level,2048.0,32768.0,1
+Xiaomi,Black,4.2,9990.0,0.0,Entry-level,3072.0,32768.0,1
+SAMSUNG,Gold/Yellow,4.3,8700.0,0.0,Entry-level,2048.0,32768.0,1
+SAMSUNG,Other,4.3,37499.0,3500.0,Upper mid-range,8192.0,131072.0,4
+SAMSUNG,Blue,4.3,15990.000000000002,0.0,Mid-range,4096.0,65536.0,1
+Infinix,Green,4.3,9999.0,2999.9999999999995,Mid-range,4096.0,65536.0,2
+SAMSUNG,Gold/Yellow,4.3,10490.0,0.0,Mid-range,1536.0,8192.0,1
+GIONEE,Other,3.9,5290.0,0.0,Entry-level,3072.0,16384.0,0
+Infinix,Blue,4.1,11999.0,0.0,Mid-range,4096.0,65536.0,3
+POCO,Silver/Gray,4.3,28999.0,4000.0,Upper mid-range,6144.0,131072.0,4
+realme,Green,4.3,47999.0,0.0,Upper mid-range,12288.0,262144.0,1
+Infinix,Black,4.2,18999.0,0.0,Mid-range,8192.0,131072.0,3
+SAMSUNG,White,4.1,19990.0,0.0,Mid-range,2048.0,16384.0,4
+Xiaomi,Green,4.2,11499.0,2500.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.2,14999.0,0.0,Mid-range,4096.0,131072.0,1
+realme,White,4.8,17499.0,3500.0,Mid-range,6144.0,131072.0,4
+OPPO,Green,4.4,15677.000000000002,0.0,Mid-range,4096.0,65536.0,3
+realme,Gold/Yellow,4.4,11999.0,0.0,Mid-range,3072.0,65536.0,1
+Xiaomi,Gold/Yellow,4.4,8590.0,0.0,Entry-level,3072.0,32768.0,1
+Infinix,Red,4.1,6999.0,0.0,Entry-level,2048.0,16384.0,2
+Lenovo,Black,4.1,11999.0,0.0,Mid-range,4096.0,32768.0,3
+LG,Other,4.1,7499.0,0.0,Entry-level,2048.0,16384.0,2
+OPPO,Blue,4.1,10490.0,0.0,Mid-range,3072.0,32768.0,3
+Xiaomi,White,4.3,14990.0,0.0,Mid-range,4096.0,131072.0,4
+Infinix,Other,4.4,9999.0,0.0,Entry-level,3072.0,32768.0,2
+Motorola,Blue,4.3,24999.0,0.0,Mid-range,6144.0,65536.0,3
+SAMSUNG,Black,4.2,15490.0,0.0,Mid-range,4096.0,65536.0,1
+Xiaomi,Black,4.4,7999.0,0.0,Entry-level,2048.0,32768.0,1
+SAMSUNG,Gold/Yellow,4.3,12000.0,0.0,Mid-range,3072.0,32768.0,1
+SAMSUNG,White,4.1,14490.0,0.0,Mid-range,2048.0,16384.0,4
+vivo,Blue,4.4,22990.0,5000.0,Mid-range,4096.0,32768.0,1
+realme,Black,4.3,16999.0,2000.0,Mid-range,8192.0,131072.0,1
+SAMSUNG,Black,4.2,10990.0,0.0,Mid-range,2048.0,16384.0,1
+OPPO,Other,4.5,21150.0,0.0,Mid-range,6144.0,65536.0,4
+SAMSUNG,Silver/Gray,4.1,8090.0,0.0,Entry-level,1536.0,8192.0,4
+SAMSUNG,Red,4.4,18000.0,0.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Other,4.5,37499.0,3500.0,Upper mid-range,8192.0,131072.0,4
+realme,Black,4.5,9990.0,0.0,Entry-level,3072.0,32768.0,1
+SAMSUNG,White,3.8,5490.0,0.0,Entry-level,512.0,4096.0,4
+POCO,Other,4.3,9999.0,2000.0,Mid-range,4096.0,65536.0,4
+realme,Blue,4.4,9999.0,0.0,Entry-level,3072.0,32768.0,1
+Lenovo,Blue,4.0,6950.0,1540.0,Entry-level,2048.0,32768.0,3
+OPPO,White,4.3,17999.0,0.0,Mid-range,6144.0,131072.0,4
+realme,Silver/Gray,4.3,15499.0,1499.9999999999998,Mid-range,6144.0,131072.0,4
+realme,Blue,4.4,25999.0,2000.0,Mid-range,8192.0,131072.0,1
+Xiaomi,Black,4.4,9900.0,0.0,Entry-level,3072.0,32768.0,1
+HTC,White,3.9,8999.0,0.0,Entry-level,1024.0,8192.0,2
+Apple,Silver/Gray,4.5,48999.0,0.0,Upper mid-range,1024.0,65536.0,0
+POCO,Black,4.3,8999.0,2000.0,Mid-range,4096.0,65536.0,1
+Xiaomi,Gold/Yellow,4.2,9468.0,1031.0,Mid-range,3072.0,32768.0,1
+Apple,Silver/Gray,4.5,40999.0,0.0,Upper mid-range,1024.0,16384.0,0
+vivo,Other,4.4,11990.0,0.0,Mid-range,3072.0,65536.0,4
+GIONEE,White,3.8,9599.0,0.0,Entry-level,1024.0,8192.0,0
+OPPO,Other,4.3,13989.999999999998,4000.0,Mid-range,6144.0,131072.0,4
+OPPO,Blue,4.3,8990.0,4000.0,Mid-range,2048.0,32768.0,3
+ASUS,Black,4.1,8499.0,0.0,Entry-level,2048.0,32768.0,0
+Nokia,Black,4.1,2480.0,119.0,Entry-level,4.0,4.0,3
+OPPO,Gold/Yellow,4.4,41990.0,4000.0,Upper mid-range,12288.0,262144.0,3
+Motorola,White,4.0,5999.0,0.0,Entry-level,2048.0,16384.0,2
+SAMSUNG,Blue,4.3,18654.0,296.0,Mid-range,8192.0,131072.0,1
+Infinix,Black,4.3,12499.0,2500.0,Mid-range,4096.0,65536.0,3
+POCO,Blue,4.3,8999.0,2000.0,Mid-range,4096.0,65536.0,1
+Xiaomi,Black,4.2,9950.0,0.0,Entry-level,3072.0,32768.0,1
+Xiaomi,Black,4.4,13900.0,0.0,Mid-range,4096.0,65536.0,1
+realme,Blue,4.4,14999.0,2999.9999999999995,Mid-range,6144.0,65536.0,1
+POCO,Black,4.4,20999.0,5000.0,Mid-range,8192.0,131072.0,1
+OPPO,Black,4.4,15500.0,0.0,Mid-range,4096.0,32768.0,3
+Motorola,Blue,4.1,9869.0,0.0,Entry-level,4096.0,32768.0,3
+OPPO,Black,4.4,13490.000000000002,0.0,Mid-range,3072.0,32768.0,3
+OPPO,Blue,4.5,13499.0,0.0,Mid-range,4096.0,65536.0,3
+vivo,Black,4.3,35399.0,1501.0,Upper mid-range,6144.0,131072.0,1
+Lenovo,Black,3.9,6499.0,0.0,Entry-level,2048.0,16384.0,3
+realme,Blue,4.3,18499.0,500.0,Mid-range,8192.0,131072.0,1
+SAMSUNG,Black,4.3,14990.0,0.0,Mid-range,4096.0,65536.0,1
+Xiaomi,Black,4.3,9499.0,0.0,Entry-level,3072.0,32768.0,1
+SAMSUNG,Gold/Yellow,4.3,11700.0,0.0,Mid-range,1536.0,16384.0,1
+vivo,Black,4.5,18990.0,0.0,Mid-range,4096.0,65536.0,1
+POCO,Gold/Yellow,4.3,10999.0,1000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Other,4.1,5490.0,4210.0,Entry-level,1024.0,8192.0,4
+ASUS,Gold/Yellow,4.0,7990.000000000001,0.0,Entry-level,3072.0,32768.0,0
+vivo,Gold/Yellow,4.1,43990.0,2000.0,Upper mid-range,12288.0,262144.0,1
+Motorola,Black,4.1,14999.0,0.0,Mid-range,4096.0,65536.0,3
+Xiaomi,Silver/Gray,4.4,26823.999999999996,0.0,Mid-range,8192.0,131072.0,4
+SAMSUNG,White,3.9,21999.0,0.0,Mid-range,2048.0,16384.0,4
+SAMSUNG,Black,4.2,8490.0,0.0,Entry-level,1536.0,8192.0,1
+Nokia,Black,4.0,9599.0,0.0,Entry-level,3072.0,32768.0,3
+Nokia,Gold/Yellow,3.7,3400.0,5000.0,Entry-level,512.0,4096.0,3
+GIONEE,Black,4.0,4599.0,0.0,Entry-level,2048.0,16384.0,0
+Apple,Silver/Gray,4.5,48999.0,0.0,Upper mid-range,1024.0,131072.0,0
+Motorola,Black,4.2,8999.0,0.0,Entry-level,1024.0,16384.0,3
+LG,Other,4.0,22999.0,0.0,Mid-range,4096.0,32768.0,2
+ASUS,Other,3.8,6999.0,0.0,Entry-level,2048.0,32768.0,0
+realme,Silver/Gray,4.3,14499.0,1499.9999999999998,Mid-range,6144.0,65536.0,4
+realme,Blue,4.4,11990.0,0.0,Mid-range,4096.0,65536.0,1
+OPPO,Silver/Gray,4.3,12990.0,1000.0,Mid-range,4096.0,65536.0,4
+realme,Red,4.5,8499.0,2500.0,Mid-range,3072.0,32768.0,4
+POCO,Black,4.2,16499.0,1499.9999999999998,Mid-range,6144.0,131072.0,1
+POCO,Black,4.5,21999.0,0.0,Mid-range,6144.0,65536.0,1
+realme,Blue,4.3,11999.0,0.0,Mid-range,3072.0,32768.0,1
+SAMSUNG,Gold/Yellow,4.4,22300.0,0.0,Mid-range,4096.0,65536.0,1
+LG,Other,4.1,30990.0,0.0,Upper mid-range,4096.0,65536.0,2
+OPPO,Black,4.3,18380.0,0.0,Mid-range,6144.0,131072.0,3
+OPPO,Black,4.5,19000.0,0.0,Mid-range,4096.0,65536.0,3
+Lenovo,Gold/Yellow,4.3,16999.0,0.0,Mid-range,3072.0,32768.0,3
+vivo,Green,4.3,12900.0,0.0,Mid-range,8192.0,131072.0,1
+Lenovo,White,3.7,9999.0,0.0,Entry-level,2048.0,32768.0,2
+SAMSUNG,White,4.4,18000.0,0.0,Mid-range,4096.0,65536.0,4
+realme,Blue,4.3,16999.0,1000.0,Mid-range,6144.0,131072.0,1
+Lenovo,Other,4.1,6999.0,0.0,Entry-level,3072.0,32768.0,2
+SAMSUNG,Green,4.2,11499.0,1499.9999999999998,Mid-range,4096.0,65536.0,1
+vivo,Black,4.4,27990.0,0.0,Mid-range,3072.0,65536.0,1
+OPPO,Black,4.3,25990.0,4000.0,Upper mid-range,8192.0,131072.0,3
+Xiaomi,Other,4.4,28999.0,0.0,Mid-range,6144.0,131072.0,4
+OPPO,Silver/Gray,4.2,19990.0,1000.0,Mid-range,6144.0,131072.0,4
+realme,Silver/Gray,4.3,15999.0,1000.0,Mid-range,4096.0,131072.0,4
+LG,Blue,4.0,9990.0,0.0,Entry-level,3072.0,65536.0,3
+SAMSUNG,Red,4.0,8083.000000000001,105.0,Entry-level,3072.0,32768.0,4
+GIONEE,White,4.3,4200.0,0.0,Entry-level,1024.0,16384.0,0
+realme,Blue,4.5,9999.0,1000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,3.8,4299.0,0.0,Entry-level,512.0,4096.0,1
+POCO,Blue,4.4,11499.0,3500.0,Mid-range,6144.0,131072.0,1
+OPPO,Black,4.3,10990.0,2000.0,Mid-range,3072.0,32768.0,3
+SAMSUNG,Other,3.9,8250.0,0.0,Entry-level,1024.0,8192.0,4
+OPPO,Blue,4.2,29999.0,0.0,Upper mid-range,8192.0,131072.0,3
+SAMSUNG,Gold/Yellow,4.0,29999.0,0.0,Upper mid-range,3072.0,32768.0,1
+OPPO,Blue,4.0,9989.0,0.0,Entry-level,2048.0,32768.0,3
+SAMSUNG,Red,4.6,49989.99999999999,0.0,Upper mid-range,4096.0,65536.0,4
+vivo,Other,4.3,14500.0,0.0,Mid-range,8192.0,131072.0,4
+Lenovo,Other,4.1,7499.0,0.0,Entry-level,3072.0,32768.0,2
+OPPO,Red,4.4,9500.0,0.0,Entry-level,2048.0,16384.0,4
+Lenovo,Gold/Yellow,4.2,10999.0,0.0,Mid-range,3072.0,32768.0,3
+realme,Blue,4.4,10499.0,2500.0,Mid-range,4096.0,65536.0,1
+realme,Blue,4.4,19999.0,2000.0,Mid-range,8192.0,131072.0,1
+Nokia,Other,4.1,15299.0,0.0,Mid-range,3072.0,16384.0,2
+Motorola,Blue,4.1,7999.0,2000.0,Entry-level,4096.0,65536.0,3
+HTC,Blue,3.9,13999.000000000002,0.0,Mid-range,3072.0,32768.0,0
+Apple,Other,4.6,49900.0,0.0,Upper mid-range,4096.0,65536.0,0
+SAMSUNG,Silver/Gray,4.0,5999.0,0.0,Entry-level,1024.0,8192.0,4
+SAMSUNG,Black,4.3,15900.0,3689.9999999999995,Mid-range,6144.0,131072.0,1
+Xiaomi,Other,4.2,45871.0,0.0,Upper mid-range,8192.0,262144.0,4
+Xiaomi,White,4.3,15998.0,0.0,Mid-range,4096.0,65536.0,4
+ASUS,Blue,4.5,36299.0,0.0,Upper mid-range,6144.0,131072.0,0
+POCO,Black,4.3,28999.0,4000.0,Upper mid-range,6144.0,131072.0,1
+SAMSUNG,Black,4.3,13490.000000000002,0.0,Mid-range,3072.0,16384.0,1
+realme,Blue,4.4,9999.0,2000.0,Mid-range,3072.0,65536.0,1
+SAMSUNG,Silver/Gray,3.9,5000.0,0.0,Entry-level,512.0,4096.0,4
+ASUS,Blue,3.8,7300.000000000001,0.0,Entry-level,2048.0,32768.0,0
+realme,Other,4.4,8999.0,0.0,Entry-level,3072.0,32768.0,4
+IQOO,Silver/Gray,4.4,34990.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,2
+Lenovo,Black,3.9,8490.0,1509.0,Entry-level,4096.0,65536.0,3
+SAMSUNG,Black,4.3,24990.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Gold/Yellow,4.1,39899.0,0.0,Upper mid-range,4096.0,32768.0,1
+SAMSUNG,Blue,4.4,8990.0,1010.0,Mid-range,3072.0,32768.0,1
+POCO,Blue,4.4,15999.0,4000.0,Mid-range,6144.0,131072.0,1
+HTC,Blue,3.9,8999.0,0.0,Entry-level,1024.0,8192.0,0
+Xiaomi,Black,4.3,22189.0,0.0,Mid-range,8192.0,131072.0,1
+ASUS,Black,4.3,17999.0,0.0,Mid-range,6144.0,65536.0,0
+realme,White,4.4,13999.000000000002,1000.0,Mid-range,4096.0,65536.0,4
+POCO,Other,4.4,14999.0,2999.9999999999995,Mid-range,6144.0,65536.0,4
+SAMSUNG,Blue,4.3,17259.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Other,4.3,27499.000000000004,2999.9999999999995,Upper mid-range,6144.0,131072.0,4
+OPPO,Black,4.4,15990.000000000002,5000.0,Mid-range,4096.0,131072.0,3
+Xiaomi,Other,4.3,12990.0,2000.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,White,4.3,20999.0,5000.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Blue,4.0,8892.0,0.0,Entry-level,3072.0,32768.0,1
+SAMSUNG,Blue,4.4,16998.0,1441.0,Mid-range,6144.0,131072.0,1
+ASUS,Black,4.3,13199.0,0.0,Mid-range,3072.0,32768.0,0
+ASUS,Silver/Gray,4.3,38999.0,0.0,Upper mid-range,6144.0,131072.0,0
+ASUS,Other,4.3,15598.999999999998,0.0,Mid-range,4096.0,65536.0,0
+Xiaomi,Gold/Yellow,4.5,12349.0,650.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.2,9890.0,0.0,Entry-level,1536.0,16384.0,1
+SAMSUNG,Black,4.2,2336.0,0.0,Entry-level,4.0,2.0,1
+Infinix,Gold/Yellow,4.1,11999.0,0.0,Mid-range,4096.0,65536.0,2
+realme,Other,4.4,19999.0,1000.0,Mid-range,6144.0,131072.0,4
+OPPO,Black,4.3,21990.0,2000.0,Mid-range,8192.0,131072.0,3
+Xiaomi,Green,4.3,7798.0,0.0,Entry-level,3072.0,32768.0,1
+Xiaomi,White,4.5,20899.0,1100.0,Mid-range,6144.0,65536.0,4
+OPPO,Silver/Gray,4.0,9490.0,10.0,Entry-level,2048.0,32768.0,4
+Lenovo,Gold/Yellow,4.1,7490.0,0.0,Entry-level,3072.0,32768.0,3
+SAMSUNG,Gold/Yellow,4.2,5900.0,0.0,Entry-level,1024.0,16384.0,1
+Xiaomi,Other,4.2,9499.0,0.0,Entry-level,3072.0,32768.0,4
+Infinix,Gold/Yellow,4.1,6949.0,50.0,Entry-level,2048.0,16384.0,2
+OPPO,Blue,3.7,10490.0,0.0,Mid-range,3072.0,32768.0,3
+OPPO,Silver/Gray,4.4,9490.0,1499.9999999999998,Mid-range,3072.0,32768.0,4
+SAMSUNG,Blue,4.3,17600.0,0.0,Mid-range,4096.0,65536.0,1
+realme,White,4.4,15999.0,1000.0,Mid-range,6144.0,131072.0,4
+Google Pixel,White,4.5,44999.0,0.0,Upper mid-range,4096.0,65536.0,0
+SAMSUNG,Black,4.1,2599.0,0.0,Entry-level,512.0,2.0,1
+SAMSUNG,Black,4.3,39990.0,0.0,Upper mid-range,6144.0,131072.0,1
+SAMSUNG,Black,4.2,3499.0,0.0,Entry-level,64.0,100.0,1
+Xiaomi,Black,4.2,23999.0,2000.0,Mid-range,8192.0,131072.0,1
+SAMSUNG,Black,4.2,21999.0,0.0,Mid-range,3072.0,32768.0,1
+realme,Other,4.4,19499.0,0.0,Mid-range,8192.0,131072.0,4
+OPPO,Blue,4.4,35990.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,3
+realme,Blue,4.3,9999.0,2000.0,Mid-range,3072.0,32768.0,1
+Xiaomi,Blue,3.8,16399.0,0.0,Mid-range,6144.0,131072.0,1
+Apple,Silver/Gray,4.5,36999.0,901.0,Upper mid-range,3072.0,32768.0,0
+LG,Black,4.1,13989.999999999998,0.0,Mid-range,1024.0,8192.0,3
+realme,Silver/Gray,4.3,9999.0,2000.0,Mid-range,3072.0,32768.0,4
+Nokia,Blue,4.0,10399.0,1100.0,Mid-range,3072.0,65536.0,3
+ASUS,Other,4.3,15999.0,0.0,Mid-range,3072.0,32768.0,0
+Apple,Red,4.6,49900.0,0.0,Upper mid-range,3072.0,65536.0,0
+POCO,Blue,4.4,13999.000000000002,2999.9999999999995,Mid-range,4096.0,65536.0,1
+HTC,Other,4.1,27390.000000000004,0.0,Mid-range,1536.0,8192.0,0
+Apple,Other,4.5,39999.0,0.0,Upper mid-range,1024.0,16384.0,0
+SAMSUNG,Blue,4.4,21990.0,0.0,Mid-range,6144.0,65536.0,1
+Infinix,Black,4.2,16999.0,2999.9999999999995,Mid-range,8192.0,262144.0,3
+OPPO,Black,4.2,19990.0,1000.0,Mid-range,6144.0,131072.0,3
+GIONEE,Black,3.7,1099.0,900.0000000000001,Entry-level,8.0,16.0,0
+SAMSUNG,White,4.3,26900.0,0.0,Mid-range,4096.0,32768.0,4
+Lenovo,Other,4.0,8499.0,0.0,Entry-level,2048.0,16384.0,2
+Infinix,Blue,4.2,10399.0,0.0,Mid-range,3072.0,32768.0,3
+SAMSUNG,Gold/Yellow,4.1,17990.0,0.0,Mid-range,2048.0,16384.0,1
+Nokia,Black,3.8,3999.0,0.0,Entry-level,16.0,32768.0,3
+GIONEE,Gold/Yellow,3.8,4450.0,0.0,Entry-level,2048.0,16384.0,0
+SAMSUNG,Black,4.2,14749.0,1231.0,Mid-range,4096.0,65536.0,1
+realme,Other,4.2,8799.0,1200.0,Entry-level,4096.0,65536.0,4
+Motorola,Other,3.9,14999.0,0.0,Mid-range,3072.0,32768.0,2
+vivo,Other,4.3,32990.0,0.0,Upper mid-range,6144.0,131072.0,4
+GIONEE,Black,3.8,7150.0,0.0,Entry-level,1024.0,8192.0,0
+OPPO,Gold/Yellow,4.3,13490.000000000002,0.0,Mid-range,4096.0,65536.0,3
+SAMSUNG,Blue,4.3,13600.0,0.0,Mid-range,4096.0,65536.0,1
+HTC,Other,4.1,25999.0,0.0,Mid-range,2048.0,16384.0,0
+HTC,Other,3.7,15490.0,0.0,Mid-range,2048.0,16384.0,0
+Xiaomi,Black,4.1,17999.0,0.0,Mid-range,6144.0,131072.0,1
+realme,Blue,4.3,11499.0,1499.9999999999998,Mid-range,4096.0,65536.0,1
+OPPO,Black,4.3,24990.0,0.0,Mid-range,6144.0,65536.0,3
+OPPO,Blue,4.2,8990.0,2000.0,Mid-range,2048.0,32768.0,3
+Infinix,Gold/Yellow,4.3,8999.0,0.0,Entry-level,3072.0,32768.0,2
+realme,Gold/Yellow,4.4,8490.0,0.0,Entry-level,3072.0,32768.0,1
+OPPO,White,4.4,34990.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,4
+realme,Green,4.4,17999.0,4000.0,Mid-range,6144.0,131072.0,1
+Xiaomi,Black,4.1,18429.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Black,4.2,10990.0,0.0,Mid-range,3072.0,16384.0,1
+Apple,White,4.6,49900.0,0.0,Upper mid-range,4096.0,65536.0,0
+OPPO,Black,3.8,4999.0,2857.0,Entry-level,1024.0,16384.0,3
+realme,Blue,4.4,11999.0,0.0,Mid-range,4096.0,131072.0,1
+SAMSUNG,Black,4.3,30990.0,0.0,Upper mid-range,8192.0,131072.0,1
+realme,Silver/Gray,4.4,14999.0,1000.0,Mid-range,4096.0,65536.0,4
+Xiaomi,Blue,4.4,28999.0,0.0,Mid-range,6144.0,131072.0,1
+Apple,Gold/Yellow,4.5,49999.0,0.0,Upper mid-range,2048.0,65536.0,0
+SAMSUNG,Other,4.2,21999.0,2000.0,Mid-range,8192.0,131072.0,4
+Motorola,Black,4.2,24999.0,0.0,Mid-range,2048.0,32768.0,3
+vivo,Black,4.3,13989.999999999998,0.0,Mid-range,3072.0,32768.0,1
+SAMSUNG,Black,3.8,4199.0,0.0,Entry-level,512.0,4096.0,1
+SAMSUNG,Black,4.3,11299.0,1.0,Mid-range,4096.0,65536.0,1
+Apple,Gold/Yellow,4.6,49900.0,0.0,Upper mid-range,3072.0,65536.0,0
+Lenovo,Black,4.0,5499.0,0.0,Entry-level,2048.0,8192.0,3
+POCO,Black,4.5,28999.0,0.0,Mid-range,6144.0,262144.0,1
+SAMSUNG,Black,4.5,37499.0,3500.0,Upper mid-range,8192.0,131072.0,1
+Xiaomi,Red,4.5,10999.0,0.0,Mid-range,4096.0,65536.0,4
+realme,Red,4.6,36999.0,0.0,Upper mid-range,12288.0,262144.0,4
+OPPO,Other,4.3,18990.0,0.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Black,4.0,7999.0,2500.0,Mid-range,2048.0,32768.0,1
+HTC,White,3.9,25500.0,0.0,Mid-range,2048.0,16384.0,2
+vivo,Black,4.4,23990.0,0.0,Mid-range,4096.0,65536.0,1
+Nokia,Silver/Gray,4.0,6741.0,0.0,Entry-level,2048.0,16384.0,2
+SAMSUNG,Silver/Gray,4.1,6994.999999999999,0.0,Entry-level,1024.0,8192.0,4
+Apple,White,4.6,42999.0,4901.0,Upper mid-range,3072.0,65536.0,0
+SAMSUNG,Black,4.2,11499.0,1499.9999999999998,Mid-range,4096.0,65536.0,1
+Xiaomi,Black,3.8,22999.0,0.0,Mid-range,6144.0,65536.0,1
+GIONEE,Blue,3.8,3598.9999999999995,0.0,Entry-level,1024.0,8192.0,0
+GIONEE,Black,4.1,9599.0,0.0,Entry-level,1024.0,8192.0,0
+Infinix,Black,4.3,14999.0,0.0,Mid-range,4096.0,65536.0,3
+Xiaomi,Other,4.2,27949.999999999996,4032.9999999999995,Upper mid-range,8192.0,131072.0,4
+OPPO,Other,4.4,29999.0,0.0,Upper mid-range,8192.0,131072.0,4
+Xiaomi,Blue,4.2,21999.0,2999.9999999999995,Mid-range,6144.0,131072.0,1
+ASUS,Gold/Yellow,3.7,6999.0,0.0,Entry-level,2048.0,32768.0,0
+Xiaomi,Black,4.3,12499.0,1499.9999999999998,Mid-range,4096.0,65536.0,1
+Lenovo,Blue,4.0,15999.0,0.0,Mid-range,1024.0,16384.0,3
+ASUS,Gold/Yellow,3.8,8999.0,0.0,Entry-level,2048.0,16384.0,0
+Xiaomi,Black,4.3,25999.0,0.0,Mid-range,8192.0,133120.0,1
+SAMSUNG,Black,3.8,25900.0,0.0,Mid-range,3072.0,32768.0,1
+SAMSUNG,Black,4.2,3271.0000000000005,0.0,Entry-level,64.0,128.0,1
+Motorola,Other,4.2,20999.0,4000.0,Mid-range,6144.0,131072.0,2
+SAMSUNG,Green,4.3,15999.0,4000.0,Mid-range,6144.0,65536.0,1
+OPPO,Blue,4.3,15999.0,0.0,Mid-range,6144.0,131072.0,3
+Infinix,Black,4.4,8999.0,0.0,Entry-level,2048.0,32768.0,3
+SAMSUNG,Black,4.4,22300.0,0.0,Mid-range,4096.0,65536.0,1
+HTC,White,3.7,11810.0,0.0,Mid-range,2048.0,16384.0,2
+Nokia,Black,4.2,1659.9999999999998,40.0,Entry-level,4.0,4.0,3
+SAMSUNG,Red,3.9,7399.0,0.0,Entry-level,1024.0,16384.0,4
+Lenovo,Other,4.1,15999.0,0.0,Mid-range,2048.0,32768.0,2
+Xiaomi,Other,4.1,26295.000000000004,1100.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Black,4.1,2699.0,571.0,Entry-level,46.0,2.0,1
+realme,Red,4.4,8999.0,0.0,Entry-level,3072.0,32768.0,4
+realme,Green,4.5,17999.0,0.0,Mid-range,4096.0,65536.0,1
+ASUS,Other,3.9,5299.0,0.0,Entry-level,1024.0,8192.0,0
+SAMSUNG,Black,4.0,8897.0,0.0,Entry-level,3072.0,32768.0,1
+GIONEE,Black,3.8,2798.9999999999995,0.0,Entry-level,1024.0,16384.0,0
+realme,Green,4.3,41999.0,0.0,Upper mid-range,8192.0,131072.0,1
+OPPO,Black,4.3,12990.0,0.0,Mid-range,2048.0,32768.0,3
+ASUS,Red,3.8,6299.0,0.0,Entry-level,1024.0,8192.0,0
+SAMSUNG,Black,4.3,35999.0,2999.9999999999995,Upper mid-range,6144.0,131072.0,1
+OPPO,Blue,4.4,15990.000000000002,0.0,Mid-range,4096.0,65536.0,3
+Xiaomi,White,4.4,8299.0,700.0,Entry-level,3072.0,32768.0,4
+SAMSUNG,White,4.2,12499.0,2000.0,Mid-range,4096.0,65536.0,4
+OPPO,Silver/Gray,4.4,10490.0,1499.9999999999998,Mid-range,4096.0,65536.0,4
+vivo,Other,4.3,23990.0,0.0,Mid-range,3072.0,16384.0,4
+LG,Other,3.9,10990.0,3009.9999999999995,Mid-range,3072.0,65536.0,2
+Nokia,Blue,4.0,6400.000000000001,0.0,Entry-level,2048.0,16384.0,3
+Apple,Silver/Gray,4.5,34900.0,0.0,Upper mid-range,2048.0,131072.0,0
+Infinix,Other,4.3,9299.0,1700.0,Mid-range,4096.0,65536.0,2
+vivo,Gold/Yellow,4.4,22099.0,122.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.3,16999.0,501.00000000000006,Mid-range,6144.0,65536.0,1
+vivo,Blue,4.4,49989.99999999999,5000.0,Flagship,8192.0,262144.0,1
+HTC,White,3.9,21990.0,0.0,Mid-range,1024.0,16384.0,2
+SAMSUNG,White,4.3,15299.0,286.0,Mid-range,2048.0,16384.0,4
+Lenovo,Black,3.8,4890.0,0.0,Entry-level,1024.0,8192.0,3
+GIONEE,White,4.2,11500.0,0.0,Mid-range,1024.0,4096.0,0
+realme,Blue,4.3,7299.0,700.0,Entry-level,2048.0,32768.0,1
+Nokia,Green,4.0,8449.0,0.0,Entry-level,2048.0,32768.0,3
+Infinix,Green,4.3,14999.0,0.0,Mid-range,4096.0,65536.0,2
+Infinix,Silver/Gray,4.3,10999.0,2999.9999999999995,Mid-range,4096.0,65536.0,2
+SAMSUNG,Black,4.1,2898.9999999999995,0.0,Entry-level,32.0,2.0,1
+Xiaomi,Green,4.5,8799.0,1200.0,Entry-level,4096.0,65536.0,1
+SAMSUNG,Black,4.4,19990.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Silver/Gray,3.9,29990.0,0.0,Upper mid-range,4096.0,32768.0,4
+Infinix,Blue,4.2,10999.0,0.0,Mid-range,3072.0,32768.0,3
+SAMSUNG,White,4.2,17999.0,0.0,Mid-range,4096.0,65536.0,4
+realme,Green,4.4,7499.0,1499.9999999999998,Entry-level,2048.0,32768.0,1
+Motorola,Black,4.3,24999.0,0.0,Mid-range,6144.0,65536.0,3
+vivo,Other,4.3,11990.0,3500.0,Mid-range,8192.0,131072.0,4
+Xiaomi,Other,4.3,7999.0,0.0,Entry-level,2048.0,16384.0,4
+Lenovo,White,3.9,17999.0,0.0,Mid-range,3072.0,32768.0,2
+Nokia,Black,3.7,4399.0,0.0,Entry-level,64.0,128.0,3
+SAMSUNG,Silver/Gray,4.3,20999.0,5000.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Blue,4.3,21000.0,0.0,Mid-range,4096.0,65536.0,1
+Nokia,Black,4.0,16300.0,0.0,Mid-range,3072.0,32768.0,3
+Nokia,White,3.9,5499.0,4800.0,Mid-range,2048.0,16384.0,2
+vivo,Black,4.3,38990.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,1
+SAMSUNG,Black,4.2,6500.0,0.0,Entry-level,1024.0,8192.0,1
+OPPO,Black,4.3,13489.0,0.0,Mid-range,4096.0,131072.0,3
+Infinix,Green,4.3,12499.0,2500.0,Mid-range,4096.0,65536.0,2
+realme,Blue,4.4,9499.0,2500.0,Mid-range,4096.0,65536.0,1
+GIONEE,Blue,4.1,9999.0,0.0,Entry-level,1024.0,16384.0,0
+ASUS,Silver/Gray,3.9,8499.0,0.0,Entry-level,2048.0,16384.0,0
+realme,Silver/Gray,4.3,11999.0,0.0,Mid-range,3072.0,32768.0,4
+realme,Blue,4.5,17999.0,2999.9999999999995,Mid-range,6144.0,131072.0,1
+HTC,White,3.8,17200.0,0.0,Mid-range,1024.0,4096.0,2
+SAMSUNG,Blue,4.3,12900.0,0.0,Mid-range,3072.0,32768.0,1
+Nokia,Black,4.2,2149.0,0.0,Entry-level,4.0,4.0,3
+OPPO,Gold/Yellow,4.4,15725.999999999998,0.0,Mid-range,4096.0,65536.0,3
+realme,Black,4.4,12999.0,2000.0,Mid-range,4096.0,65536.0,1
+Infinix,Other,4.3,10999.0,2999.9999999999995,Mid-range,4096.0,65536.0,2
+SAMSUNG,Black,4.1,36900.0,0.0,Upper mid-range,3072.0,32768.0,1
+Nokia,Black,3.9,19499.0,0.0,Mid-range,4096.0,65536.0,3
+SAMSUNG,Blue,4.3,11000.0,0.0,Mid-range,3072.0,32768.0,1
+GIONEE,White,3.8,2999.0,0.0,Entry-level,1024.0,8192.0,0
+OPPO,Gold/Yellow,4.2,12500.0,0.0,Mid-range,3072.0,16384.0,3
+Xiaomi,Green,4.2,26999.000000000004,5000.0,Upper mid-range,6144.0,131072.0,1
+realme,Black,4.4,13999.000000000002,2000.0,Mid-range,6144.0,65536.0,1
+LG,Blue,4.2,29789.999999999996,0.0,Upper mid-range,4096.0,65536.0,3
+Google Pixel,White,4.5,39999.0,0.0,Upper mid-range,4096.0,65536.0,0
+OPPO,White,4.3,15999.0,0.0,Mid-range,6144.0,131072.0,4
+Nokia,Black,4.1,11999.0,0.0,Mid-range,3072.0,32768.0,3
+GIONEE,Blue,4.0,6999.0,0.0,Entry-level,3072.0,16384.0,0
+Xiaomi,Blue,4.2,23999.0,2000.0,Mid-range,8192.0,131072.0,1
+GIONEE,Blue,4.1,6989.999999999999,0.0,Entry-level,2048.0,16384.0,0
+realme,White,4.3,17999.0,2999.9999999999995,Mid-range,8192.0,131072.0,4
+SAMSUNG,Gold/Yellow,4.0,14500.0,0.0,Mid-range,2048.0,16384.0,1
+Xiaomi,Other,4.3,12999.0,0.0,Mid-range,4096.0,65536.0,4
+Motorola,White,4.1,14999.0,0.0,Mid-range,4096.0,65536.0,2
+OPPO,White,4.4,19990.0,0.0,Mid-range,6144.0,262144.0,4
+GIONEE,Gold/Yellow,3.9,8990.0,0.0,Entry-level,3072.0,65536.0,0
+Apple,Black,4.6,47999.0,4901.0,Flagship,3072.0,131072.0,0
+Xiaomi,White,4.4,12990.0,2000.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Other,4.6,49999.0,0.0,Upper mid-range,6144.0,65536.0,4
+Nokia,Black,4.2,1400.0,0.0,Entry-level,4.0,4.0,3
+OPPO,Blue,4.3,15490.0,3500.0,Mid-range,4096.0,65536.0,3
+ASUS,Silver/Gray,4.3,14999.0,0.0,Mid-range,4096.0,65536.0,0
+Xiaomi,Green,4.4,10499.0,1499.9999999999998,Mid-range,4096.0,65536.0,1
+Motorola,Gold/Yellow,4.1,12999.0,0.0,Mid-range,3072.0,32768.0,3
+OPPO,Black,4.3,11779.0,140.0,Mid-range,4096.0,65536.0,3
+realme,Red,4.4,8499.0,500.0,Entry-level,3072.0,32768.0,4
+OPPO,Blue,4.3,21990.0,0.0,Mid-range,8192.0,131072.0,3
+vivo,Other,4.3,18990.0,0.0,Mid-range,3072.0,16384.0,4
+Nokia,Black,4.2,1490.0,0.0,Entry-level,4.0,4.0,3
+SAMSUNG,Other,3.9,46900.0,0.0,Upper mid-range,4096.0,32768.0,4
+realme,Black,4.3,18499.0,500.0,Mid-range,8192.0,131072.0,1
+SAMSUNG,Gold/Yellow,4.2,10990.0,0.0,Mid-range,3072.0,32768.0,1
+HTC,Blue,3.9,12999.0,0.0,Mid-range,3072.0,32768.0,0
+GIONEE,Black,3.8,7299.0,2700.0,Entry-level,3072.0,32768.0,0
+Xiaomi,Gold/Yellow,4.5,6999.0,0.0,Entry-level,2048.0,32768.0,1
+OPPO,Black,4.0,8990.0,2000.0,Mid-range,2048.0,32768.0,3
+SAMSUNG,Black,3.9,4999.0,0.0,Entry-level,1024.0,16384.0,1
+realme,Blue,4.4,16999.0,1000.0,Mid-range,8192.0,131072.0,1
+POCO,Other,4.5,19999.0,0.0,Mid-range,6144.0,131072.0,4
+Infinix,Black,4.2,7999.0,0.0,Entry-level,2048.0,32768.0,3
+SAMSUNG,Red,4.1,9999.0,491.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Blue,4.3,20999.0,5000.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Black,4.1,17990.0,0.0,Mid-range,2048.0,16384.0,1
+OPPO,Green,4.4,25889.0,0.0,Mid-range,8192.0,131072.0,3
+POCO,Black,4.4,18999.0,2999.9999999999995,Mid-range,8192.0,131072.0,1
+SAMSUNG,Blue,4.3,14090.0,1410.0,Mid-range,4096.0,65536.0,1
+Nokia,Black,4.2,1500.0,0.0,Entry-level,4.0,4.0,3
+POCO,Blue,4.4,17999.0,4000.0,Mid-range,8192.0,131072.0,1
+Nokia,Other,4.2,14927.0,0.0,Mid-range,3072.0,32768.0,2
+realme,White,4.5,9999.0,1000.0,Mid-range,4096.0,65536.0,4
+realme,Blue,4.4,8499.0,500.0,Entry-level,3072.0,32768.0,1
+OPPO,Black,4.3,20990.0,0.0,Mid-range,4096.0,65536.0,3
+LG,Green,3.9,10990.0,3009.9999999999995,Mid-range,3072.0,65536.0,2
+Xiaomi,Other,4.5,9199.0,91.0,Entry-level,3072.0,65536.0,4
+Infinix,Other,4.3,12499.0,2500.0,Mid-range,4096.0,65536.0,2
+Infinix,Black,4.3,10999.0,2999.9999999999995,Mid-range,6144.0,65536.0,3
+Xiaomi,Green,4.5,8498.0,0.0,Entry-level,3072.0,32768.0,1
+Xiaomi,Gold/Yellow,4.2,10990.0,0.0,Mid-range,4096.0,65536.0,1
+Lenovo,Other,4.1,12499.0,0.0,Mid-range,4096.0,32768.0,2
+OPPO,Black,4.3,17990.0,1000.0,Mid-range,8192.0,131072.0,3
+POCO,Gold/Yellow,4.5,14999.0,2000.0,Mid-range,4096.0,65536.0,1
+realme,Silver/Gray,4.3,17999.0,1000.0,Mid-range,8192.0,131072.0,4
+vivo,Black,4.4,18990.0,0.0,Mid-range,4096.0,65536.0,1
+Xiaomi,White,4.2,19119.0,0.0,Mid-range,6144.0,132096.0,4
+SAMSUNG,Blue,4.2,12144.0,0.0,Mid-range,4096.0,65536.0,1
+Motorola,White,4.4,17499.0,2500.0,Mid-range,6144.0,131072.0,2
+OPPO,White,4.4,18990.0,4000.0,Mid-range,8192.0,131072.0,4
+SAMSUNG,Gold/Yellow,3.9,29990.0,0.0,Upper mid-range,4096.0,32768.0,1
+SAMSUNG,Black,4.3,16750.0,50.0,Mid-range,6144.0,131072.0,1
+Xiaomi,Blue,4.3,22650.0,1548.0000000000002,Mid-range,6144.0,131072.0,1
+realme,Black,4.4,20999.0,2999.9999999999995,Mid-range,8192.0,131072.0,1
+Lenovo,White,3.8,8999.0,0.0,Entry-level,2048.0,16384.0,2
+SAMSUNG,Black,4.1,2299.0,0.0,Entry-level,10.0,2.0,1
+ASUS,Blue,4.3,17999.0,0.0,Mid-range,4096.0,65536.0,0
+Nokia,Black,4.2,2499.0,0.0,Entry-level,16.0,16.0,3
+POCO,Blue,4.5,14999.0,2000.0,Mid-range,4096.0,65536.0,1
+POCO,Red,4.5,21499.0,1499.9999999999998,Mid-range,8192.0,262144.0,4
+realme,White,4.4,12999.0,2000.0,Mid-range,4096.0,65536.0,4
+Infinix,Green,4.3,13999.000000000002,2999.9999999999995,Mid-range,6144.0,65536.0,2
+Apple,Silver/Gray,4.5,42900.0,0.0,Upper mid-range,3072.0,131072.0,0
+vivo,Other,4.4,14500.0,0.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Blue,4.2,14690.0,0.0,Mid-range,4096.0,65536.0,1
+OPPO,Green,4.1,17790.0,0.0,Mid-range,6144.0,131072.0,3
+Infinix,Black,4.3,9999.0,0.0,Entry-level,4096.0,65536.0,3
+SAMSUNG,Blue,4.1,10398.0,0.0,Mid-range,4096.0,65536.0,1
+OPPO,Black,4.3,20990.0,0.0,Mid-range,8192.0,131072.0,3
+Nokia,Black,3.7,3896.0000000000005,103.0,Entry-level,64.0,128.0,3
+GIONEE,Gold/Yellow,4.1,14999.0,0.0,Mid-range,3072.0,65536.0,0
+SAMSUNG,Black,4.2,3779.9999999999995,0.0,Entry-level,64.0,128.0,1
+SAMSUNG,Black,4.2,2089.0,0.0,Entry-level,32.0,2.0,1
+Lenovo,Black,3.8,19999.0,0.0,Mid-range,4096.0,65536.0,3
+OPPO,Gold/Yellow,4.0,27499.999999999996,0.0,Mid-range,4096.0,65536.0,3
+Infinix,Red,4.4,11999.0,0.0,Mid-range,4096.0,65536.0,2
+Xiaomi,Black,4.4,11499.0,2500.0,Mid-range,4096.0,65536.0,1
+OPPO,Other,4.3,15000.0,0.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Black,4.2,2282.0,0.0,Entry-level,4.0,2.0,1
+realme,Blue,4.4,12499.0,1499.9999999999998,Mid-range,4096.0,32768.0,1
+SAMSUNG,White,4.1,6798.999999999999,0.0,Entry-level,1024.0,8192.0,4
+Lenovo,Black,4.1,12999.0,0.0,Mid-range,4096.0,65536.0,3
+ASUS,Other,4.3,17999.0,0.0,Mid-range,6144.0,65536.0,0
+Lenovo,Other,4.3,17999.0,0.0,Mid-range,4096.0,32768.0,2
+SAMSUNG,Black,4.3,14000.0,0.0,Mid-range,4096.0,65536.0,1
+ASUS,Other,4.3,13199.0,0.0,Mid-range,3072.0,32768.0,0
+Motorola,Other,4.2,17999.0,4000.0,Mid-range,6144.0,131072.0,2
+SAMSUNG,Black,4.3,15499.0,2500.0,Mid-range,4096.0,131072.0,1
+GIONEE,White,3.8,4790.0,0.0,Entry-level,8192.0,2.0,0
+OPPO,White,4.1,10490.0,0.0,Mid-range,3072.0,32768.0,4
+realme,White,4.4,25999.0,2000.0,Mid-range,8192.0,131072.0,4
+Motorola,Black,4.3,23999.0,0.0,Mid-range,4096.0,65536.0,3
+Infinix,Black,4.3,11999.0,2999.9999999999995,Mid-range,4096.0,131072.0,3
+SAMSUNG,White,4.2,14999.0,0.0,Mid-range,4096.0,131072.0,4
+SAMSUNG,Black,4.3,18999.0,0.0,Mid-range,6144.0,131072.0,1
+Lenovo,Gold/Yellow,4.1,8499.0,0.0,Entry-level,4096.0,65536.0,3
+Xiaomi,Black,4.4,13989.999999999998,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,White,4.2,10499.0,1000.0,Mid-range,4096.0,65536.0,4
+realme,White,4.5,17999.0,0.0,Mid-range,4096.0,65536.0,4
+Motorola,Other,3.7,10999.0,0.0,Mid-range,3072.0,32768.0,2
+Xiaomi,Gold/Yellow,4.3,14999.0,0.0,Mid-range,6144.0,65536.0,1
+SAMSUNG,Silver/Gray,4.0,7200.000000000001,0.0,Entry-level,1536.0,8192.0,4
+ASUS,Other,4.1,8690.0,0.0,Entry-level,3072.0,32768.0,0
+SAMSUNG,Gold/Yellow,3.8,25900.0,0.0,Mid-range,3072.0,32768.0,1
+SAMSUNG,Other,4.3,19979.0,2519.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Blue,4.4,41900.0,0.0,Upper mid-range,4096.0,32768.0,1
+vivo,White,4.4,20600.0,0.0,Mid-range,4096.0,131072.0,4
+vivo,Blue,4.5,23400.0,590.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.2,6999.0,0.0,Entry-level,1024.0,16384.0,1
+Xiaomi,Black,3.8,14949.0,0.0,Mid-range,6144.0,131072.0,1
+OPPO,Black,4.3,30990.0,0.0,Upper mid-range,4096.0,65536.0,3
+realme,Blue,4.5,14999.0,1000.0,Mid-range,6144.0,65536.0,1
+Lenovo,Other,3.7,9799.0,0.0,Entry-level,3072.0,32768.0,2
+LG,Black,4.0,7799.000000000001,0.0,Entry-level,2048.0,16384.0,3
+realme,Blue,4.5,31999.000000000004,0.0,Upper mid-range,8192.0,131072.0,1
+ASUS,Black,4.2,7199.0,0.0,Entry-level,2048.0,16384.0,0
+OPPO,Gold/Yellow,4.2,18000.0,0.0,Mid-range,3072.0,32768.0,3
+GIONEE,Gold/Yellow,3.9,11499.0,0.0,Mid-range,3072.0,32768.0,0
+Lenovo,Gold/Yellow,3.7,9795.0,0.0,Entry-level,2048.0,16384.0,3
+SAMSUNG,Blue,4.4,18990.0,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.1,19999.0,0.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Blue,4.4,18000.0,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Gold/Yellow,4.5,14990.0,0.0,Mid-range,4096.0,65536.0,1
+vivo,Blue,4.4,36990.0,0.0,Upper mid-range,3072.0,65536.0,1
+SAMSUNG,Black,4.4,28999.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,1
+GIONEE,Blue,4.1,9490.0,0.0,Entry-level,3072.0,32768.0,0
+SAMSUNG,Black,4.2,2025.0000000000002,0.0,Entry-level,16.0,2.0,1
+Lenovo,Gold/Yellow,4.1,6989.999999999999,0.0,Entry-level,3072.0,32768.0,3
+OPPO,Other,4.5,11990.0,4000.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Black,4.0,39999.0,0.0,Upper mid-range,3072.0,65536.0,1
+realme,Silver/Gray,4.3,11499.0,2500.0,Mid-range,4096.0,131072.0,4
+SAMSUNG,Blue,4.3,27810.0,0.0,Mid-range,6144.0,131072.0,1
+Infinix,Blue,4.1,7946.000000000001,53.0,Entry-level,3072.0,32768.0,3
+SAMSUNG,Gold/Yellow,4.3,14990.0,0.0,Mid-range,3072.0,32768.0,1
+Infinix,Other,4.2,9999.0,0.0,Entry-level,4096.0,65536.0,2
+realme,Silver/Gray,4.4,10999.0,2000.0,Mid-range,4096.0,65536.0,4
+realme,Black,4.4,10499.0,500.0,Mid-range,4096.0,65536.0,1
+realme,Green,4.3,7499.0,500.0,Entry-level,2048.0,32768.0,1
+realme,White,4.5,8999.0,1000.0,Entry-level,3072.0,32768.0,4
+SAMSUNG,Other,4.3,35999.0,2999.9999999999995,Upper mid-range,6144.0,131072.0,4
+Nokia,Black,4.1,2200.0,0.0,Entry-level,8.0,32768.0,3
+HTC,Black,4.0,9900.0,0.0,Entry-level,1024.0,16384.0,0
+HTC,Other,4.1,23999.0,0.0,Mid-range,1024.0,16384.0,0
+Apple,Silver/Gray,4.4,49999.0,0.0,Upper mid-range,2048.0,16384.0,0
+Lenovo,Black,4.1,13999.000000000002,0.0,Mid-range,4096.0,65536.0,3
+SAMSUNG,Black,4.3,18499.0,2000.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,White,3.9,14999.0,0.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Black,4.1,3061.9999999999995,0.0,Entry-level,32.0,16384.0,1
+Nokia,Other,4.0,5999.0,880.0,Entry-level,512.0,140.0,2
+SAMSUNG,Blue,4.3,21950.0,0.0,Mid-range,8192.0,131072.0,1
+Xiaomi,Blue,4.5,14450.0,449.0,Mid-range,4096.0,65536.0,1
+POCO,Blue,4.5,15999.0,4000.0,Mid-range,6144.0,131072.0,1
+Xiaomi,Gold/Yellow,4.5,15998.0,0.0,Mid-range,4096.0,131072.0,1
+SAMSUNG,Green,4.4,9840.0,0.0,Entry-level,2048.0,32768.0,1
+Xiaomi,Red,4.5,21349.0,0.0,Mid-range,6144.0,131072.0,4
+Nokia,Green,4.1,19999.0,0.0,Mid-range,4096.0,65536.0,3
+realme,Black,4.3,17999.0,2000.0,Mid-range,6144.0,131072.0,1
+SAMSUNG,Black,4.3,11490.0,1410.0,Mid-range,3072.0,32768.0,1
+vivo,Blue,4.5,19990.0,0.0,Mid-range,6144.0,65536.0,1
+Infinix,Blue,4.3,10999.0,0.0,Mid-range,4096.0,65536.0,3
+Xiaomi,Gold/Yellow,4.3,7499.0,0.0,Entry-level,2048.0,32768.0,1
+SAMSUNG,Other,4.3,16999.0,2500.0,Mid-range,6144.0,131072.0,4
+Nokia,Black,4.3,40699.0,0.0,Upper mid-range,1024.0,32768.0,3
+realme,Black,4.3,19999.0,2000.0,Mid-range,8192.0,131072.0,1
+GIONEE,White,3.7,5555.0,0.0,Entry-level,3072.0,16384.0,0
+SAMSUNG,Blue,4.3,14999.0,2000.0,Mid-range,6144.0,131072.0,1
+Infinix,Green,4.2,10999.0,2999.9999999999995,Mid-range,4096.0,65536.0,2
+SAMSUNG,White,4.4,29899.0,0.0,Upper mid-range,8192.0,131072.0,4
+Nokia,Black,3.9,5290.0,0.0,Entry-level,2048.0,16384.0,3
+OPPO,Other,4.3,13489.0,0.0,Mid-range,4096.0,131072.0,4
+ASUS,Black,3.9,5299.0,0.0,Entry-level,1024.0,8192.0,0
+Xiaomi,Blue,4.2,18778.0,212.0,Mid-range,6144.0,131072.0,1
+ASUS,Red,3.7,5299.0,0.0,Entry-level,1024.0,8192.0,0
+vivo,Gold/Yellow,4.5,20990.0,0.0,Mid-range,4096.0,65536.0,1
+Infinix,Blue,4.1,6949.0,50.0,Entry-level,2048.0,16384.0,3
+Nokia,Black,4.2,1560.0,0.0,Entry-level,4.0,4.0,3
+SAMSUNG,Blue,4.3,12999.0,2000.0,Mid-range,4096.0,65536.0,1
+HTC,Blue,3.7,26999.000000000004,0.0,Mid-range,2048.0,16384.0,0
+Nokia,Other,3.9,14499.0,4000.0,Mid-range,6144.0,65536.0,2
+SAMSUNG,Other,4.3,11699.0,0.0,Mid-range,4096.0,65536.0,4
+vivo,White,4.1,16490.0,3500.0,Mid-range,4096.0,131072.0,4
+SAMSUNG,White,3.7,7999.0,0.0,Entry-level,1024.0,8192.0,4
+POCO,Other,4.5,21499.0,1499.9999999999998,Mid-range,8192.0,262144.0,4
+SAMSUNG,Other,4.1,15490.0,0.0,Mid-range,6144.0,131072.0,4
+GIONEE,Black,3.9,2490.0,0.0,Entry-level,64.0,128.0,0
+vivo,Blue,4.4,19490.0,3500.0,Mid-range,4096.0,32768.0,1
+Infinix,Red,4.2,9999.0,0.0,Entry-level,3072.0,32768.0,2
+GIONEE,Blue,4.1,6299.0,1691.0,Entry-level,2048.0,32768.0,0
+Lenovo,Silver/Gray,4.3,13604.0,0.0,Mid-range,1024.0,8192.0,2
+SAMSUNG,Black,4.3,14069.0,1431.0,Mid-range,4096.0,65536.0,1
+Lenovo,Other,3.7,9229.0,0.0,Entry-level,3072.0,32768.0,2
+Motorola,Silver/Gray,4.2,20999.0,4000.0,Mid-range,6144.0,131072.0,2
+ASUS,Blue,3.8,5699.0,0.0,Entry-level,1024.0,8192.0,0
+SAMSUNG,Black,4.0,3000.0,0.0,Entry-level,32.0,2.0,1
+ASUS,Black,4.3,15598.999999999998,0.0,Mid-range,4096.0,65536.0,0
+SAMSUNG,Black,4.2,12499.0,2000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Blue,4.2,15999.0,0.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,White,4.2,10990.0,0.0,Mid-range,2048.0,16384.0,4
+Xiaomi,Black,4.2,8799.0,1200.0,Entry-level,4096.0,65536.0,1
+OPPO,Black,4.3,23490.0,2500.0,Mid-range,8192.0,262144.0,3
+SAMSUNG,Silver/Gray,4.1,5490.0,0.0,Entry-level,1024.0,8192.0,4
+ASUS,Black,4.1,6999.0,0.0,Entry-level,2048.0,32768.0,0
+Lenovo,White,3.8,19999.0,0.0,Mid-range,4096.0,65536.0,2
+realme,White,4.5,17999.0,0.0,Mid-range,4096.0,131072.0,4
+Lenovo,Black,3.8,3549.0,0.0,Entry-level,1024.0,8192.0,3
+GIONEE,Blue,3.9,5499.0,0.0,Entry-level,2048.0,32768.0,0
+GIONEE,Black,4.1,6660.0,1330.0,Entry-level,3072.0,32768.0,0
+SAMSUNG,Other,4.1,22999.0,2999.9999999999995,Mid-range,8192.0,131072.0,4
+Motorola,Gold/Yellow,4.2,11999.0,0.0,Mid-range,3072.0,32768.0,3
+Nokia,Black,4.0,2999.0,0.0,Entry-level,8.0,2.0,3
+GIONEE,Gold/Yellow,3.8,4190.0,0.0,Entry-level,1024.0,16384.0,0
+Motorola,Other,4.3,12000.0,0.0,Mid-range,2048.0,16384.0,2
+Nokia,Blue,3.9,4800.0,0.0,Entry-level,1024.0,8192.0,3
+OPPO,White,4.3,20990.0,0.0,Mid-range,8192.0,131072.0,4
+SAMSUNG,Blue,4.4,28999.0,2999.9999999999995,Upper mid-range,8192.0,131072.0,1
+vivo,Black,4.4,34990.0,2999.9999999999995,Upper mid-range,12288.0,262144.0,1
+realme,Blue,4.3,11499.0,2500.0,Mid-range,4096.0,131072.0,1
+SAMSUNG,Blue,4.3,17845.0,154.0,Mid-range,6144.0,131072.0,1
+Xiaomi,White,4.4,13999.000000000002,0.0,Mid-range,4096.0,65536.0,4
+SAMSUNG,Black,4.2,11290.0,1200.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,White,4.3,21000.0,0.0,Mid-range,4096.0,65536.0,4
+Lenovo,Silver/Gray,4.1,12499.0,0.0,Mid-range,4096.0,32768.0,2
+OPPO,White,4.3,12199.0,120.0,Mid-range,4096.0,65536.0,4
+realme,White,4.4,13999.000000000002,2000.0,Mid-range,6144.0,65536.0,4
+Xiaomi,Red,4.1,13499.0,3500.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,White,4.0,6189.999999999999,0.0,Entry-level,512.0,4096.0,4
+Infinix,Black,4.2,10999.0,2999.9999999999995,Mid-range,4096.0,65536.0,3
+Xiaomi,Black,4.5,15999.0,0.0,Mid-range,6144.0,65536.0,1
+vivo,Gold/Yellow,4.4,17990.0,0.0,Mid-range,4096.0,32768.0,1
+SAMSUNG,Black,4.4,29899.0,0.0,Upper mid-range,8192.0,131072.0,1
+OPPO,Blue,4.4,38990.0,1000.0,Upper mid-range,8192.0,262144.0,3
+SAMSUNG,Black,4.3,10848.0,442.0,Mid-range,3072.0,32768.0,1
+Motorola,Blue,4.3,23999.0,0.0,Mid-range,4096.0,65536.0,3
+vivo,Blue,4.4,32990.0,0.0,Upper mid-range,3072.0,32768.0,1
+Lenovo,Black,3.8,7700.0,0.0,Entry-level,1024.0,8192.0,3
+Infinix,Green,4.3,15999.0,2999.9999999999995,Mid-range,8192.0,131072.0,2
+SAMSUNG,White,4.1,16999.0,0.0,Mid-range,6144.0,131072.0,4
+Infinix,Green,4.3,11999.0,2999.9999999999995,Mid-range,4096.0,131072.0,2
+realme,Silver/Gray,4.3,19999.0,2000.0,Mid-range,8192.0,131072.0,4
+POCO,Red,4.5,15999.0,4000.0,Mid-range,6144.0,131072.0,4
+Infinix,Blue,4.2,10999.0,0.0,Mid-range,6144.0,65536.0,3
+SAMSUNG,Black,4.1,2848.9999999999995,0.0,Entry-level,32.0,16384.0,1
+Nokia,Black,4.2,1900.0,0.0,Entry-level,4.0,4.0,3
+realme,Blue,4.5,10999.0,2000.0,Mid-range,4096.0,65536.0,1
+SAMSUNG,Black,4.3,11599.0,1300.9999999999998,Mid-range,3072.0,32768.0,1
+Xiaomi,Black,4.4,10499.0,1499.9999999999998,Mid-range,4096.0,65536.0,1
+ASUS,Blue,4.5,32999.0,0.0,Upper mid-range,6144.0,65536.0,0
+Infinix,Blue,4.4,12999.0,0.0,Mid-range,4096.0,65536.0,3
+realme,Green,4.5,19999.0,0.0,Mid-range,6144.0,131072.0,1
+Motorola,Other,4.1,10499.0,2500.0,Mid-range,4096.0,65536.0,2
+OPPO,Silver/Gray,4.2,8990.0,2000.0,Mid-range,2048.0,32768.0,4
+ASUS,Blue,4.3,14999.0,0.0,Mid-range,4096.0,65536.0,0
+Nokia,Black,3.7,3162.0000000000005,137.0,Entry-level,64.0,128.0,3
+vivo,Other,4.3,34990.0,5000.0,Upper mid-range,2048.0,32768.0,4
+Xiaomi,Other,4.4,24798.000000000004,0.0,Mid-range,6144.0,131072.0,4
+SAMSUNG,Black,4.3,2340.0,0.0,Entry-level,4.0,2.0,1
+realme,Black,4.4,11990.0,0.0,Mid-range,4096.0,65536.0,1
+OPPO,Red,4.3,8490.0,4910.0,Mid-range,2048.0,32768.0,4
+Infinix,Black,4.3,8299.0,1700.0,Entry-level,3072.0,32768.0,3
+LG,Black,3.8,20000.0,0.0,Mid-range,3072.0,32768.0,3
+SAMSUNG,Black,4.0,5999.0,0.0,Entry-level,512.0,4096.0,1
+SAMSUNG,Black,4.2,2299.0,0.0,Entry-level,4.0,2.0,1
+POCO,Blue,4.4,16999.0,2999.9999999999995,Mid-range,6144.0,131072.0,1
+GIONEE,Blue,4.2,7899.999999999999,0.0,Entry-level,3072.0,32768.0,0
